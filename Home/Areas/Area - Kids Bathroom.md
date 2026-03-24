@@ -1,0 +1,22 @@
+# Area - Kids Bathroom
+
+## Summary
+Bathroom used by the kids, including fixtures, wall finishes, accessories, and common wear-and-tear items.
+
+## Known issues
+- Drywall hole where the toilet paper holder was pulled out
+
+## Measurements / details
+- 
+
+## Materials / models
+- 
+
+## Related projects
+- [[Home/Projects/Active/Project - Kids Bathroom Drywall Repair]]
+
+## Maintenance history
+- 
+
+## Notes
+- Toilet paper holder mounting area may need stronger anchoring after repair.
