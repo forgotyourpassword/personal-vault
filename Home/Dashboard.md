@@ -4,6 +4,11 @@ A simple control panel for house projects, decisions, and maintenance.
 
 ## Active projects
 - [[Home/Projects/Active/Project - Kids Bathroom Drywall Repair]]
+- [[Home/Projects/Active/Project - Take Old Bed to Dump]]
+- [[Home/Projects/Active/Project - Replace Loose Toilet Paper Holder in Master Bathroom]]
+- [[Home/Projects/Active/Project - Renovate Kids Bathroom]]
+- [[Home/Projects/Active/Project - Replace Top Floor Carpet with LVP]]
+- [[Home/Projects/Active/Project - Patch and Paint Living Room Ceiling Water Spots]]
 
 ## Waiting on
 - Quotes
@@ -24,6 +29,10 @@ When something comes up, choose one:
 - [[Home/Areas/Area - Basement]]
 - [[Home/Areas/Area - Plumbing]]
 - [[Home/Areas/Area - Electrical]]
+- [[Home/Areas/Area - Top Floor]]
+- [[Home/Areas/Area - Flooring]]
+- [[Home/Areas/Area - Master Bathroom]]
+- [[Home/Areas/Area - Living Room]]
 
 ## Review rhythm
 ### Weekly

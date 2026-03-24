@@ -14,6 +14,7 @@ Bathroom used by the kids, including fixtures, wall finishes, accessories, and c
 
 ## Related projects
 - [[Home/Projects/Active/Project - Kids Bathroom Drywall Repair]]
+- [[Home/Projects/Active/Project - Renovate Kids Bathroom]]
 
 ## Maintenance history
 - 

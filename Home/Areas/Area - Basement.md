@@ -13,7 +13,7 @@ Foundation-adjacent space, storage, moisture concerns, finishes, utilities, and 
 - 
 
 ## Related projects
-- 
+- [[Home/Projects/Active/Project - Take Old Bed to Dump]]
 
 ## Maintenance history
 - 
