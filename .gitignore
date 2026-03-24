@@ -1,5 +1,6 @@
 .obsidian/workspace*
-.obsidian/cache
+.obsidian/cache/
+.obsidian/community-plugins.json~
 .obsidian/plugins/*/data.json
 .trash/
 *.tmp
