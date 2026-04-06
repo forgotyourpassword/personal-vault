@@ -12,6 +12,7 @@ My persistent memory, replaced by these individual files. Search with `search_fi
 | [[04 - Communication]] | Telegram, bot tokens, channels |
 | [[05 - Conventions]] | How I should work, preferences, patterns |
 | [[06 - Lessons Learned]] | Troubleshooting notes, gotchas, workflows |
+| [[07 - Providers]] | Model providers, API keys, fallback config |
 
 ## Updating
 - **Add**: write new files in this directory, prefix with number and dashes
