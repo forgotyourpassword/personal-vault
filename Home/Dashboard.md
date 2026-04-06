@@ -9,6 +9,8 @@ A simple control panel for house projects, decisions, and maintenance.
 - [[Home/Projects/Active/Project - Renovate Kids Bathroom]]
 - [[Home/Projects/Active/Project - Replace Top Floor Carpet with LVP]]
 - [[Home/Projects/Active/Project - Patch and Paint Living Room Ceiling Water Spots]]
+- [[Home/Projects/Active/Project - Clean Walls Throughout House]]
+- [[Home/Projects/Active/Project - Weed and Clean Up Backyard Hill]]
 
 ## Waiting on
 - Quotes
@@ -33,6 +35,8 @@ When something comes up, choose one:
 - [[Home/Areas/Area - Flooring]]
 - [[Home/Areas/Area - Master Bathroom]]
 - [[Home/Areas/Area - Living Room]]
+- [[Home/Areas/Area - Whole House]]
+- [[Home/Areas/Area - Backyard]]
 
 ## Review rhythm
 ### Weekly

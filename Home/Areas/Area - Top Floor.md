@@ -5,6 +5,7 @@ Upstairs living/sleeping area, including rooms, hallways, finishes, and flooring
 
 ## Known issues
 - Existing top floor carpet is a candidate for replacement
+- Years of wall splatter/buildup are especially noticeable upstairs under UV light
 
 ## Measurements / details
 - 
