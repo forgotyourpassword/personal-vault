@@ -21,4 +21,13 @@ Personal database of items I own. Used for reference when planning trips, projec
 | [[60L Framed Backpack]] | Backpacks & Bags | Larger capacity, better for heavy loads |
 | [[Backpack Hammock]] | Camping & Outdoor Gear | Compresses for pack carry |
 
-*Last updated: 2026-04-09*
+| [[Running Shoes]] | Fitness & Sports | Road + trail, brand TBD |
+| [[Dumbbells (20 lb and 25 lb)]] | Fitness & Sports | Fixed weight pairs |
+| [[Weighted Vest]] | Fitness & Sports | Up to 60 lbs adjustable |
+| [[Gymnastics Rings]] | Fitness & Sports | Suspension training |
+| [[Resistance Bands]] | Fitness & Sports | ALLVOCLES 4-piece set, 5–100 lbs, 2 sets |
+| [[Punching Bag]] | Fitness & Sports | Cardio/conditioning |
+| [[Echelon Indoor Bike]] | Fitness & Sports | Connected smart bike |
+| [[Garmin Fenix 6X]] | Fitness & Sports | GPS multisport watch |
+
+*Last updated: 2026-04-10*
