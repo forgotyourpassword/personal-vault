@@ -4,3 +4,4 @@
 .obsidian/plugins/*/data.json
 .trash/
 *.tmp
+30-Resources/Hermes/Journal-KPI/__pycache__/
