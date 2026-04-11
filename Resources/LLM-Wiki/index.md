@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-07 | Total pages: 7
+> Last updated: 2026-04-10 | Total pages: 8
 
 ## Concepts
 - [[agentic-ai-adoption]] — AI agents that set goals and act autonomously; 74% plan deployment within 2 years
@@ -14,7 +14,7 @@
 - [[workforce-automation]] — Job automation expectations, worker sentiment, and talent strategy impacts
 
 ## Entities
-_(none yet)_
+- [[claude-managed-agents]] — Anthropic's managed API platform for deploying production-grade AI agents at scale (launched Apr 2026)
 
 ## Comparisons
 _(none yet)_

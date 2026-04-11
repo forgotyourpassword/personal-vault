@@ -44,7 +44,7 @@ Chicken bowl — brown rice, salsa, corn, lettuce, shredded cheese
 ## Birthday 2026 Plan (April 16)
 
 - Morning: Handwritten note left somewhere she'll find it; kids prompted to say happy birthday
-- Lunch: Chipotle pickup at 7711 Harford Rd, Parkville (5 min from school), met her at 11:45am for 1-hour break; cupcake with candle
+- Lunch: Outback Steakhouse cheese fries (her request), met her at 11:45am for 1-hour break; cupcake with candle
 - Evening: Carvel ice cream cake from Weis, family celebration when home ~8pm
 
 ---

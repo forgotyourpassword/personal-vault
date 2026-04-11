@@ -1,7 +1,7 @@
 ---
 title: Agentic AI Adoption
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-10
 type: concept
 tags: [ai, trend, methodology]
 sources: [raw/papers/deloitte-state-of-ai-2026.md]
@@ -47,6 +47,9 @@ Only **21%** of companies report having a mature governance model for autonomous
 
 ## Customization
 85% of companies expect to customize agents to fit unique business needs — out-of-the-box agent solutions won't meet most organizations' requirements.
+
+## Products & Platforms
+- [[claude-managed-agents]] — Anthropic's managed infrastructure for deploying production agents; targets the 74% planning deployment in 2 years
 
 ## Related
 - [[state-of-ai-enterprise]] — Deloitte 2026 report overview

@@ -1,7 +1,7 @@
 ---
 title: AI Pilot Production Gap
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-10
 type: concept
 tags: [methodology, ai, trend]
 sources: [raw/papers/deloitte-state-of-ai-2026.md]
@@ -48,7 +48,10 @@ Even after experiments succeed, adoption is the next hurdle. Only 40% of users a
 - Hands-on, role-specific training with visible executive advocacy
 - Treat pilots as stepping stones to production, not isolated experiments
 
+## Products Addressing This Gap
+- [[claude-managed-agents]] — Anthropic's managed infrastructure for production agents; claims to reduce months of infra work to days
+
 ## Related
 - [[state-of-ai-enterprise]] — Deloitte 2026 report overview
 - [[ai-governance]] — governance challenges in scaling
-- [[agentic-ai]] — autonomous AI agents in the enterprise
+- [[agentic-ai-adoption]] — autonomous AI agents in the enterprise

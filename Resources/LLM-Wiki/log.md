@@ -8,6 +8,13 @@
 ## [2026-04-07] create | Wiki initialized
 - Domain: Personal knowledge base
 - Location: /home/mike/vault/Resources/LLM-Wiki/
+
+## [2026-04-10] ingest | Claude Managed Agents (Anthropic blog, Apr 8 2026)
+- Source saved: raw/articles/claude-managed-agents-2026-04-08.md
+- Created: entities/claude-managed-agents.md
+- Updated: concepts/ai-pilot-production-gap.md (added product reference)
+- Updated: concepts/agentic-ai-adoption.md (added product reference)
+- Updated: index.md (added entity entry, bumped total pages to 8)
 - Structure created with SCHEMA.md, index.md, log.md
 - Raw directories: articles, papers, transcripts, assets
 - Wiki directories: entities, concepts, comparisons, queries
