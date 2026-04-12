@@ -6,6 +6,7 @@
 ## Structure
 - `00-Inbox/` - unsorted notes
 - `10-Areas/` - ongoing areas of responsibility
+  - `Personal CRM/` - relationships database (Family, Friends, Employees, Business Network); index at `Personal CRM Index.md`
 - `20-Projects/` - active projects
 - `30-Resources/` - reference material
 - `40-Archive/` - completed/archived items

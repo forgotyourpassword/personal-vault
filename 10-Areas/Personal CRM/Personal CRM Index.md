@@ -1,6 +1,6 @@
-# Family CRM Index
+# Personal CRM Index
 
-A personal relationship database for Michael Molloy — birthdays, preferences, and how to make each person feel seen.
+A personal relationship database for Michael Molloy — family, friends, employees, and professional contacts.
 
 ---
 
@@ -32,6 +32,21 @@ A personal relationship database for Michael Molloy — birthdays, preferences, 
 ## Friends
 
 *(Add friends below — use [[Friend Name]] links and create a note for each)*
+
+---
+
+## Employees
+
+- [[Employees Index]] — Harbor View team and contractors
+  - [[Danielle Romme]] — Partner
+  - [[Kevin Fiore]] — Employee
+  - [[Kurt Fiore]] — 1099 Contractor
+
+---
+
+## Business Network
+
+- [[Business Network Index]] — Clients, prospects, and professional contacts
 
 ---
 
