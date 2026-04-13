@@ -30,3 +30,4 @@ April 2026
 ## Related
 - [[EnginStar 300W Power Station]]
 - [[Remote Work at Loch Raven — Setup Guide]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/EnginStar-60W-Foldable-Solar-Panel

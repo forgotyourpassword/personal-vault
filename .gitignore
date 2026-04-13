@@ -5,3 +5,4 @@
 .trash/
 *.tmp
 30-Resources/Hermes/Journal-KPI/__pycache__/
+*.zip

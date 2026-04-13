@@ -18,3 +18,4 @@ Professional contacts, clients, prospects, and business relationships.
 ---
 
 *Tags: #work #crm #business-network*
+Quartz: http://192.168.1.223:8080/10-Areas/Personal-CRM/Business-Network/Business-Network-Index

@@ -1,6 +1,8 @@
-# Strength Workout Log Template
+---
+tags: [area/fitness, type/template]
+---
 
-#fitness #strength #log
+# Strength Workout Log Template
 
 **Date:** {{date}}
 **Session:** A (Push) / B (Pull)
@@ -40,3 +42,4 @@
 ---
 
 [[Fitness Progress]] | [[Fitness Hub]]
+Quartz: http://192.168.1.223:8080/10-Areas/Health/Fitness/Workouts/Strength/Strength-Log-Template

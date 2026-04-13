@@ -28,3 +28,4 @@ Unknown
 - [[Resistance Bands]]
 - [[Weighted Vest]]
 - [[Fitness Hub]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Gymnastics-Rings

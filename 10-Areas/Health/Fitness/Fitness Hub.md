@@ -1,6 +1,8 @@
-# Fitness Hub
+---
+tags: [area/fitness, area/health, type/hub, status/active]
+---
 
-#fitness #health #training
+# Fitness Hub
 
 ## Goals (Spring 2026)
 - Lose 5 lbs
@@ -57,3 +59,4 @@
 
 ## Progress Tracker
 [[Fitness Progress]]
+Quartz: http://192.168.1.223:8080/10-Areas/Health/Fitness/Fitness-Hub

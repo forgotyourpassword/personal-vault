@@ -1,6 +1,8 @@
-# Weekly Training Plan
+---
+tags: [area/fitness, area/health, type/reference, status/active]
+---
 
-#fitness #training #weekly
+# Weekly Training Plan
 
 > Flexible 4-day week — pick any 4 mornings based on your schedule. Aim for no more than 2 strength days back to back.
 
@@ -107,3 +109,4 @@
 
 ## Links
 [[Fitness Hub]] | [[Fitness Progress]]
+Quartz: http://192.168.1.223:8080/10-Areas/Health/Fitness/Weekly-Training-Plan

@@ -102,3 +102,4 @@ Spot 3 — Power Line Corridor (~0.6 mi NW of mill)
 - Good candidate for a scouting visit before planning a full workday setup
 
 **Tags:** #work-outdoors #locations #hammock
+Quartz: http://192.168.1.223:8080/10-Areas/Work/Work-From-The-Woods

@@ -6,3 +6,4 @@
 Internal family calendar — appointments, school events, family activities, reminders.
 
 *Tags: #family #calendar*
+Quartz: http://192.168.1.223:8080/10-Areas/Family/Family-Calendar

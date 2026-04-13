@@ -1,6 +1,8 @@
-# Bike Log Template
+---
+tags: [area/fitness, type/template]
+---
 
-#fitness #cycling #log
+# Bike Log Template
 
 **Date:** {{date}}
 **Platform:** Echelon / Outdoor
@@ -17,3 +19,4 @@
 ---
 
 [[Fitness Progress]] | [[Fitness Hub]]
+Quartz: http://192.168.1.223:8080/10-Areas/Health/Fitness/Workouts/Cycling/Bike-Log-Template

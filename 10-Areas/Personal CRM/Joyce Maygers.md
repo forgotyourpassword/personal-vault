@@ -1,3 +1,7 @@
+---
+tags: [area/family, type/crm]
+---
+
 # Joyce Maygers
 
 *Mother of [[Michael Molloy]] | Wife of [[Bernie Maygers]]*
@@ -15,5 +19,4 @@
 *(Add preferences, gift ideas, contact info over time)*
 
 ---
-
-*Tags: #family #crm*
+Quartz: http://192.168.1.223:8080/10-Areas/Personal-CRM/Joyce-Maygers

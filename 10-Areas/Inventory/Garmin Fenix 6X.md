@@ -27,3 +27,4 @@ Unknown
 - [[Echelon Indoor Bike]]
 - [[Running Shoes]]
 - [[Fitness Hub]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Garmin-Fenix-6X

@@ -28,3 +28,4 @@ April 2026
 ## Related
 - [[Remote Work at Loch Raven — Setup Guide]]
 - [[60L Framed Backpack]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Personal-Water-Filter-Straw

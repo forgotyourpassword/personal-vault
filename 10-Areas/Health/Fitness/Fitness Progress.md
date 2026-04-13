@@ -1,6 +1,8 @@
-# Fitness Progress
+---
+tags: [area/fitness, area/health, type/log, status/active]
+---
 
-#fitness #progress #tracking
+# Fitness Progress
 
 ## Weight
 | Date | Weight | Notes |
@@ -46,3 +48,4 @@
 ---
 
 [[Fitness Hub]] | [[Weekly Training Plan]]
+Quartz: http://192.168.1.223:8080/10-Areas/Health/Fitness/Fitness-Progress

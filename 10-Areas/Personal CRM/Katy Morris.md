@@ -1,3 +1,7 @@
+---
+tags: [area/family, type/crm]
+---
+
 # Katy Morris
 
 *Sister of [[Michael Molloy]] | Wife of Tim Morris | Mother of Margo & Baby Tim*
@@ -22,5 +26,4 @@
 *(Add preferences, gift ideas, contact info over time)*
 
 ---
-
-*Tags: #family #crm*
+Quartz: http://192.168.1.223:8080/10-Areas/Personal-CRM/Katy-Morris

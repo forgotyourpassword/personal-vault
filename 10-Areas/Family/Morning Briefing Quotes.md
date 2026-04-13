@@ -60,3 +60,4 @@ A rotating pool of motivational quotes from Black, Brown, and women leaders, ath
 ---
 
 *Tags: #quotes #morning-briefing*
+Quartz: http://192.168.1.223:8080/10-Areas/Family/Morning-Briefing-Quotes

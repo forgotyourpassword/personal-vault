@@ -60,3 +60,4 @@ Personal database of items I own. Used for reference when planning trips, projec
 | [[Work From the Woods Bag — Packing List]] | Backpacks & Bags | Full intended packing list, items to add |
 
 *Last updated: 2026-04-23*
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Inventory-Index

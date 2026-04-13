@@ -1,6 +1,8 @@
-# Strength A — April 12, 2026
+---
+tags: [area/fitness, type/log]
+---
 
-#fitness #strength #workout
+# Strength A — April 12, 2026
 
 Quartz: http://192.168.1.223:8080/10-Areas/Health/Fitness/Workouts/Strength/2026-04-12-Strength-A
 

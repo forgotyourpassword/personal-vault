@@ -26,3 +26,4 @@ Unknown
 - [[Dumbbells (20 lb and 25 lb)]]
 - [[Gymnastics Rings]]
 - [[Fitness Hub]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Weighted-Vest

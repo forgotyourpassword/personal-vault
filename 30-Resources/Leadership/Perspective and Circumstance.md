@@ -41,3 +41,4 @@ Perspective is a lens you choose. Not always easily, not always naturally, but a
 ## See Also
 
 - [[Harbor View Perspective Training Story]] — fictional training narrative based on this concept
+Quartz: http://192.168.1.223:8080/30-Resources/Leadership/Perspective-and-Circumstance

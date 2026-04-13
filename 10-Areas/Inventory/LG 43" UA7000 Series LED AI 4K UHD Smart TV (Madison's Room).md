@@ -25,3 +25,4 @@ April 2025
 
 ## Related
 - [[LG 43" UA7000 Series LED AI 4K UHD Smart TV (Connor's Room)]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/LG-43"-UA7000-Series-LED-AI-4K-UHD-Smart-TV-(Madison's-Room)

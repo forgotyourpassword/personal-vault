@@ -29,3 +29,4 @@ Unknown
 - [[Gymnastics Rings]]
 - [[Resistance Bands]]
 - [[Fitness Hub]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Dumbbells-(20-lb-and-25-lb)

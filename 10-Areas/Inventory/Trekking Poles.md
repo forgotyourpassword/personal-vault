@@ -21,3 +21,4 @@ Unknown
 ## Related
 - [[Remote Work at Loch Raven — Setup Guide]]
 - [[Osprey Manta 34]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Trekking-Poles

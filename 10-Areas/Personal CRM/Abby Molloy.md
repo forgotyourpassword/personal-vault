@@ -1,3 +1,7 @@
+---
+tags: [area/family, type/crm]
+---
+
 # Abby Molloy
 
 *Wife of [[Michael Molloy]]*
@@ -56,5 +60,4 @@ Chicken bowl — brown rice, salsa, corn, lettuce, shredded cheese
 - [[McKenzie Molloy]] — Soccer
 
 ---
-
-*Tags: #family #crm*
+Quartz: http://192.168.1.223:8080/10-Areas/Personal-CRM/Abby-Molloy

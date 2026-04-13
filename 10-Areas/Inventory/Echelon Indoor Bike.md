@@ -25,3 +25,4 @@ Unknown
 ## Related
 - [[Garmin Fenix 6X]]
 - [[Fitness Hub]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Echelon-Indoor-Bike

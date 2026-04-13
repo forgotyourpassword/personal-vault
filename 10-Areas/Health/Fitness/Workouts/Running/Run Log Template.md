@@ -1,6 +1,8 @@
-# Run Log Template
+---
+tags: [area/fitness, type/template]
+---
 
-#fitness #running #log
+# Run Log Template
 
 **Date:** {{date}}
 **Route:** Road / Trail
@@ -25,3 +27,4 @@
 ---
 
 [[Fitness Progress]] | [[Fitness Hub]]
+Quartz: http://192.168.1.223:8080/10-Areas/Health/Fitness/Workouts/Running/Run-Log-Template

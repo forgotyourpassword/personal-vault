@@ -194,3 +194,4 @@ Personal
 ---
 
 *Created: 2026-04-09 | Updated: 2026-04-12*
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Remote-Work-at-Loch-Raven-—-Setup-Guide

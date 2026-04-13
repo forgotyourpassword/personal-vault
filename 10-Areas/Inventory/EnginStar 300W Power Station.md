@@ -33,3 +33,4 @@ April 2026
 - [[Starlink Mobile]]
 - [[MacBook Air M4]]
 - [[Remote Work at Loch Raven — Setup Guide]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/EnginStar-300W-Power-Station

@@ -23,3 +23,4 @@ Unknown
 ## Related
 - [[Fitness Hub]]
 - [[Weekly Training Plan]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Running-Shoes

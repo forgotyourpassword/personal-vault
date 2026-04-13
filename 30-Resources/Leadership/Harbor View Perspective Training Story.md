@@ -139,3 +139,4 @@ Neither person changed the storm. One of them learned to move through it differe
 ---
 
 *This story is a fictional training narrative created for Harbor View Consulting internal use. All characters are fictional.*
+Quartz: http://192.168.1.223:8080/30-Resources/Leadership/Harbor-View-Perspective-Training-Story

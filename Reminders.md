@@ -10,3 +10,4 @@ The daily cron job checks this file and emails you any reminders for today.
 
 <!-- Example: -->
 <!-- 2026-04-15 - Dentist appointment at 2 PM -->
+Quartz: http://192.168.1.223:8080/Reminders

@@ -1,3 +1,7 @@
+---
+tags: [type/index, type/crm]
+---
+
 # Personal CRM Index
 
 A personal relationship database for Michael Molloy — family, friends, employees, and professional contacts.
@@ -51,3 +55,4 @@ A personal relationship database for Michael Molloy — family, friends, employe
 ---
 
 *Tags: #family #crm*
+Quartz: http://192.168.1.223:8080/10-Areas/Personal-CRM/Personal-CRM-Index

@@ -17,3 +17,4 @@
 ---
 
 *Tags: #family #crm*
+Quartz: http://192.168.1.223:8080/10-Areas/Personal-CRM/Kari-Maygers

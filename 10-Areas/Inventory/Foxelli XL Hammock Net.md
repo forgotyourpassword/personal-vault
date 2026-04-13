@@ -29,3 +29,4 @@ April 2026
 - [[Backpack Hammock]]
 - [[Wise Owl Outfitters Hammock Rain Fly]]
 - [[Remote Work at Loch Raven — Setup Guide]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Foxelli-XL-Hammock-Net

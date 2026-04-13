@@ -1,3 +1,7 @@
+---
+tags: [area/family, type/crm]
+---
+
 # Madison Molloy
 
 *Daughter of [[Michael Molloy]] and [[Abby Molloy]]*
@@ -16,5 +20,4 @@
 *(Add food preferences, gift ideas, interests, school info over time)*
 
 ---
-
-*Tags: #family #crm*
+Quartz: http://192.168.1.223:8080/10-Areas/Personal-CRM/Madison-Molloy

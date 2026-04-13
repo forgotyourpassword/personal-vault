@@ -36,3 +36,4 @@ Portable satellite internet dish and router for use anywhere with clear sky view
 - [[EnginStar 300W Power Station]]
 - [[MacBook Air M4]]
 - [[Remote Work at Loch Raven — Setup Guide]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Starlink-Mobile

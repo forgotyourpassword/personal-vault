@@ -22,3 +22,4 @@ Unknown
 - [[Remote Work at Loch Raven — Setup Guide]]
 - [[MacBook Air M4]]
 - [[EnginStar 300W Power Station]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Dry-Bag-Pack-Liner

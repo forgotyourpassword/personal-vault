@@ -13,6 +13,7 @@ My persistent memory, replaced by these individual files. Search with `search_fi
 | [[05 - Conventions]] | How I should work, preferences, patterns |
 | [[06 - Lessons Learned]] | Troubleshooting notes, gotchas, workflows |
 | [[07 - Providers]] | Model providers, API keys, fallback config |
+| [[08 - Infrastructure & Scripts]] | Office machine, SMB setup, backup script, shared venv |
 
 ## Updating
 - **Add**: write new files in this directory, prefix with number and dashes

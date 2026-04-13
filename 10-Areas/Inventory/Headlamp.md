@@ -20,3 +20,4 @@ Unknown
 
 ## Related
 - [[Remote Work at Loch Raven — Setup Guide]]
+Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Headlamp
