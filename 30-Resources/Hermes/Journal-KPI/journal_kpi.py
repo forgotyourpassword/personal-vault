@@ -37,6 +37,17 @@ def parse_journal(path: Path) -> dict:
     if re.search(r"-\s*\[x\]\s*Nourished", text, re.IGNORECASE):
         result["nourished"] = True
 
+    # Prose habits — "- **Exercise:** Yes" / "- **Ate well:** Yes" format
+    # Bold markers may wrap label+colon: **Exercise:** or just Exercise:
+    if not result["exercise"] and re.search(r"-\s*\**Exercise[:\*]+\s*Yes", text, re.IGNORECASE):
+        result["exercise"] = True
+    if not result["read"] and re.search(r"-\s*\**Read[:\*]+\s*Yes", text, re.IGNORECASE):
+        result["read"] = True
+    if not result["nourished"] and re.search(
+        r"-\s*\**(Nourished|Ate well|Nutrition|Nourishment)[:\*]+\s*Yes", text, re.IGNORECASE
+    ):
+        result["nourished"] = True
+
     # One sentence
     m = re.search(r"##\s*One sentence on today\s*\n(.+)", text, re.IGNORECASE)
     if m:

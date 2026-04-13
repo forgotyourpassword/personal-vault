@@ -146,12 +146,30 @@ Tech (use 60L framed pack)
 
 Camp
 - [ ] Hammock + wide tree straps
+- [ ] [[Foxelli XL Hammock Net]] (12ft bug net — essential spring/summer)
+- [ ] [[Wise Owl Outfitters Hammock Rain Fly]] (waterproof tarp cover)
+- [ ] [[Dry Bag Pack Liner]] (protects MacBook, power station, Starlink from rain)
 - [ ] Tarp or small footprint (keep power station off damp ground)
 - [ ] Bungee cord (prop solar panel at angle)
 - [ ] Rain layer / windshell
+- [ ] [[Sit Pad]] (ground desk mode / upright work)
+- [ ] [[Packable Camp Pillow]] (hammock comfort)
+- [ ] [[Microfiber Towel]] (gear wipe-down / multi-use)
+- [ ] Flint and steel fire starter (emergency kit)
+- [ ] [[Lighter]] (backup fire starting)
+- [ ] [[Swiss Army Knife]] (utility / EDC)
+
+Safety
+- [ ] [[First Aid Kit]] (blister treatment, gauze, antiseptic, tape)
+- [ ] [[Moleskin Blister Pads]] (foot care — critical on loaded hikes)
+- [ ] [[Whistle]] (emergency signaling, clips to strap)
+- [ ] [[Headlamp]] (emergency lighting if session runs long)
+- [ ] [[Trekking Poles]] (ankle support on descent with heavy pack)
 
 Personal
+- [ ] [[Personal Water Filter Straw]] (backup water filtration)
 - [ ] Water (hydration bladder or bottles)
+- [ ] [[Sunglasses]] (screen glare in open areas)
 - [ ] Snacks / lunch
 - [ ] Insect repellent (bugs are aggressive spring-summer)
 - [ ] Phone (Starlink app, navigation, offline maps)
@@ -175,4 +193,4 @@ Personal
 
 ---
 
-*Created: 2026-04-09 | Updated: 2026-04-09*
+*Created: 2026-04-09 | Updated: 2026-04-12*

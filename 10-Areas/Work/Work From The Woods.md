@@ -30,7 +30,7 @@ A collection of outdoor locations suitable for remote work.
 
 **Coordinates:** 39.4631, -76.3890
 **Address:** 2813 Jerusalem Rd, Kingsville, MD
-**Google Maps:** https://www.google.com/maps/place/Jerusalem+Mill/
+**Google Maps:** https://maps.app.goo.gl/J4GUEGKmyDRycauD6?g_st=ic
 **Area:** Little Gunpowder Falls, historic Quaker village
 
 **Connectivity:**
@@ -51,17 +51,54 @@ Spot 1 — Jerusalem Mill Meadow (~0.1 mi from parking)
 - Hang hammock at forest edge, Starlink in the meadow clearing
 - Easiest setup, lowest commitment — great for first visit
 - Most visited of the three spots
+- **GPS:** 39.4638, -76.3882
+- **Maps:** https://maps.google.com/?q=39.4638,-76.3882
+- Note: coords place you at the meadow/forest edge — trees for hammock behind you, open meadow north for Starlink
+
+![[jerusalem_mill_spot1_map.png]]
 
 Spot 2 — Little Gunpowder Trail Riverbank (~0.5-1 mi)
 - Trail follows river in both directions from the mill
 - Find a river bend with open water view for unobstructed Starlink sky
 - Big hardwoods (oak, tulip poplar) along the bank for hammock
 - Adjustable distance — trail runs for miles, pick your solitude level
+- **GPS:** 39.4685, -76.3831
+- **Maps:** https://maps.google.com/?q=39.4685,-76.3831
+- Note: north bank at river bend — trees behind you, open water north for Starlink
+
+![[gunpowder_trail_map_spot2.png]]
 
 Spot 3 — Power Line Corridor (~0.6 mi NW of mill)
 - Best Starlink option — wide cleared corridor, completely open sky
 - Hang hammock at tree line on either side of the corridor
 - Most solitude, best connectivity, slightly longer hike in
-- Coordinates approx: 39.468, -76.397
+- **GPS:** 39.4678, -76.3968
+- **Maps:** https://maps.google.com/?q=39.4678,-76.3968
+- Note: eastern tree line edge of corridor — full open sky for Starlink, mature hardwoods at your back for hammock
+
+![[spot3_trail_map.png]]
+
+**Tags:** #work-outdoors #locations #hammock
+
+---
+
+## Prettyboy Hiking Trail
+
+**Address:** 3700 Beckleysville Rd, Parkton, MD 21120
+**Google Maps:** https://maps.app.goo.gl/gG8XeXEyxLBgWSUS8?g_st=ic
+**Plus Code:** J6XW+QG Parkton, Maryland
+**Type:** Hiking area
+**Hours:** Open · Closes 8 PM
+**Website:** https://dnr.maryland.gov/wildlife/Pages/publiclands/central/prettyboy.aspx
+
+**Connectivity:**
+- Likely more challenging under tree canopy for Starlink unless there are open clearings, parking-lot edges, or meadow breaks
+- Cell backup unknown — worth testing on-site
+
+**Notes:**
+- Prettyboy Reservoir area, so likely quieter and more secluded than the closer Gunpowder spots
+- Promising as a work-from-the-woods option if you can find a setup with trees for hammock plus enough sky exposure for connectivity
+- Best first recon: look for trailhead edge, picnic/open areas, or shoreline-adjacent clearings
+- Good candidate for a scouting visit before planning a full workday setup
 
 **Tags:** #work-outdoors #locations #hammock

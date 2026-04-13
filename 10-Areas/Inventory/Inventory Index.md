@@ -20,6 +20,21 @@ Personal database of items I own. Used for reference when planning trips, projec
 | [[Osprey Manta 34]] | Backpacks & Bags | Hydration pack, day hike |
 | [[60L Framed Backpack]] | Backpacks & Bags | Larger capacity, better for heavy loads |
 | [[Backpack Hammock]] | Camping & Outdoor Gear | Compresses for pack carry |
+| [[Foxelli XL Hammock Net]] | Camping & Outdoor Gear | 12ft bug net, fits all hammocks |
+| [[Wise Owl Outfitters Hammock Rain Fly]] | Camping & Outdoor Gear | Waterproof tarp cover, ultralight, stakes included |
+| [[Personal Water Filter Straw]] | Camping & Outdoor Gear | Emergency water filtration, survival/outdoor |
+| [[Swiss Army Knife]] | Camping & Outdoor Gear | Multi-tool, EDC, woods bag |
+| [[Lighter]] | Camping & Outdoor Gear | Fire starting backup, woods bag |
+| [[First Aid Kit]] | Camping & Outdoor Gear | Compact kit, solo hiking safety |
+| [[Moleskin Blister Pads]] | Camping & Outdoor Gear | Blister/foot care, packed hike |
+| [[Whistle]] | Camping & Outdoor Gear | Safety, clips to strap, weighs nothing |
+| [[Headlamp]] | Camping & Outdoor Gear | Emergency trail lighting |
+| [[Sit Pad]] | Camping & Outdoor Gear | Ground seating, desk mode |
+| [[Sunglasses]] | Camping & Outdoor Gear | Screen glare, outdoor use |
+| [[Packable Camp Pillow]] | Camping & Outdoor Gear | Hammock comfort, long sessions |
+| [[Dry Bag Pack Liner]] | Camping & Outdoor Gear | Waterproofs pack contents, essential |
+| [[Microfiber Towel]] | Camping & Outdoor Gear | Gear wipe-down, multi-use |
+| [[Trekking Poles]] | Camping & Outdoor Gear | Ankle support on loaded hikes, collapsible |
 
 | [[Running Shoes]] | Fitness & Sports | Road + trail, brand TBD |
 | [[Dumbbells (20 lb and 25 lb)]] | Fitness & Sports | Fixed weight pairs |
@@ -41,5 +56,7 @@ Personal database of items I own. Used for reference when planning trips, projec
 | [[Savage Revelation Model 135]] | Firearms | Bolt-action rifle (Western Auto Revelation), SN: C122080 |
 | [[Mosin Nagant 1944]] | Firearms | Soviet bolt-action carbine, 7.62x54R, SN: rb6087 |
 | [[Remington 870]] | Firearms | Pump-action 12 gauge shotgun, SN: unknown |
+
+| [[Work From the Woods Bag — Packing List]] | Backpacks & Bags | Full intended packing list, items to add |
 
 *Last updated: 2026-04-23*
