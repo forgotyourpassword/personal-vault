@@ -49,12 +49,34 @@ OPTION B — Reservoir Shoreline (the destination coordinates)
 ## Alternative Locations Worth Trying
 
 ### Merrymans Trail — MD-146 West Shore (Best Alternative Overall)
-Trailhead: ~2583 MD-146
-- Flatter approach along the western shoreline — easier with heavy gear
-- Meadow clearings overlooking the open reservoir = great Starlink sky
+
+**Why it's better for Starlink:** South/west shore — dish points north over open water instead of into uphill terrain. Ideal orientation.
+
+**Parking Option 1 — MD-146 (Main lot, recommended)**
+Address: 2583 MD-146, Cockeysville, MD 21030
+Coordinates: 39.462669, -76.5863802
+Plus Code: FC77+3C Cockeysville, Maryland
+Google Maps: https://maps.google.com/?q=39.462669,-76.5863802
+Hours: Opens 6 AM daily
+Notes: Official Loch Raven Merrymans Trail Parking. This is the primary trailhead — closest to the reservoir shoreline clearings.
+
+**Parking Option 2 — Pot Spring Road (North trailhead)**
+Address: 10517 Pot Spring Rd, Cockeysville, MD 21030
+Coordinates: 39.4747061, -76.597565
+Plus Code: FCF2+VX Cockeysville, Maryland
+Google Maps: https://maps.google.com/?q=39.4747061,-76.597565
+Hours: Opens 6:30 AM, closes 8:30 PM
+Notes: North end of the trail. Longer hike to reach shoreline clearings. Good option if MD-146 lot is full.
+
+**Trail character:**
+- Flatter approach along the western shoreline — easier with heavy gear than Morgan Mill
+- Meadow clearings overlooking the open reservoir = great Starlink sky (north-facing over water)
 - Mixed hardwood forest throughout for hammocking
 - More popular on weekends; quieter on weekdays
 - About 20 min drive from Morgan Mill on the other side of the reservoir
+
+**Trail map:**
+![[merrymans_trail_map.png]]
 
 ### Loch Raven Drive Roadside Pulloffs (Quickest Option)
 - Gravel pulloffs along the paved road on the western shore
@@ -185,13 +207,35 @@ Personal
 
 ---
 
+## Field Reports
+
+### April 13, 2026 — Morgan Mill / Reservoir Shoreline
+**Result:** Connectivity failure — fell back to phone calls
+
+**Starlink issue:** Dish required antenna pointing away from the water and back toward the trees/uphill slope. That direction had heavy obstructions — too many trees and terrain blocking the northern sky view. Could not get reliable connection.
+
+**Lesson:** The shoreline spot assumes open sky OVER the water. If Starlink's required orientation points inland (uphill + trees), this spot fails. Check the Starlink app obstruction map BEFORE committing to a setup location.
+
+**Weather:** Rain arrived around noon. Packed up and headed home early.
+
+**Rain prep:** Well-prepared — rain jacket, rain cover for backpack, all gear in dry bag inside pack. Gear stayed dry. Rain gear worked as expected.
+
+**Takeaway:** Next visit, try Option A (Utility Corridor) first — open sky in all directions removes the orientation problem entirely. Shoreline is scenic but dependent on Starlink pointing north over water.
+
+**South shore theory:** Since Starlink points north, being on the NORTH shore means the dish faces back into the uphill forested terrain — exactly what happened here. A south shore location would have north pointing out over the open water, which is ideal. Merrymans Trail (MD-146 West Shore) is the best candidate to test this — flatter approach, meadow clearings overlooking the reservoir, and sitting on the south/west side.
+
+---
+
 ## Known Limitations
 - Video calls = high battery drain — mute camera when possible
 - Starlink signal can drop under moving canopy in wind
 - Maryland spring weather unpredictable — bring rain gear
 - Morning briefing includes a daily "Work from the Woods" verdict on weekdays based on weather
+- Shoreline spot requires Starlink to point NORTH over water — if terrain/orientation forces it inland, obstructions kill the signal. Always check the Starlink app obstruction map on arrival before committing to a full setup.
+- Utility Corridor (Option A) is more reliable — open sky in all directions, no orientation dependency
+- North shore (Morgan Mill) is a bad fit for shoreline Starlink — dish faces north = points back into the uphill tree-covered terrain behind you. South shore locations are better — dish faces north = points out over the open water for a clean sky view.
 
 ---
 
-*Created: 2026-04-09 | Updated: 2026-04-12*
+*Created: 2026-04-09 | Updated: 2026-04-13*
 Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Remote-Work-at-Loch-Raven-—-Setup-Guide
