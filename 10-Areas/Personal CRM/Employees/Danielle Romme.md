@@ -6,15 +6,17 @@
 
 ## Professional
 
-- **Role:** Partner
+- **Title:** Partner
+- **Employment:** W-2 employee
+- **Operating Agreement Status:** Not part of Harbor View's operating agreement
 - **Company:** Harbor View Consulting
-- **Status:** Active (as of April 2026)
+- **Status:** Active employee (as of April 2026)
 
 ---
 
 ## Relationship Context
 
-Danielle is a co-founding partner and employee at Harbor View. She holds 20+ years of accounting experience and was a Controller prior to joining the firm. She was previously involved in a multi-hour dinner debrief (with Mike and Jeff) around trust, vulnerability, and accountability, after which she authored a self-reflection document identifying specific growth areas.
+Danielle is a titled partner and W-2 employee at Harbor View, but she is not a co-founder and is not part of the firm's operating agreement. She holds 20+ years of accounting experience and was a Controller prior to joining the firm. She was previously involved in a multi-hour dinner debrief (with Mike and Jeff) around trust, vulnerability, and accountability, after which she authored a self-reflection document identifying specific growth areas.
 
 ---
 
@@ -38,6 +40,34 @@ Recurring pattern of trust and control — documented across multiple incidents:
 **Key quote (Saturday 4/4 message):** "In the future if you're the only one on an engagement, you certainly can run your own way, but since we are both on this engagement... I would appreciate if you respect my input as well."
 
 **Pattern summary:** Mike documents a clear plan → Danielle questions from a distance → Mike can't give full picture over text → Danielle fills gaps with assumptions → Takes unilateral action → Escalates framing when not responded to.
+
+---
+
+## Recent Conversation Status
+
+### 2026-04-13 One-on-One
+
+Mike had a 2-hour one-on-one conversation with Danielle focused on her thought process behind the messages she sent on 4/3 and 4/4.
+
+Key takeaways:
+- Danielle said she wants to continue working at Harbor View Consulting
+- Mike told her multiple times that he does not believe she enjoys working with him or with Jeff
+- Mike told her he disagrees that his messages were disrespectful and instead believes her wording toward him was disrespectful
+- Mike encouraged her to seek a third-party perspective, including using Claude, to review the messages objectively
+- The conversation involved extended back-and-forth where Danielle kept returning to the surface-level requests she was making on the project, while Mike's core issue was her communication approach toward him
+- Danielle repeatedly proposed an alignment meeting among the partners focused on recruiting, operations, and delivery feedback as the path to rebuilding trust
+- Mike does not agree with that framing; his view is that trust must come first before productive disagreement on operating issues is possible
+- Mike's current view is that Danielle has not consistently demonstrated that level of trust and respect in her work with either him or Jeff
+
+### 2026-04-14 Follow-up on Partner Alignment Meeting
+
+After the one-on-one, Danielle scheduled an in-person meeting for Friday at the Towson startup to discuss partner alignment on recruiting, operations, and delivery-related issues. She booked a conference room for the partner team.
+
+Mike later asked her to cancel the meeting. The message he sent was:
+
+"Hey Danielle, after thinking more about Friday, I don’t think we’re prepared for in-person partner alignment meeting right now. I want to ensure we have a solid agenda and approach to the meeting first, so we’re going to cancel it for now rather than meet before we’re ready to have the most productive conversation."
+
+Purpose of cancellation: Mike did not believe the meeting would be productive given the current trust issues and broader internal leadership context.
 
 ---
 
