@@ -1,0 +1,801 @@
+Maryland separation agreement drafting guide for
+professional services firms
+A Baltimore-based outsourced accounting and advisory firm must navigate a complex
+overlay of federal and Maryland-specific rules to produce a separation agreement that
+is both enforceable and compliant. This reference document covers every major clause,
+prohibition, OWBPA requirement, tax structure, and consideration issue the firm will
+encounter. The guidance reflects law current through April 2026 and flags every area where
+changes occurred after January 2024. Throughout, provisions that touch client financial
+data, proprietary methodology, and direct client relationships receive special attention.
+Every separation agreement produced from this template should be reviewed by a
+licensed Maryland employment attorney before use. The areas flagged for mandatory
+attorney review include OWBPA group-termination disclosures, restrictive covenant
+enforceability, Section 409A payment timing, and any provisions touching trade secrets or
+whistleblower rights.
+
+TOPIC 1: Every clause a compliant separation agreement needs
+Termination details and effective date
+The agreement must clearly state the employee’s last day of active work, the formal
+separation date (which may differ if a garden-leave period applies), and whether the
+separation is characterized as voluntary or involuntary. Maryland is an at-will state, but
+characterization matters: it drives unemployment insurance eligibility under Md. Code Ann.,
+Lab. & Empl. Title 8, triggers COBRA timelines, and shapes the reference the firm provides.
+Under the Maryland Wage Payment and Collection Law (MWPCL), Md. Code Ann., Lab. &
+Empl. § 3-505, all wages must be paid on or before the next regular payday after
+termination
+
+SixFifty +3
+
+— an unconditional obligation unaffected by the agreement.
+
+Drafting trap: Labeling a constructive termination as “voluntary resignation” invites an
+unemployment-benefit dispute and potential bad-faith litigation. Best practice: State both
+dates, specify that the characterization is for company-records purposes only, and define
+what the firm will disclose in reference checks (dates, title, salary).
+
+Consideration
+
+The consideration clause is the engine of the release. Under both Maryland common law
+and the OWBPA (29 U.S.C. § 626(f)(1)(D)), the payment must be something of value the
+employee is not already owed. Final wages, accrued PTO (where owed under § 3-505),
+and earned commissions are existing obligations — not consideration. The agreement must
+bifurcate these from the new severance payment. Failure to do so is the single most
+common reason Maryland courts scrutinize releases. The consideration clause should
+contain an explicit acknowledgment: “The Severance Payment exceeds anything of value to
+which Employee is already entitled.”
+
+Luchansky Law
+
+General release of claims
+The release should enumerate every relevant federal and state statute by name. Federal
+claims include Title VII (42 U.S.C. § 2000e), the ADA (42 U.S.C. § 12101), the ADEA (29
+U.S.C. § 621 — which the OWBPA requires be named specifically), FMLA (29 U.S.C. § 2601),
+the Equal Pay Act,
+
+Section 1981, GINA, and ERISA (noting
+U.S. Equal Employment Opportunity Commission
+
+vested benefits cannot be released). Maryland claims include the Fair Employment Practices
+Act (Md. Code Ann., State Gov’t § 20-601 et seq.),
+seq.), the Maryland Equal Pay for Equal Work Act,
+
+Correia & Puth
+
+SixFifty
+
+the MWPCL (§ 3-501 et
+
+and common-law claims such as
+
+wrongful discharge in violation of public policy.
+As of October 1, 2024, FEPA added military status as a protected class
+VirgilHR DEV 2
+
+HR Works
+
+— release language must be updated to include it. A broad catch-all should
+
+follow the enumerated list, but cannot cover claims arising after the execution date (29
+U.S.C. § 626(f)(1)(C)).
+Mandatory carve-out language: “Nothing in this Agreement prevents Employee from filing
+a charge with, cooperating with, or participating in an investigation conducted by the EEOC,
+MCCR, NLRB, SEC, IRS, or any other government agency. Employee further retains the right
+to receive any monetary award from a government whistleblower program.” This carve-out
+is legally required and protects against EEOC enforcement actions,
+NLRA unfair-labor-practice charges, and SEC Rule 21F-17
+U.S. Equal Employment Opportunity Commission
+violations.
+
+COBRA and benefits continuation
+Federal COBRA (29 U.S.C. § 1161 et seq.) applies to firms with 20 or more employees,
+providing 18 months of continuation coverage at up to 102% of premium. For firms under 20
+employees, Maryland’s mini-COBRA (Md. Code, Ins. Art. § 15-409) provides equivalent
+coverage,
+
+CobraHelp
+
+with a 45-day election window and the notable exception that it is
+
+unavailable for terminations “for cause.”
+
+DCWageLaw
+
+COBRA/mini-COBRA notices must be
+
+provided independently and cannot be conditioned on signing the agreement. If the firm
+subsidizes COBRA premiums as part of severance, the agreement should specify that the
+
+subsidy period counts toward — not extends — the statutory continuation period. Failure to
+provide timely COBRA notice triggers an excise tax of $100 per day per qualified
+beneficiary under IRC § 4980B.
+
+Return of company property and trade-secret protections
+For an outsourced accounting firm, this clause is critical. The Maryland Uniform Trade
+Secrets Act (MUTSA), Md. Code Ann., Com. Law § 11-1201 et seq.,
+
+LVG Law Firm
+
+protects
+
+information that derives economic value from secrecy and is subject to reasonable
+protective efforts. Client financial data, proprietary engagement methodology, fee
+structures, and curated client lists can qualify as trade secrets under MUTSA if the firm
+maintains reasonable secrecy measures.
+
+Maryland General Assembly
+
+The federal Defend
+
+Trade Secrets Act (18 U.S.C. § 1836) provides an additional federal cause of action.
+The agreement must require return of all physical and electronic property and written
+certification that all electronic copies — including files on personal devices, cloud storage,
+and email forwards — have been deleted. The clause must include the DTSA whistleblower
+immunity notice (18 U.S.C. § 1833(b)); omitting it forfeits the firm’s right to exemplary
+damages and attorney’s fees under the DTSA.
+Drafting trap: A vague return-of-property clause that omits electronic data and BYOD
+devices is nearly unenforceable against a departing employee who takes client relationships
+and engagement templates to a competitor.
+
+Cooperation, representations, severability, governing law, and integration
+Cooperation obligations should define scope (litigation, audits, client transitions), set a
+time limit
+
+Luchansky Law
+
+(typically 24 months), and compensate the employee for anything
+
+beyond a de minimis threshold (e.g., cooperation exceeding 10 hours at a stated hourly
+rate). Open-ended, uncompensated obligations risk being deemed unconscionable.
+Representations and warranties should be mutual: the employee represents voluntary
+execution and full disclosure of pending claims; the employer represents authority to bind
+the company. For this firm, include a representation that the employee has complied with all
+client-confidentiality obligations under professional licensing standards.
+The severability clause should include both a severance provision (invalid clause does not
+destroy the rest) and a reformation provision (court may narrow an overbroad clause to the
+minimum enforceable scope). Maryland courts historically have not blue-penciled overbroad
+non-competes, but a reformation clause invites the court to try.
+Governing law should specify Maryland and designate exclusive venue in state or federal
+courts in Baltimore. The integration clause must carve out any pre-existing agreements
+intended to survive — particularly confidentiality and non-solicitation agreements signed at
+
+hire. Without the carve-out, a court could find the separation agreement superseded those
+prior restrictions. Smelkinson Sysco v. Harrell, 162 Md. App. 437 (2005), enforces
+settlement agreements as written when unambiguous.
+
+ALFA International
+
+TOPIC 2: Provisions that will sink the agreement
+Overbroad waivers of future claims are void
+The OWBPA flatly prohibits waiving claims that “may arise after the date the waiver is
+executed” (29 U.S.C. § 626(f)(1)(C)).
+
+UpCounsel
+
+Whitmanlegalsolutions
+
+Catch-all language
+
+releasing claims “past, present, or future” voids the ADEA waiver and invites challenges
+under other statutes. Best practice: Limit the release to claims “arising on or before the
+Effective Date of this Agreement.”
+
+EEOC and MCCR charge-filing rights cannot be waived
+An employee can waive the right to personal monetary recovery from a charge but cannot
+waive the right to file a charge or participate in an investigation. This distinction was
+established in EEOC v. Cosmair, Inc., 821 F.2d 1085, 1090–91 (5th Cir. 1987), and is codified
+for ADEA waivers at 29 U.S.C. § 626(f)(4). The EEOC’s Enforcement Guidance No. 915.002
+(April 10, 1997) confirms that promises not to file charges are “null and void as a matter of
+public policy.”
+
+U.S. Courts
+
+In EEOC v. Astra USA, Inc., 94 F.3d 738 (1st Cir. 1996), the court
+
+enjoined even non-cooperation clauses that impeded employee communication with the
+EEOC.
+
+U.S. Courts
+
+Clawback provisions requiring return of severance if an employee files a
+
+charge draw aggressive EEOC scrutiny. Best practice: Use the two-part Cosmair
+formulation: preserve charge-filing rights, waive personal monetary recovery.
+
+Non-disparagement and confidentiality clauses after McLaren Macomb
+In McLaren Macomb, 372 NLRB No. 58 (Feb. 21, 2023), the NLRB held that the mere
+proffer of a severance agreement with overbroad non-disparagement or confidentiality
+clauses to non-supervisory employees violates Section 8(a)(1) of the NLRA
+Morris, Manning & Martin, LLP
+
+— regardless of whether the employee signs.
+
+Shipman
+
+The
+
+Sixth Circuit enforced this holding in NLRB v. McLaren Macomb, No. 23-1335 (6th Cir.
+Sept. 19, 2024) [post-January 2024 development].
+
+American Bar Association
+
+Although Acting
+
+NLRB General Counsel William Cowen rescinded the related guidance memo (GC 25-05,
+Feb. 14, 2025), the Board decision itself remains binding precedent until formally
+overruled. The Board currently lacks the composition to overturn it.
+
+NatLawReview
+
+Koley Jessen
+
+Best practice: Narrow non-disparagement clauses to “knowingly false and materially
+
+defamatory statements” rather than any critical commentary. Narrow confidentiality to trade
+secrets and proprietary information,
+
+Legal Dive
+
+not the agreement’s existence or terms.
+
+Include a Section 7 savings clause: “Nothing in this Agreement limits Employee’s right to
+engage in activities protected by Section 7 of the NLRA, including discussing wages, hours,
+or working conditions with coworkers or a union, or filing charges with the NLRB.” Note:
+these restrictions primarily apply to non-supervisory employees; agreements with
+managers and executives have broader drafting latitude.
+
+Nixon Peabody
+
+FLSA claims cannot be privately released
+The Supreme Court held in Brooklyn Savings Bank v. O’Neil, 324 U.S. 697 (1945), that FLSA
+rights — minimum wage, overtime, liquidated damages — cannot be waived by private
+agreement. The only valid resolution paths are DOL-supervised settlement or courtapproved stipulated judgment (Lynn’s Food Stores, Inc. v. United States Dep’t of Labor, 679
+F.2d 1350 (11th Cir. 1982)).
+
+Timothy Coffield
+
+Most circuits, including the Fourth Circuit
+
+covering Maryland, follow this rule. A Maryland federal court in Johnson v. CRC Holdings,
+Inc., Civil No. JKB-16-2937 (D. Md.), extended this reasoning to both the FLSA and the
+Maryland Wage Payment and Collection Law.
+
+Lebau & Neuworth
+
+Best practice: Do not
+
+purport to release FLSA or MWPCL wage claims. Instead, include a representation that all
+wages have been paid in full. If a bona fide wage dispute exists, resolve it through a
+separate DOL-supervised or court-approved process.
+
+Workers’ compensation claims require Commission approval
+Maryland Workers’ Compensation Act settlements must be approved by the Maryland
+Workers’ Compensation Commission under Md. Code Ann., Lab. & Empl. § 9-722.
+Fandpnet
+
+A private release of workers’ comp claims bypasses the statutory framework and
+
+is unenforceable. Maryland courts recognize wrongful discharge for exercising workers’
+comp rights (Sears Roebuck v. Wholey, 139 Md. App. 642 (2001)), underscoring strong
+public policy. Best practice: Exclude workers’ comp claims entirely and add an express
+carve-out.
+
+Whistleblower restrictions trigger SEC enforcement
+SEC Rule 21F-17(a) (17 C.F.R. § 240.21F-17(a)) prohibits any action that impedes
+communication with the SEC about possible securities violations — including language in
+separation agreements.
+
+Debevoise & Plimpton
+
+In September 2024 [post-January 2024],
+
+the SEC settled with seven companies for requiring employees to waive whistleblower
+awards, imposing over $3 million in combined penalties.
+against KBR (2015),
+
+SEC.gov
+
+Proskauer Rose LLP
+
+Earlier actions
+
+CBRE (2023), and Monolith Resources (2023) established
+
+that the violation is the language itself — no actual chilling of a whistleblower need be
+shown. Even private companies are subject to Rule 21F-17.
+
+Akerman LLP
+
+Best practice:
+
+Include an affirmative whistleblower carve-out preserving reporting rights, cooperation
+rights, and the right to receive government monetary awards. Do not include notice-toemployer requirements or representations that the employee has not filed government
+complaints.
+
+Katz Banks Kumin LLP
+
+TOPIC 3: How to make the ADEA waiver bulletproof
+The eight OWBPA requirements are strict and unqualified
+Under 29 U.S.C. § 626(f)(1), the OWBPA mandates that a waiver of ADEA rights is “knowing
+and voluntary” only if all eight requirements are met.
+
+Uslawexplained
+
+The burden of proving compliance falls on the employer (§
+U.S. Equal Employment Opportunity Commission
+626(f)(3)).
+
+Hinshaw & Culbertson LLP
+
+These requirements have not changed since January
+
+2024, and the implementing regulation (29 C.F.R. § 1625.22) was last substantively
+amended in 2014.
+The requirements are:
+Plain language (§ 626(f)(1)(A)): The agreement must be written in a manner “calculated
+to be understood” by the employee or the average eligible individual.
+
+Simasgovlaw +2
+
+In
+
+Thomforde v. IBM Corp., 406 F.3d 500 (8th Cir. 2005), and Syverson v. IBM Corp., 472
+F.3d 1072 (9th Cir. 2007), courts invalidated IBM’s release because including both a
+“general release” and a “covenant not to sue” with contradictory scope created
+impermissible ambiguity.
+
+U.S. Equal Employment Opportunity Commission
+Epstein Becker Green
+
+Specific ADEA reference (§ 626(f)(1)(B)): The waiver must name the Age
+Discrimination in Employment Act.
+claims” release is insufficient
+
+A generic “all federal
+U.S. Equal Employment Opportunity Commission
+
+(Oubre v. Entergy
+U.S. Equal Employment Opportunity Commission
+
+Operations, 522 U.S. 422 (1998)).
+No future claims (§ 626(f)(1)(C)): Claims arising after the execution date cannot be
+waived.
+Additional consideration (§ 626(f)(1)(D)): The employee must receive value beyond
+existing entitlements.
+Written attorney advisement (§ 626(f)(1)(E)): The agreement must affirmatively advise
+the employee to consult an attorney.
+
+Simasgovlaw
+
+Passive acknowledgment that the
+
+employee “had the opportunity” is insufficient (American Airlines, Inc. v. CardozaRodriguez, 133 F.3d 111 (1st Cir. 1998)). Use: “You are hereby advised to consult with
+an attorney of your choosing before signing this Agreement.”
+
+21-day or 45-day consideration period (§ 626(f)(1)(F)): Individual terminations require
+21 days; group terminations or exit-incentive programs require 45 days.
+Eaujeefrancisco +4
+
+Per 29 C.F.R. § 1625.22(e)(6), the employee may sign early if the
+
+decision is knowing, voluntary, and not induced by employer pressure. Material changes
+restart the 21- or 45-day clock
+
+(29 C.F.R. § 1625.22(e)(4)).
+
+Justworks Help Center
+
+7-day revocation period (§ 626(f)(1)(G)): This period cannot be shortened or waived
+Justworks Help Center
+
+(29 C.F.R. § 1625.22(e)(5)). The agreement becomes effective on
+
+Day 8. No severance should be disbursed before that date.
+Group-termination disclosures (§ 626(f)(1)(H)): For exit-incentive or grouptermination programs affecting two or more employees, the employer must disclose in
+writing: the decisional unit, eligibility factors, time limits, and a chart of job titles and
+ages for all employees who were selected and not selected.
+
+Onwards HR
+
+The decisional unit is where most group waivers fail
+The “decisional unit” is the organizational segment from which the employer actually
+selected employees for the program
+(B)).
+
+Legal Information Institute
+
+(29 C.F.R. § 1625.22(f)(3)(i)
+
+Defining it too broadly (all U.S. employees when decisions were local) or too
+
+eCFR
+
+narrowly (omitting people who were considered) invalidates every waiver in the group. In
+Kruchowski v. Weyerhaeuser Co., 446 F.3d 1090 (10th Cir. 2006), waivers for 30+
+employees were voided because the employer misidentified the decisional unit.
+Quirky Questions
+
+In Adams v. Moore Bus. Forms, Inc., 224 F.3d 324 (4th Cir. 2000) — the
+
+controlling Fourth Circuit authority for Baltimore — the court applied OWBPA’s strictcompliance standard and held that disclosures must track the actual decision-making unit.
+Attorney review is mandatory for any group-termination OWBPA
+
+FindLaw
+
+disclosure.
+
+A defective waiver is void, and there is no cure
+In Oubre v. Entergy Operations, 522 U.S. 422 (1998), the Supreme Court held that a noncompliant ADEA waiver “cannot bar [the employee’s] ADEA claim.”
+need not tender back the consideration before suing.
+SeniorSite
+
+vLex
+
+The employee
+
+U.S. Equal Employment Opportunity Commission
+
+Retention of severance payments does not constitute ratification.
+
+Troutman Pepper Locke
+
+Uslawexplained
+
+Per 29 C.F.R. § 1625.23, the agreement may not
+
+impose tender-back or clawback provisions as a condition of challenging the waiver, and the
+employer must continue making payments even if the employee files suit.
+
+Crowell & Moring
+
+The EEOC has stated that a subsequent “correction” letter cannot cure a defective waiver.
+Simasgovlaw
+
+The consequence of failure is binary: the
+U.S. Equal Employment Opportunity Commission
+
+employer pays severance and faces the ADEA lawsuit.
+
+TOPIC 4: Structuring the payment to avoid tax penalties and
+preserve unemployment eligibility
+Federal income tax: severance is supplemental wages at 22%
+Severance payments are classified as supplemental wages under IRS Publication 15 and
+Treasury Reg. § 31.3402(g)-1.
+
+Remoly
+
+An employer may withhold at the flat 22% rate for
+
+supplemental wages up to $1 million per calendar year, and at the mandatory 37% rate on
+amounts exceeding $1 million.
+
+Wiztax
+
+These rates, originally set by the Tax Cuts and Jobs
+
+Act, were permanently extended by P.L. 119-21 (One Big Beautiful Bill Act).
+Internal Revenue Service
+
+The flat-rate method requires that the supplemental wages be
+
+separately identified from regular wages and that the employer withheld income tax from
+regular wages in the current or prior year; otherwise the aggregate method applies.
+
+FICA applies to all severance — Quality Stores is settled law
+In United States v. Quality Stores, Inc., 572 U.S. 141 (2014), the Supreme Court held
+unanimously that severance payments are “wages” subject to FICA. Social Security tax
+(6.2% employee + 6.2% employer) applies up to the $184,500 wage base for 2026.
+Medicare tax (1.45% + 1.45%) applies without cap, plus the 0.9% Additional Medicare Tax
+on employee wages exceeding $200,000.
+(Boxes 1, 3, and 5) in the year paid
+
+Remoly
+
+1099-etc
+
+Severance is reported on Form W-2
+
+Legal Information Institute
+
+— not the year of
+
+termination.
+
+Maryland state and local taxes compound the burden
+Maryland’s progressive state income tax ranges from 2%
+Intuit TurboTax Blog
+
+LegalClarity
+
+to 6.50%
+
+following the Budget Reconciliation and Financing Act of 2025, which
+
+added two higher brackets [post-January 2024]. Baltimore City imposes a local income tax
+SmartAsset
+
+of 3.20% of Maryland taxable income — among the highest in the state.
+
+Wealthvieu
+
+Combined marginal rates for a Baltimore City resident receiving a large
+
+severance payment can reach approximately 46.7% federal + state + local before FICA, or
+roughly 54% effective including the employee’s FICA share. Maryland does not offer a
+separate flat withholding rate for supplemental wages; employers use the standard
+progressive tables.
+
+Salisbury
+
+Maryland unemployment: the salary-continuation trap
+The treatment of severance under Maryland’s unemployment system creates a meaningful
+structural choice. Under Md. Code Ann., Lab. & Empl. § 8-1009 and COMAR 09.32.02.13,
+the rules diverge sharply based on payment structure:
+
+Salary continuation (same wage amount and benefits package): Always offsets
+unemployment benefits week-for-week, regardless of whether the position was
+eliminated.
+
+Legal Information Institute
+
+This is the most restrictive treatment.
+
+Lump-sum severance when the position is eliminated: Does not offset benefits,
+provided the payment is true severance and not “wage continuation”
+Legal Information Institute
+
+(COMAR 09.32.02.13(C)).
+
+cornell
+
+Legal Information Institute
+
+Lump-sum severance when the position is not eliminated: Offsets benefits,
+Legal Information Institute
+
+allocated to weeks following separation.
+
+Legal Information Institute
+
+For a firm conducting a genuine reduction in force, structuring the payment as a lump-sum
+severance — rather than salary continuation — materially benefits the employee’s
+unemployment eligibility while costing the employer the same amount. The trade-off: the
+employer loses the clawback leverage that installment payments provide if the employee
+breaches restrictive covenants.
+
+Section 409A: the 20% tax penalty lurking in deferred payments
+If severance constitutes a “deferral of compensation” under 26 U.S.C. § 409A — meaning
+the employee has a legally binding right to payment in a later tax year — it must comply with
+409A’s strict timing and documentation rules. Noncompliance triggers a 20% additional
+tax plus premium interest on the employee, calculated from the original deferral date (§
+409A(a)(1)(B)).
+
+Wikipedia
+
+Two critical exemptions keep most severance packages outside 409A:
+Short-term deferral exception (Treas. Reg. § 1.409A-1(b)(4)): Payment made by
+March 15 of the year following the year in which the right to payment is no longer
+subject to a substantial risk of forfeiture.
+
+LegalClarity
+
+Foley & Lardner LLP
+
+Separation pay exception (Treas. Reg. § 1.409A-1(b)(9)(iii)): Total severance does not
+exceed two times the lesser of (a) the employee’s prior-year compensation or (b) the §
+401(a)(17) limit ($360,000 for 2026, yielding a cap of $720,000), and is paid by
+December 31 of the second year following separation.
+
+Foley & Lardner LLP
+
+These exemptions can be “stacked”: payments within the short-term deferral window are
+exempt under that rule, additional amounts up to $720,000 are exempt under the
+separation-pay rule, and only the excess must satisfy full 409A compliance.
+
+Pasinilaw
+
+Critical 409A drafting trap: When severance is conditioned on executing a release, and
+the release consideration period could span two calendar years (e.g., termination in
+December with a 21-day consideration period running into January), the employee
+
+effectively has discretion over which tax year the payment falls in.
+
+Herrick, Feinstein LLP
+
+The
+
+agreement must specify that payment occurs in the later calendar year or on a fixed date
+after the release period ends. Failure to include this language creates impermissible
+employee discretion under 409A.
+
+Herrick, Feinstein LLP
+
+Because this firm is privately held,
+
+the six-month delay for “specified employees” of public companies does not apply
+Wikipedia
+
+— a significant simplification.
+
+Attorney review is required for any
+
+installment schedule or deferred-payment arrangement to confirm 409A compliance.
+
+TOPIC 5: What counts as consideration and how to protect it
+Maryland courts enforce releases but require real bargained-for value
+Maryland follows the standard common-law rule: consideration must be present, but courts
+generally will not evaluate its adequacy. Blumenthal v. Heron, 261 Md. 234, 274 A.2d 636
+(1971), established that Maryland courts “will not inquire into the adequacy of value exacted
+for a promise so long as it has some value.”
+
+Maryland Lawyer Blog
+
+However, this principle has
+
+limits. Under the framework of Blum v. Blum, 59 Md. App. 584 (1984), a court may set aside
+a separation agreement where the terms are “so unfair and inequitable as to require that the
+agreement be set aside,” particularly when a confidential relationship existed or duress is
+alleged.
+
+In Cheek v. United Healthcare of the Mid-Atlantic, Inc., 378 Md. 139, 835
+
+Uslegal
+
+A.2d 656 (2003),
+
+ALFA International
+
+the Court of Appeals held that an illusory promise —
+
+one leaving the promisor free to perform or not at sole discretion — cannot constitute
+consideration.
+
+If the firm’s agreement reserves unilateral discretion to revoke or
+
+Findlaw
+
+modify severance, the release may be void.
+
+The separation of already-owed amounts is non-negotiable
+Under the MWPCL (§ 3-505), final wages must be paid on the next regular payday after
+termination — unconditionally.
+
+LegalClarity
+
+SixFifty
+
+If the employer’s written PTO policy (or
+
+lack thereof) entitles the employee to a payout, that too is an unconditional obligation.
+Justia
+
+Earned commissions must be paid even after separation (Medex v. McCabe, 372
+
+Md. 28 (2002)).
+
+ELC
+
+Conditioning any of these payments on signing the release violates
+
+the MWPCL and exposes the firm to treble damages and attorney’s fees
+SixFifty
+
+(§ 3-507.2(b)).
+
+Luchansky Law
+
+Justia
+
+The agreement must contain two clearly separated sections:
+Section A — Amounts already owed (paid unconditionally regardless of signing): final
+wages, accrued PTO (if payable under policy), earned commissions, unreimbursed
+business expenses.
+
+Section B — Additional severance consideration (paid only upon execution and
+expiration of any revocation period): a specific dollar amount clearly identified as new,
+additional value.
+
+Luchansky Law
+
+What happens if these are bundled: A court could find no independent consideration
+supported the release, rendering it voidable. The employee may also argue coercion — that
+they were forced to sign a release to obtain wages already owed — compounding the
+MWPCL violation with an unconscionability defense under Blum. This is the most common
+structural failure in separation agreements reviewed by Maryland courts.
+
+There is no statutory minimum, but nominal consideration is reckless
+No Maryland appellate court has established a specific dollar threshold for consideration
+supporting a release. Under Blumenthal, even $1 might technically suffice for a simple
+contract.
+
+Maryland Lawyer Blog
+
+But in the employment-release context, where the power
+
+imbalance is inherent and unconscionability scrutiny is heightened, nominal consideration
+invites challenge. Courts and juries view a trivial payment as evidence that no genuine
+bargain occurred. Best practice: Provide consideration reasonably proportionate to the
+claims being released. Industry convention of one to two weeks’ salary per year of
+service offers a defensible benchmark,
+
+Rippling
+
+though the firm should calibrate to the
+
+risk profile of each separation. A practical minimum of two weeks’ additional pay beyond all
+amounts owed provides a defensible floor for most positions.
+
+No changes to Maryland consideration law since January 2024
+No legislative or appellate developments since January 2024 have altered Maryland’s
+consideration requirements for separation agreements. The fundamental framework — real,
+additional, bargained-for value beyond existing obligations — remains unchanged. The firm
+should, however, update templates to account for new obligations under Maryland’s wagetransparency requirements (SB 525/HB 649, effective October 1, 2024)
+
+VirgilHR DEV 2
+
+and
+
+the FAMLI program (contributions beginning July 1, 2025; benefits beginning July 1, 2026),
+Shawe
+
+VirgilHR DEV 2
+
+which may affect benefits-related provisions.
+
+Conclusion: four non-negotiable rules for this firm
+First, bifurcate consideration ruthlessly: separate every dollar the firm already owes from
+the new severance payment, and pay the former unconditionally on the next regular payday.
+Second, treat OWBPA compliance as binary: the eight statutory requirements are strict
+and unqualified, and a single deficiency voids the entire age-discrimination waiver
+Gibbons P.C.
+
+while the employee keeps the money (Oubre). Third, include every required
+
+carve-out — for EEOC/MCCR charge-filing, NLRB Section 7 activity, SEC/IRS whistleblower
+
+reporting and awards, and workers’ compensation claims — because the penalties for
+omission (SEC fines exceeding $3 million in September 2024 alone,
+
+Proskauer Rose LLP
+
+NLRB unfair-labor-practice liability, MWPCL treble damages) far exceed any marginal
+confidentiality benefit. Fourth, structure payments to match business objectives: lumpsum severance preserves the employee’s Maryland unemployment eligibility when the
+position is eliminated,
+
+cornell
+
+while installments preserve employer clawback leverage over
+
+restrictive covenants
+
+Legal Information Institute
+
+analysis to avoid the 20% penalty tax.
+
+— but installment plans demand careful 409A
+
+Foley & Lardner LLP
+
+Pasinilaw
+
+The legal landscape remains in flux. McLaren Macomb is binding Board precedent
+Employmentlawworldview
+Koley Jessen
+
+dramatically,
+
+despite the rescission of the GC guidance memo,
+
+NatLawReview
+
+the SEC’s whistleblower-award enforcement campaign has intensified
+Proskauer Rose LLP
+
+and Maryland has expanded protected classes and pay-
+
+transparency requirements. A template built on these principles will be durable, but every
+individual agreement involving group terminations, executive-level payments exceeding the
+409A safe harbors, or employees with access to this firm’s proprietary methodology and
+client data warrants review by a licensed Maryland employment attorney before execution.
+Luchansky Law
+
+

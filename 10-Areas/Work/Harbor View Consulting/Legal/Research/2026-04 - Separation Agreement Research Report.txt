@@ -1,0 +1,435 @@
+SEPARATION AND SEVERANCE AGREEMENTS
+
+Comprehensive Legal Research Report
+
+For a Baltimore-Based Professional Services Employer
+
+Prepared April 2026
+
+CONFIDENTIAL - FOR INTERNAL USE ONLY
+
+DISCLAIMER: This document is an AI-generated legal research compilation. It is not legal advice. All provisions, clauses, and strategies described herein must be reviewed and approved by a licensed Maryland employment attorney before implementation. Laws in this area are actively evolving, and specific citations should be independently verified.
+
+1. STANDARD COMPONENTS OF A SEPARATION AGREEMENT
+
+A well-drafted separation agreement for a Baltimore-based professional services firm should contain each of the following clauses. Each serves a distinct legal purpose, and omitting any one can create an enforceability gap or leave the employer exposed to post-separation claims.
+
+1.1 Termination Details
+
+The agreement should state the employee's name, position, last date of employment, and the characterization of the separation (voluntary resignation, involuntary termination, mutual agreement, or reduction in force). This clause establishes the factual predicate for the entire agreement and removes ambiguity about whether the employee was terminated for cause, which can affect unemployment eligibility and the narrative around the departure. For a professional services firm where employees have client relationships, specifying the separation date also anchors the start of any restrictive covenant periods.
+
+1.2 Consideration
+
+The consideration clause defines what the employer is providing in exchange for the employee's promises. Adequate consideration is essential to enforceability. In Maryland, consideration for a release must be something beyond what the employee is already legally entitled to receive. This means accrued wages, vested benefits, and earned PTO payout (if required by policy or contract) cannot serve as consideration for a release. The severance payment, extended benefits, outplacement services, or other voluntary benefits provided must be clearly delineated as separate from legally owed amounts. See Section 11 for a detailed analysis of consideration adequacy under Maryland law.
+
+1.3 Release of Claims
+
+The general release is the core of any separation agreement from the employer's perspective. A properly drafted release should identify the specific federal, state, and local laws under which claims are being waived, including Title VII, the ADA, the ADEA, the FMLA, Section 1981, ERISA (to the extent waivable), the Maryland Fair Employment Practices Act (Md. Code, State Gov't Art. § 20-601 et seq.), and any applicable local anti-discrimination ordinances. The release should cover known and unknown claims arising from the employment relationship up to the date of execution. It must not, however, purport to waive claims that arise after the agreement is signed, claims for vested benefits under ERISA, claims for workers' compensation benefits, the right to file charges with or participate in EEOC or NLRB proceedings, or claims that cannot be waived as a matter of law. See Section 2 for prohibited provisions and Section 3 for OWBPA-specific requirements for employees age 40 and older.
+
+1.4 COBRA and Benefits Continuation
+
+The agreement should address the employee's rights under COBRA (29 U.S.C. §§ 4980B, 1161-1168), including whether the employer will subsidize premiums for a stated period. Maryland does not have a state mini-COBRA statute that extends beyond the federal 18-month period for qualifying events, but employers should clearly state the duration of any employer-paid COBRA subsidy, who administers the enrollment, and when the subsidy terminates. Other benefits to address include life insurance conversion rights, 401(k) distribution options, and any continuation of equity vesting.
+
+1.5 Return of Property
+
+This clause requires the employee to return all employer property, including laptops, access badges, client files, proprietary documents, and copies of electronic data. For a professional services firm, this clause should specifically reference client engagement files, work papers, financial models, pricing methodologies, and any proprietary technology or tools. The clause should also require the employee to certify that they have not retained copies of any proprietary information in any format, including personal devices, cloud storage, or email.
+
+1.6 Cooperation
+
+A cooperation clause obligates the departing employee to assist with transition matters, respond to reasonable inquiries, and participate in any litigation or regulatory proceedings related to matters they handled during employment. This is particularly important in a professional services context where the employee may have been the primary relationship holder for client engagements. The clause should specify the scope of cooperation, any compensation for time spent (particularly for post-separation cooperation), and a reasonable duration. Courts generally enforce reasonable cooperation clauses but may scrutinize ones that effectively require ongoing full-time availability without compensation.
+
+1.7 Representations and Warranties
+
+Both parties should represent that they have the authority to enter into the agreement, that the employee has had the opportunity to consult with counsel, and that the employee is entering into the agreement voluntarily. The employee should represent that they have returned all company property and have not filed any claims or complaints other than those disclosed. The employer should represent that the severance payment is not subject to any known offset or deduction beyond standard tax withholding.
+
+1.8 Severability
+
+A severability clause provides that if any provision of the agreement is found unenforceable, the remaining provisions survive. This is particularly important given the evolving state of law around confidentiality and non-disparagement provisions post-McLaren Macomb. Without a severability clause, a court finding one provision unlawful could void the entire agreement, including the release of claims. Maryland courts apply the blue-pencil doctrine to restrictive covenants, which permits reformation of overbroad provisions rather than wholesale invalidation. Including a severability clause reinforces this approach.
+
+1.9 Governing Law and Venue
+
+A governing law clause should specify that Maryland law governs the agreement and that any disputes will be resolved in the courts of Maryland (or the U.S. District Court for the District of Maryland). For a Baltimore-based employer, this is straightforward for Maryland-based employees. For remote employees in other states, the enforceability of a Maryland choice-of-law provision may be limited. See Section 12 for multistate considerations.
+
+1.10 Integration Clause
+
+The integration (or merger) clause states that the agreement constitutes the entire understanding between the parties and supersedes all prior negotiations, representations, or agreements. This prevents the employee from later claiming that oral promises were made that contradict the written agreement. Any carve-outs from integration (such as surviving restrictive covenants from a prior employment agreement) should be explicitly stated.
+
+2. PROHIBITED OR HIGH-RISK PROVISIONS
+
+Certain provisions, if included in a separation agreement, can render it unenforceable or create affirmative liability for the employer. The following categories represent the highest-risk areas.
+
+2.1 Overbroad Waivers of Future Claims
+
+A release cannot waive claims that have not yet arisen. Under 29 U.S.C. § 626(f)(1)(C) (OWBPA), a waiver of ADEA rights "may not waive rights or claims that may arise after the date the waiver is executed." This principle extends to other statutes. If the employee continues on payroll for a transition period after signing, the release must be updated or the agreement must specify that the release covers only claims arising through the execution date.
+
+2.2 EEOC Participation Waivers
+
+A separation agreement cannot prohibit an employee from filing a charge with the EEOC or participating in an EEOC investigation. The EEOC has consistently taken the position that such provisions violate public policy. In EEOC v. Cosmair, Inc., 821 F.2d 1085 (5th Cir. 1987), the court held that an employee's right to file a charge with the EEOC cannot be waived. The agreement may, however, waive the employee's right to recover monetary damages in any EEOC proceeding. The recommended approach is to include a carve-out explicitly preserving the right to file charges and cooperate with government agencies while waiving the right to personal monetary recovery.
+
+2.3 NLRB Participation Waivers
+
+Similarly, the agreement cannot prohibit the employee from filing unfair labor practice charges with the NLRB, participating in NLRB proceedings, or communicating with the NLRB about workplace conditions. Even under the current Trump-era NLRB, the underlying Board decision in McLaren Macomb, 372 NLRB No. 58 (2023), remains good law and was affirmed by the Sixth Circuit in September 2024. The rescission of GC Memo 23-05 changes enforcement priorities but does not overrule the Board's decision. See Section 4 for detailed analysis.
+
+2.4 FLSA Waiver Restrictions
+
+Claims under the Fair Labor Standards Act (29 U.S.C. § 201 et seq.) generally cannot be waived in a private settlement agreement without court or Department of Labor approval. In Lynn's Food Stores, Inc. v. United States, 679 F.2d 1350 (11th Cir. 1982), the court held that private settlements of FLSA claims are permissible only if supervised by the DOL or approved by a court after scrutiny for fairness. If there is any possibility that the employee has unpaid overtime or minimum wage claims, the separation agreement should not purport to release FLSA claims without judicial or DOL supervision, or alternatively, the employer should resolve any FLSA exposure through a separate DOL-supervised settlement.
+
+2.5 Workers' Compensation Waiver Limits
+
+Maryland law prohibits waiver of workers' compensation rights in most circumstances. Under the Maryland Workers' Compensation Act (Md. Code, Lab. & Empl. Art. § 9-101 et seq.), an employee's right to file a workers' compensation claim generally cannot be waived by agreement. If the employee has a pending or known workers' compensation claim, the separation agreement should carve out that claim from the release. Any settlement of a workers' compensation claim must be approved by the Maryland Workers' Compensation Commission.
+
+2.6 Provisions That Chill Protected Concerted Activity
+
+Beyond confidentiality and non-disparagement (addressed in detail in Sections 4 and 5), any provision that has a "reasonable tendency" to interfere with Section 7 rights under the NLRA is at risk. This includes overbroad non-solicitation clauses that prevent employees from communicating with former coworkers about workplace conditions, cooperation clauses that could be read to prevent employees from assisting former colleagues in legal proceedings, and social media restrictions that prevent discussion of wages, hours, or working conditions.
+
+⚠ ATTORNEY REVIEW RECOMMENDED: Have outside counsel review the complete release language, FLSA waiver approach, and any provision that could be interpreted as restricting communication with government agencies.
+
+3. RELEASE OF AGE DISCRIMINATION CLAIMS (OWBPA COMPLIANCE)
+
+The Older Workers Benefit Protection Act (OWBPA), codified at 29 U.S.C. § 626(f), establishes mandatory requirements for a knowing and voluntary waiver of Age Discrimination in Employment Act (ADEA) claims. Failure to comply with any of these requirements renders the ADEA waiver invalid, meaning the employee can pursue age discrimination claims while retaining the severance payment (Oubre v. Entergy Operations, Inc., 522 U.S. 422 (1998)).
+
+3.1 Seven Minimum Requirements for Individual Terminations
+
+For a waiver of ADEA claims to be knowing and voluntary, the agreement must satisfy all of the following requirements under 29 U.S.C. § 626(f)(1)(A)-(G):
+
+First, the waiver must be written in a manner calculated to be understood by the individual employee or the average individual eligible to participate. EEOC regulations at 29 C.F.R. § 1625.22 emphasize plain language geared to the comprehension level of the individual.
+
+Second, the waiver must specifically refer to rights or claims arising under the ADEA by name. A generic release of "all federal claims" is insufficient; the agreement must expressly state that the employee is waiving claims under the Age Discrimination in Employment Act.
+
+Third, the waiver must not waive rights or claims that may arise after the date the waiver is executed.
+
+Fourth, the employee must receive consideration in addition to anything of value to which the individual is already entitled. This means the severance must exceed any amounts the employee would receive absent the agreement.
+
+Fifth, the employee must be advised in writing to consult with an attorney prior to executing the agreement. The language must specifically recommend consulting an attorney, not merely state that the employee "may" consult with counsel.
+
+Sixth, the individual must be given a period of at least 21 days within which to consider the agreement. The 21-day period runs from the date of the employer's final offer. Material changes to the offer restart the 21-day clock; immaterial changes do not, unless the parties agree otherwise.
+
+Seventh, the agreement must provide that for a period of at least 7 days following execution, the individual may revoke the agreement, and the agreement shall not become effective or enforceable until the revocation period has expired.
+
+3.2 Additional Requirements for Group Terminations (45-Day Rule)
+
+When a waiver is requested in connection with an exit incentive or other employment termination program offered to a group or class of employees, the consideration period increases from 21 days to 45 days. Under 29 U.S.C. § 626(f)(1)(H), the employer must also provide the employee, in writing and in a manner calculated to be understood, with the following additional disclosures:
+
+The employer must identify the class, unit, or group of individuals covered by the program, any eligibility factors for the program, and any applicable time limits. The employer must also disclose the job titles and ages of all individuals eligible or selected for the program, and the ages of all individuals in the same job classification or organizational unit who are not eligible or selected. This is the "decisional unit" disclosure, which is intended to allow the employee to assess whether there is a pattern of age-based selection. The regulations at 29 C.F.R. § 1625.22(f) define the "decisional unit" as the relevant organizational grouping from which the employer selected employees for the program.
+
+3.3 Practical Best Practices
+
+Even for employees under age 40, providing the 21-day consideration period and 7-day revocation window is a best practice that strengthens the enforceability of the release under general contract law principles of voluntariness. For any separation that could be characterized as part of a group reduction, err on the side of applying the 45-day period and providing the decisional unit disclosure. The cost of over-compliance is trivial; the cost of non-compliance is a voidable ADEA waiver.
+
+⚠ ATTORNEY REVIEW RECOMMENDED: The OWBPA decisional unit disclosure for group terminations is technically complex and fact-specific. Outside counsel should prepare this disclosure for any RIF or group separation event.
+
+4. NLRA / McLAREN MACOMB ANALYSIS
+
+4.1 The McLaren Macomb Decision (February 2023)
+
+In McLaren Macomb, 372 NLRB No. 58 (February 21, 2023), the National Labor Relations Board held that the mere proffer of a severance agreement containing overly broad confidentiality and non-disparagement provisions violates Section 8(a)(1) of the NLRA because such provisions have a reasonable tendency to interfere with, restrain, or coerce the exercise of Section 7 rights. The decision reversed the Trump-era precedent established in Baylor University Medical Center, 369 NLRB No. 43 (2020), and International Game Technology, 370 NLRB No. 50 (2020), which had applied a totality-of-circumstances test.
+
+The specific provisions at issue prohibited employees from making "statements to other employees or to the general public which could disparage or harm the image of" the employer and from disclosing the terms of the severance agreement to "any third person." The Board found the non-disparagement clause unlawful because it broadly prohibited employees from discussing wages, hours, working conditions, and labor disputes. It found the confidentiality clause unlawful because it precluded the employee from disclosing the agreement's terms to the NLRB, to former coworkers evaluating their own severance offers, and to anyone who might assist the employee in exercising protected rights.
+
+4.2 The Sixth Circuit Affirmance (September 2024)
+
+On September 19, 2024, the Sixth Circuit Court of Appeals issued a per curiam decision granting the NLRB's petition for enforcement and denying McLaren Macomb's cross-petition for review. The appellate court applied the "quite limited" standard of review applicable to NLRB decisions and found "substantial evidence" supporting the Board's conclusions. The Sixth Circuit did not, however, provide significant additional guidance on the scope of permissible confidentiality or non-disparagement provisions. Legal commentators have noted that the narrow facts of the case (failure to bargain, direct dealing, overbroad language) may limit the precedential reach, but the core holding regarding overbroad provisions stands.
+
+4.3 Rescission of GC Memo 23-05 (February 2025)
+
+On February 14, 2025, Acting NLRB General Counsel William B. Cowen, appointed by President Trump, issued Memorandum GC 25-05, which rescinded GC Memo 23-05 along with 28 other Abruzzo-era memoranda. GC 23-05 had provided the most expansive interpretation of McLaren Macomb, including the position that the decision applied retroactively, that savings clauses alone may not cure overbroad provisions, and that the mere offer of an agreement with offending provisions was itself an unfair labor practice.
+
+The rescission of GC 23-05 means that the General Counsel's office will no longer pursue the most aggressive interpretations of McLaren Macomb. Regional offices are unlikely to bring new complaints based on the expansive theories articulated in the memo. The Trump-era Board is also expected, if and when it regains a quorum, to revisit McLaren Macomb and potentially return to the more permissive Baylor/IGT framework.
+
+4.4 Current State of the Law (April 2026)
+
+The situation as of today is layered. McLaren Macomb remains the NLRB's binding precedent. The Sixth Circuit has affirmed the decision. These cannot be undone by a General Counsel memorandum. However, the practical enforcement risk has diminished significantly: the GC's office is not actively prosecuting cases under McLaren Macomb's broadest interpretations, and the current Board lacks a quorum to issue new decisions. The NLRB currently has only two members following President Trump's dismissal of Member Gwynne Wilcox, and that removal is being litigated.
+
+For a non-union professional services employer, the practical risk profile has shifted. However, McLaren Macomb applies to all NLRA-covered employees regardless of union status. Section 7 rights belong to all employees, not just unionized ones. The safest approach is to draft provisions that would survive scrutiny under both the McLaren Macomb standard and any future reversion to a more permissive framework.
+
+4.5 Recommended Savings Clause Language
+
+"Nothing in this Agreement shall be construed to limit or restrict Employee's rights under Section 7 of the National Labor Relations Act, including the right to engage in protected concerted activity, to file unfair labor practice charges with the NLRB, to communicate with the NLRB, or to assist other employees in exercising their rights under the NLRA. Employee's rights under this paragraph shall not be conditioned upon receipt of any consideration under this Agreement."
+
+⚠ ATTORNEY REVIEW RECOMMENDED: The interaction between McLaren Macomb, the GC memo rescission, and potential future Board action creates genuine legal uncertainty. Have outside counsel draft confidentiality and non-disparagement provisions with appropriate carve-outs.
+
+5. ANTI-DISPARAGEMENT CLAUSES
+
+5.1 Drafting Principles Post-McLaren Macomb
+
+The key drafting challenge is to protect the employer's reputation and goodwill without broadly prohibiting statements that touch on wages, working conditions, or other terms of employment that are protected under Section 7 of the NLRA. The approach is to make the restriction mutual, define "disparagement" narrowly, and include explicit carve-outs for all protected activity.
+
+5.2 Required Carve-Outs
+
+Any non-disparagement clause should expressly exclude the following from the definition of prohibited statements: truthful statements made to any federal, state, or local government agency, including the NLRB, EEOC, SEC, DOL, and any state equivalents; truthful statements made to an attorney for the purpose of obtaining legal advice; testimony or statements required by law, regulation, or legal process; communications protected under Section 7 of the NLRA, including discussions about wages, hours, and working conditions with current or former employees; and statements made in connection with filing a workers' compensation claim, unemployment claim, or whistleblower complaint.
+
+5.3 Recommended Clause Structure
+
+"Mutual Non-Disparagement. Neither Party shall make any false, misleading, or defamatory statements about the other Party to any third party. For purposes of this provision, 'disparagement' means knowingly false statements of fact made with malice. This provision shall not restrict either Party from: (a) making truthful statements to any government agency, regulatory body, or self-regulatory organization; (b) filing, testifying, or participating in any government investigation, hearing, or proceeding; (c) communicating truthfully with an attorney for the purpose of obtaining legal advice; (d) engaging in any activity protected by Section 7 of the National Labor Relations Act, including discussing wages, hours, and working conditions; (e) responding truthfully to legal process or a request from a government agency; or (f) making any statement required by law."
+
+This structure ties disparagement to knowingly false statements of fact, which avoids the McLaren Macomb problem of broadly prohibiting any statement that "could disparage or harm the image of" the employer. The carve-outs cover the full range of protected activity. Making the provision mutual also strengthens enforceability because it demonstrates that the employer is not unilaterally silencing the employee.
+
+6. NON-DISCLOSURE / NDA PROVISIONS
+
+6.1 Scope of Enforceable Confidentiality
+
+Post-employment confidentiality obligations in a separation agreement serve a different purpose than the confidentiality of the agreement's terms (which is what McLaren Macomb primarily addressed). An NDA protecting the employer's proprietary business information, trade secrets, and client data remains enforceable and is not subject to the same NLRA concerns. The NLRB General Counsel's rescinded memo (GC 23-05) itself acknowledged that employers may lawfully restrict the disclosure of proprietary and trade secret information.
+
+Categories of information that can be restricted include: trade secrets (client data, proprietary methodologies, pricing models, engagement approaches); confidential business information (financial results, strategic plans, employee compensation data, vendor terms); and client information (client identities, engagement terms, work product). Categories that cannot be restricted include: information about the employee's own wages, hours, and working conditions; information the employee needs to exercise rights under the NLRA; information already in the public domain; and general skills, knowledge, and experience the employee gained during employment.
+
+6.2 Duration
+
+For trade secrets, Maryland courts have upheld indefinite confidentiality obligations, consistent with the principle that trade secret protection lasts as long as the information remains secret. For general confidential information (not rising to trade secret status), a time-limited restriction of two to three years post-separation is more defensible. Maryland courts have not established a bright-line rule, but the reasonableness analysis tracks the same four-factor framework used for other restrictive covenants.
+
+6.3 Defend Trade Secrets Act (DTSA) Immunity Notice
+
+Under 18 U.S.C. § 1833(b)(3)(A), any contract or agreement with an employee that governs the use of a trade secret or other confidential information must include notice of the whistleblower immunity provision. This notice must inform the employee that they will not be held criminally or civilly liable under any federal or state trade secret law for disclosing a trade secret in confidence to a government official or attorney solely for the purpose of reporting or investigating a suspected violation of law, or in a complaint filed under seal in a lawsuit. The penalty for non-compliance is the employer's inability to recover exemplary damages or attorney's fees in a DTSA action against that employee (18 U.S.C. § 1833(b)(3)(C)). Alternatively, the employer may satisfy this requirement by providing a cross-reference to a policy document that sets forth the employer's reporting policy (18 U.S.C. § 1833(b)(3)(B)).
+
+6.4 Maryland-Specific Considerations
+
+Maryland follows the Uniform Trade Secrets Act (Md. Code, Com. Law Art. § 11-1201 et seq.) and recognizes both the DTSA federal cause of action and state trade secret claims. Maryland courts apply a "reasonable efforts" standard for trade secret protection. An employer claiming trade secret status must demonstrate that it took reasonable measures to maintain secrecy. In LeJeune v. Coin Acceptors, Inc., 381 Md. 288 (2004), the Maryland Court of Appeals held that an employer's failure to consistently enforce confidentiality obligations undermined its trade secret claims. For a professional services firm, this means that the NDA in the separation agreement should be consistent with the confidentiality obligations in the employee's original employment agreement and the firm's day-to-day information security practices.
+
+7. NON-SOLICITATION OF CLIENTS
+
+7.1 Maryland Common Law Framework
+
+Maryland courts evaluate non-solicitation of client provisions under the same general reasonableness framework applied to all restrictive covenants. The four factors are: (1) whether the restriction is necessary to protect the employer's legitimate business interest (such as client relationships, goodwill, or confidential information); (2) whether the restriction is no broader in scope or duration than reasonably necessary to protect that interest; (3) whether the restriction imposes undue hardship on the employee; and (4) whether enforcement violates public policy. Maryland courts have consistently stated that this is a fact-specific, case-by-case inquiry rather than a mechanical rule.
+
+7.2 The Relationship-Based Limitation
+
+In a significant 2024 decision, the U.S. District Court for the District of Maryland invalidated client non-solicitation provisions that were not limited to clients with whom the employee had an actual working relationship. The court found overbroad a provision that prohibited the employee from attempting to "obtain, accept or in any manner transact business" with any "Clients," where "Clients" was expansively defined to include any individual or entity solicited by any employee of the company within the preceding 12 months. The court identified two fatal defects: first, the restriction barred even the passive acceptance of work from the employer's customers, when the employer's legitimate interest is in preventing an employee from using relationships formed during employment to "pirate" customers, not in preventing customers from choosing to follow an employee on their own; second, the provision extended to prospective clients with whom no relationship or goodwill had ever been established, which the court found untethered to any protectable interest.
+
+The lesson for a professional services firm is clear: define the restricted clients as those with whom the departing employee personally worked, had a direct professional relationship, or to whom the employee was introduced through the employer, during a specified lookback period (typically the last 12 to 24 months of employment). Do not extend the restriction to all clients of the firm.
+
+7.3 Recommended Duration and Scope
+
+Maryland courts have generally upheld non-solicitation periods of 12 to 24 months. For professional services, where client relationships are typically annual engagement cycles, a 12-month restriction covering clients the employee directly served during the last 12 to 24 months of employment is defensible. The restriction should prohibit active solicitation but not passive acceptance of business. A client who independently seeks out the former employee, without any solicitation, should not trigger a breach. Note that Maryland's non-compete statute (Md. Code, Lab. & Empl. § 3-716) explicitly provides that it does not apply to agreements restricting the taking or use of proprietary client-related information, meaning non-solicitation clauses are not subject to the wage threshold restrictions that apply to non-competes.
+
+⚠ ATTORNEY REVIEW RECOMMENDED: Client non-solicitation provisions that sweep in all firm clients, prospective clients, or that prohibit passive acceptance of client-initiated contact are at serious risk of invalidation under current Maryland case law. Draft narrowly.
+
+8. NON-SOLICITATION OF EMPLOYEES
+
+8.1 Maryland Framework
+
+Employee non-solicitation provisions are analyzed under the same four-factor reasonableness test as client non-solicitation and non-compete provisions. Maryland courts have recognized that employers have a legitimate interest in preventing departing employees from raiding the workforce, particularly when those employees have knowledge of compensation structures, team dynamics, and individual performance that could be used to target recruits.
+
+8.2 Relationship-Based Limitations
+
+The 2024 D. Md. decision discussed in Section 7 also struck down an employee non-solicitation provision because it was not limited to employees with whom the departing employee had direct interaction. The provision extended to all employees and independent contractors of the company. The court found this absence of relationship-based tailoring fatal, noting that without evidence of meaningful interaction, the employer lacked a legitimate interest in restricting solicitation.
+
+The best practice is to limit the restriction to employees with whom the departing employee directly worked, supervised, or had regular professional interaction during a specified lookback period. For a professional services firm, this would typically include team members on shared engagements, direct reports, and others in the employee's working group.
+
+8.3 Duration and Drafting Pitfalls
+
+A 12-month restriction on employee solicitation is generally defensible in Maryland. Restrictions beyond 18 months face increasing scrutiny. Common drafting pitfalls that lead to invalidation include: defining the restricted group as "all employees" without any relationship limitation; including independent contractors without justification; failing to distinguish between active solicitation and mere hiring (i.e., the restriction should cover actively recruiting, not the situation where a former colleague independently applies for a position at the departing employee's new employer); and using vague or undefined terms like "induce" or "entice" without clarifying what conduct is actually prohibited.
+
+9. NON-COMPETE ANALYSIS
+
+9.1 Maryland Statutory Wage Threshold
+
+Maryland Labor & Employment Code § 3-716 prohibits non-compete and conflict-of-interest provisions for employees earning equal to or less than 150% of the state minimum wage. With Maryland's minimum wage at $15.00 per hour (effective January 1, 2024, statewide as of July 1, 2025), the threshold is $22.50 per hour, or approximately $46,800 annually. Any non-compete with an employee earning at or below this threshold is void as a matter of law. The statute applies regardless of where the agreement was signed.
+
+Importantly, § 3-716 explicitly excludes from its scope agreements that restrict the taking or use of proprietary client-related information. Non-disclosure, confidentiality, and non-solicitation agreements remain enforceable regardless of the employee's wage level.
+
+9.2 Healthcare and Veterinary Carve-Outs
+
+Effective July 1, 2025, Maryland prohibits non-competes for licensed healthcare professionals who provide direct patient care and earn $350,000 or less annually. For those earning more than $350,000, non-competes are limited to one year in duration and 10 miles in geographic scope. Non-competes for veterinarians and veterinary technicians have been prohibited since June 1, 2024. These provisions are not retroactive and apply only to agreements executed on or after the effective dates.
+
+9.3 Common Law Reasonableness Test
+
+For employees above the wage threshold and outside the healthcare/veterinary carve-outs, Maryland courts apply the four-factor common law reasonableness test. Non-competes will be upheld if: (1) the restriction is supported by adequate consideration; (2) the restriction is ancillary to the employment relationship; (3) the scope (geographic area and duration) is reasonably necessary to protect the employer's legitimate business interests; and (4) enforcement does not impose undue hardship on the employee or disregard public interests. Maryland courts have generally upheld non-competes with durations of up to two years (see TEKsystems, Inc. v. Bolton, 2010 U.S. Dist. LEXIS 9651 (D. Md. 2010); PADCO Advisors, Inc. v. Omdahl, 179 F. Supp. 2d 600 (D. Md. 2002)). Maryland follows the blue-pencil doctrine, permitting courts to reform overbroad provisions.
+
+9.4 Pending Legislation
+
+Maryland Senate Bill 658 was introduced in January 2025 and proposed further restrictions on non-compete agreements. As of the research date for this report, SB 658 does not appear to have been enacted. Additionally, as of January 2026, the Maryland legislature was considering House Bill 1016, which would void non-competes where employers relocate or cease to have a majority of employees in the state. Employers should monitor these bills through the Maryland General Assembly website.
+
+9.5 FTC Non-Compete Rule Status
+
+On September 5, 2025, the Federal Trade Commission voted 3-1 to dismiss its pending appeals and accede to the vacatur of the Non-Compete Clause Rule that had been finalized in April 2024. The FTC formally removed the rule from the Code of Federal Regulations effective February 12, 2026. There is no longer a federal regulatory ban on non-compete agreements. However, the FTC has signaled that it will continue to challenge anticompetitive non-competes on a case-by-case basis under Section 5 of the FTC Act, as demonstrated by its September 2025 enforcement action against Gateway Pet Memorial Services. The FTC also launched a public inquiry in September 2025 to gather data on the scope and effects of non-compete agreements, signaling continued interest in the area.
+
+9.6 When to Use Non-Competes vs. Non-Solicitation + NDA
+
+For a professional services firm, a non-compete is most defensible for senior personnel who have broad client relationships, access to the firm's strategic plans and pricing methodology, and the ability to replicate the firm's service model at a competitor. For mid-level and junior employees, a combination of robust non-solicitation (of both clients and employees) and a strong NDA typically provides adequate protection with significantly less enforceability risk. Given the current legislative trend toward restricting non-competes, the NDA-plus-non-solicitation approach is increasingly the pragmatic default for all but the most senior departures.
+
+10. SEVERANCE PAYMENT STRUCTURE
+
+10.1 Lump Sum vs. Installments
+
+The choice between a lump-sum payment and installment payments has tax, benefits, and unemployment implications. A lump sum concentrates all income into a single tax year, which can push the employee into a higher marginal tax bracket (bracket risk). Installment payments spread the income over multiple periods, which may reduce the marginal tax rate on the severance income. However, installment payments also create ongoing administrative obligations for the employer and may implicate Section 409A of the Internal Revenue Code if not properly structured.
+
+10.2 IRS Supplemental Wage Treatment
+
+Under IRS regulations, severance pay is treated as supplemental wages. If the supplemental wages are separately identifiable from regular wages, the employer may withhold federal income tax at a flat rate of 22% for amounts up to $1 million (37% for amounts exceeding $1 million). Alternatively, the employer can use the aggregate method, which combines the supplemental payment with regular wages for the pay period and calculates withholding at the employee's effective marginal rate. The flat-rate method is simpler but may result in over- or under-withholding depending on the employee's total annual income. Severance payments are also subject to FICA taxes (Social Security and Medicare) and should be reported on the employee's W-2 for the year paid.
+
+10.3 Maryland Unemployment Benefit Impact
+
+In Maryland, the impact of severance on unemployment benefits depends on how the payment is structured. Maryland law (COMAR 09.32.01.18) provides that severance pay may be allocated over the period it represents. Lump-sum severance may be allocated over the number of weeks of pay it represents, during which period the employee may be ineligible for unemployment benefits. Salary continuation (where the employee remains on payroll and receives regular paychecks) typically makes the employee ineligible for unemployment benefits during the continuation period because they are still receiving "wages" for purposes of the unemployment statute. After the salary continuation period ends, the employee can file for benefits.
+
+10.4 Section 409A Compliance
+
+IRC Section 409A imposes strict rules on deferred compensation, including penalties of a 20% additional tax plus interest on amounts that fail to comply. Severance payments can implicate 409A if they are paid on a schedule that extends beyond the "short-term deferral" safe harbor (generally, by March 15 of the year following the year the right to payment is no longer subject to a substantial risk of forfeiture). The most commonly used exemptions are the short-term deferral exemption (Treas. Reg. § 1.409A-1(b)(4)) and the two-year/two-times pay separation pay exemption (Treas. Reg. § 1.409A-1(b)(9)(iii)), which exempts separation pay that does not exceed the lesser of two times the employee's annual compensation or two times the 401(a)(17) limit ($345,000 for 2025 [confirm for 2026]), paid by the end of the second calendar year following separation. Any payment structure that extends beyond these safe harbors requires full 409A compliance, including restrictions on timing of payment and prohibitions on acceleration.
+
+⚠ ATTORNEY REVIEW RECOMMENDED: Section 409A compliance for installment severance payments is highly technical. Have tax counsel review any payment structure that extends beyond a single lump sum paid within the short-term deferral window.
+
+11. CONSIDERATION ADEQUACY
+
+11.1 Maryland Standard
+
+Under Maryland contract law, a release is enforceable only if supported by adequate consideration. In the separation agreement context, this means the employee must receive something of value beyond what they are already legally entitled to. Accrued wages must be paid regardless of whether the employee signs a release (Md. Code, Lab. & Empl. Art. § 3-505). Vested retirement benefits are protected by ERISA and cannot be conditioned on signing a release. Earned bonuses, if already vested by the terms of the bonus plan, are owed irrespective of the release.
+
+11.2 PTO Payout
+
+Maryland does not have a statute requiring payout of unused PTO upon termination. However, if the employer's written policy or employment agreement provides for PTO payout, the employer must comply with that policy. Under Md. Code, Lab. & Empl. Art. § 3-505, an employer must pay an employee all wages due on the next regular payday. If the employer's policy defines accrued PTO as "earned wages," then PTO payout is legally owed and cannot count as consideration for the release.
+
+11.3 Delineating Owed vs. Voluntary Payments
+
+The separation agreement should clearly separate legally owed amounts from voluntary severance consideration. A recommended structure is to include a provision stating: "The Company shall pay Employee all accrued and unpaid wages, including [PTO payout / earned bonus / commissions] through the Separation Date, in accordance with Company policy and applicable law. These payments are made irrespective of whether Employee executes this Agreement. In addition, and as consideration for Employee's promises set forth herein, the Company shall provide the following Severance Benefits, which Employee acknowledges are not otherwise owed..." followed by the severance amount.
+
+11.4 Adequacy Standard
+
+Maryland does not require that consideration be proportional to the claims being released. Any additional value, even modest, can technically support a release. However, consideration that is nominal relative to the scope of the release may invite challenges on grounds of unconscionability or voluntariness. A common formula in professional services is one to four weeks of pay per year of service, though there is no legal requirement for any specific formula. The EEOC has noted that consideration should be sufficient to provide a real incentive for the employee to waive their claims, though this is guidance rather than a legal requirement.
+
+12. MULTISTATE CONSIDERATIONS
+
+12.1 Choice-of-Law Provisions
+
+A Maryland employer with remote employees in other states may include a Maryland choice-of-law provision in its separation agreements. However, the enforceability of such provisions is limited when the employee works primarily in another state. Courts generally apply either the Restatement (Second) of Conflict of Laws § 187 analysis (honoring the parties' choice unless the chosen state has no substantial relationship to the transaction or application of the chosen law would be contrary to a fundamental policy of the state with a materially greater interest) or the law of the state where the employee performs work. As a practical matter, restrictive covenants are most likely to be evaluated under the law of the state where the employee works and where enforcement is sought.
+
+12.2 States with Aggressive Restrictions
+
+California. California bans all post-employment non-compete agreements (Cal. Bus. & Prof. Code § 16600). This is a near-absolute prohibition. California also prohibits employers from requiring employees who work primarily in California to agree to non-California choice-of-law provisions for such restrictions. Non-solicitation agreements that function as de facto non-competes may also be unenforceable.
+
+District of Columbia. D.C. enacted the Ban on Non-Compete Agreements Amendment Act (D.C. Code § 32-581.01 et seq.), effective October 2022, which bans non-competes for most "covered employees" who spend a majority of their work time in D.C. The wage threshold is approximately $162,164 annually. For medical specialists, the threshold is approximately $270,274 (as adjusted).
+
+Minnesota. Effective July 1, 2023, Minnesota banned all post-employment non-compete agreements (Minn. Stat. § 181.988). The ban does not apply to non-solicitation or non-disclosure agreements.
+
+Virginia. Virginia prohibits non-competes for "low-wage employees" under Va. Code § 40.1-28.7:8. Effective July 1, 2025, this prohibition was expanded to include any employee who is non-exempt under the FLSA, regardless of their earnings. Virginia provides a private right of action with liquidated damages, lost compensation, and attorneys' fees.
+
+Colorado. Colorado restricts non-competes to employees earning above an annualized threshold of approximately $123,750 (adjusted annually). Colorado requires employers to provide notice of non-compete terms before the employee's start date or, for existing employees, at least 14 days before the effective date.
+
+Illinois. Illinois prohibits non-competes for employees earning less than $75,000 annually (increasing to $80,000 effective January 1, 2027) and prohibits non-solicitation agreements for employees earning less than $45,000 annually (increasing to $47,500 effective January 1, 2027).
+
+12.3 Practical Recommendation
+
+For a Baltimore-based professional services firm with remote employees, do not rely on a one-size-fits-all separation agreement. Maintain a base agreement with Maryland-compliant terms, and build state-specific addenda for restrictive covenant provisions tailored to the employee's work state. For employees in California, D.C., or Minnesota, non-compete provisions should be omitted entirely.
+
+⚠ ATTORNEY REVIEW RECOMMENDED: Multistate restrictive covenant compliance is one of the most complex areas in employment law. Consult with counsel licensed in each relevant state before applying restrictive covenants to remote employees.
+
+13. RESTRICTIVE COVENANT ENFORCEMENT MECHANISMS
+
+13.1 Injunctive Relief
+
+The primary remedy for breach of a restrictive covenant in Maryland is injunctive relief. A temporary restraining order (TRO) or preliminary injunction can be obtained by demonstrating: (1) a likelihood of success on the merits; (2) irreparable harm absent injunctive relief; (3) the balance of hardships favors the employer; and (4) the injunction is in the public interest. Maryland courts have generally recognized that the breach of a non-solicitation or non-compete, where the employer demonstrates a protectable interest, gives rise to a presumption of irreparable harm. However, this is not automatic, and the employer must present evidence of actual or threatened harm.
+
+13.2 Liquidated Damages
+
+Liquidated damages clauses provide a predetermined measure of damages for breach, which can be useful where actual damages are difficult to quantify (as is often the case with client solicitation). Maryland courts will enforce liquidated damages provisions if the amount represents a reasonable estimate of anticipated harm and actual damages would be difficult to calculate at the time of contracting. A liquidated damages clause that functions as a penalty (i.e., is grossly disproportionate to anticipated harm) will be struck down. For professional services, tying liquidated damages to the revenue generated by the client relationship over the prior 12 months provides a defensible basis for the estimate.
+
+13.3 Clawback Provisions
+
+A clawback provision allows the employer to recover some or all of the severance payment if the employee breaches the restrictive covenants. This creates a financial disincentive for breach and provides the employer with a readily calculable damages remedy. The clawback should be clearly tied to breach of specific, identified provisions and should survive the general release. Maryland courts have not developed extensive case law on clawback provisions in the severance context, but the general contract law principles of reasonableness and absence of penalty apply.
+
+13.4 Garden Leave
+
+Garden leave is an alternative to a traditional non-compete in which the employee remains on the employer's payroll during the restricted period but is relieved of duties. The employee receives continued compensation during the restriction period, which provides independent consideration and strengthens enforceability. Garden leave is particularly well-suited for professional services, where the primary risk is the immediate solicitation of clients following departure. By keeping the employee on payroll for a defined period (typically 30 to 90 days), the employer can manage the client transition while the employee remains bound by their duties of loyalty. After the garden leave period, the employee is free to compete, subject to any surviving non-solicitation and NDA obligations.
+
+COMPLIANCE CHECKLIST
+
+Use this checklist to audit any separation agreement draft before presenting it to a departing employee.
+
+☐
+
+Agreement specifies termination date, position, and characterization of separation.
+
+☐
+
+Consideration is clearly identified as separate from and in addition to legally owed amounts (accrued wages, earned PTO, vested benefits).
+
+☐
+
+Release of claims specifically names the ADEA (for employees 40+) and other applicable federal/state statutes.
+
+☐
+
+Release does not waive future claims, EEOC filing rights, NLRB filing rights, workers' comp rights, or FLSA claims (unless court/DOL supervised).
+
+☐
+
+OWBPA: 21-day consideration period provided (45 days if group termination).
+
+☐
+
+OWBPA: 7-day revocation period included, with agreement not effective until expiration.
+
+☐
+
+OWBPA: Written advisement to consult with an attorney.
+
+☐
+
+OWBPA: If group termination, decisional unit disclosure with job titles and ages attached.
+
+☐
+
+Confidentiality clause limited to proprietary/trade secret information; does not restrict discussion of wages, working conditions, or agreement terms with government agencies.
+
+☐
+
+Non-disparagement clause is mutual, narrowly defined, and includes carve-outs for government agencies, NLRB, attorneys, protected concerted activity, and legal process.
+
+☐
+
+NLRA savings clause included preserving Section 7 rights.
+
+☐
+
+DTSA immunity notice included (18 U.S.C. § 1833(b)) or cross-reference to employer's reporting policy.
+
+☐
+
+Client non-solicitation limited to clients with whom employee actually worked; does not prohibit passive acceptance of client-initiated contact.
+
+☐
+
+Employee non-solicitation limited to employees with whom departing employee had direct working relationship.
+
+☐
+
+Non-compete (if included) applies only to employees above the Maryland wage threshold ($22.50/hr); duration and geographic scope are reasonable.
+
+☐
+
+Non-compete is omitted for employees in California, D.C., Minnesota, or other states with blanket bans.
+
+☐
+
+Severance payment structure reviewed for Section 409A compliance.
+
+☐
+
+Tax withholding treatment specified (flat 22% supplemental or aggregate method).
+
+☐
+
+COBRA rights and any employer subsidy clearly stated.
+
+☐
+
+Return of property clause covers electronic data, client files, and personal device certifications.
+
+☐
+
+Cooperation clause specifies scope, duration, and compensation for post-separation cooperation.
+
+☐
+
+Integration clause included with carve-outs for surviving agreements.
+
+☐
+
+Severability clause included.
+
+☐
+
+Governing law and venue specified (with awareness of multistate limitations).
+
+☐
+
+Agreement reviewed by licensed Maryland employment attorney before finalization.
+
+End of Report.
