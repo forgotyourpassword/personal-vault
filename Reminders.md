@@ -1,3 +1,9 @@
+---
+tags:
+  - reminders
+  - type/log
+---
+
 # Reminders
 
 Add reminders below using the format `YYYY-MM-DD - Description`.

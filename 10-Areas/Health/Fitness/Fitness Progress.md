@@ -1,5 +1,9 @@
 ---
-tags: [area/fitness, area/health, type/log, status/active]
+tags:
+  - fitness
+  - health
+  - type/log
+  - status/active
 ---
 
 # Fitness Progress

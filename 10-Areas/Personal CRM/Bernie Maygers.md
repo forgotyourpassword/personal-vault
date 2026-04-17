@@ -1,5 +1,7 @@
 ---
-tags: [area/family, type/crm]
+tags:
+  - family
+  - type/crm
 ---
 
 # Bernie Maygers

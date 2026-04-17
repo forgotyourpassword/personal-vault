@@ -1,5 +1,9 @@
 ---
-tags: [area/fitness, area/health, type/hub, status/active]
+tags:
+  - fitness
+  - health
+  - type/hub
+  - status/active
 ---
 
 # Fitness Hub

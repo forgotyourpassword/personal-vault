@@ -1,5 +1,7 @@
 ---
-tags: [area/fitness, type/template]
+tags:
+  - fitness
+  - type/template
 ---
 
 # Strength Workout Log Template

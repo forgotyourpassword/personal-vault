@@ -1,5 +1,9 @@
 ---
-tags: [area/fitness, area/health, type/reference, status/active]
+tags:
+  - fitness
+  - health
+  - type/reference
+  - status/active
 ---
 
 # Weekly Training Plan

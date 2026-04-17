@@ -1,5 +1,7 @@
 ---
-tags: [area/fitness, type/log]
+tags:
+  - fitness
+  - type/log
 ---
 
 # Strength A — April 12, 2026
