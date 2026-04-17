@@ -1,3 +1,8 @@
+---
+tags:
+  - project
+---
+
 # Project - Clean Walls Throughout House
 
 ## Status

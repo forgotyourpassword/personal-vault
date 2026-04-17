@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Master Bathroom
 
 ## Summary
@@ -13,7 +18,7 @@ Primary bathroom fixtures, finishes, accessories, plumbing, and maintenance note
 - 
 
 ## Related projects
-- [[20-Projects/Home/Active/Project - Replace Loose Toilet Paper Holder in Master Bathroom]]
+- [[20-Projects/Home/Project - Replace Loose Toilet Paper Holder in Master Bathroom]]
 
 ## Maintenance history
 - 

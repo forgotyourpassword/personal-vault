@@ -1,3 +1,9 @@
+---
+tags:
+  - finance
+  - type/hub
+---
+
 # Finance Hub
 
 Central index for personal finance — budget, accounts, expenses, and goals.

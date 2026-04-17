@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # Providers
 
 ## Current Default
@@ -28,3 +33,4 @@
 #   provider: openrouter
 #   model: anthropic/claude-sonnet-4
 ```
+Quartz: http://192.168.1.223:8080/30-Resources/99-Hermes-Memory/07---Providers

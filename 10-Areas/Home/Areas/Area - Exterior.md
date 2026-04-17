@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Exterior
 
 ## Summary

@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # LM Studio Setup
 
 ## Installation
@@ -24,3 +29,4 @@
 
 ## Gotchas
 - `lms` daemon must be running for local models to work
+Quartz: http://192.168.1.223:8080/30-Resources/99-Hermes-Memory/02---LM-Studio-Setup

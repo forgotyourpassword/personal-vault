@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Top Floor
 
 ## Summary
@@ -14,7 +19,7 @@ Upstairs living/sleeping area, including rooms, hallways, finishes, and flooring
 - Goal is to match or coordinate with the main floor LVP installed in 2020
 
 ## Related projects
-- [[20-Projects/Home/Active/Project - Replace Top Floor Carpet with LVP]]
+- [[20-Projects/Home/Project - Replace Top Floor Carpet with LVP]]
 
 ## Maintenance history
 - 

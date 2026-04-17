@@ -1,3 +1,8 @@
+---
+tags:
+  - project
+---
+
 # Project - Replace Loose Toilet Paper Holder in Master Bathroom
 
 ## Status

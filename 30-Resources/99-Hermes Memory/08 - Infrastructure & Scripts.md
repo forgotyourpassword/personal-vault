@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # Hermes Memory - Infrastructure & Scripts
 
 ## Office Machine (Windows)
@@ -25,3 +30,4 @@
 ## Shared venv
 - Location: `~/.hermes/venv`
 - Packages: matplotlib, pillow, requests, pysmb
+Quartz: http://192.168.1.223:8080/30-Resources/99-Hermes-Memory/08---Infrastructure-&-Scripts

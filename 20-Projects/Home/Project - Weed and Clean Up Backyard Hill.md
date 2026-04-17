@@ -1,3 +1,8 @@
+---
+tags:
+  - project
+---
+
 # Project - Weed and Clean Up Backyard Hill
 
 ## Status

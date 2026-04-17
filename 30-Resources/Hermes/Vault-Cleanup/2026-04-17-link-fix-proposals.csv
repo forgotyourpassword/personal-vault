@@ -1,0 +1,20 @@
+file,old_target,new_target,confidence,reason
+10-Areas/Home/Areas/Area - Backyard.md,20-Projects/Home/Active/Project - Weed and Clean Up Backyard Hill,20-Projects/Home/Project - Weed and Clean Up Backyard Hill,high,remove stale /Active/ segment
+10-Areas/Home/Areas/Area - Basement.md,20-Projects/Home/Active/Project - Take Old Bed to Dump,20-Projects/Home/Project - Take Old Bed to Dump,high,remove stale /Active/ segment
+10-Areas/Home/Areas/Area - Flooring.md,20-Projects/Home/Active/Project - Replace Top Floor Carpet with LVP,20-Projects/Home/Project - Replace Top Floor Carpet with LVP,high,remove stale /Active/ segment
+10-Areas/Home/Areas/Area - Kids Bathroom.md,20-Projects/Home/Active/Project - Kids Bathroom Drywall Repair,20-Projects/Home/Project - Kids Bathroom Drywall Repair,high,remove stale /Active/ segment
+10-Areas/Home/Areas/Area - Kids Bathroom.md,20-Projects/Home/Active/Project - Renovate Kids Bathroom,20-Projects/Home/Project - Renovate Kids Bathroom,high,remove stale /Active/ segment
+10-Areas/Home/Areas/Area - Living Room.md,20-Projects/Home/Active/Project - Patch and Paint Living Room Ceiling Water Spots,20-Projects/Home/Project - Patch and Paint Living Room Ceiling Water Spots,high,remove stale /Active/ segment
+10-Areas/Home/Areas/Area - Master Bathroom.md,20-Projects/Home/Active/Project - Replace Loose Toilet Paper Holder in Master Bathroom,20-Projects/Home/Project - Replace Loose Toilet Paper Holder in Master Bathroom,high,remove stale /Active/ segment
+10-Areas/Home/Areas/Area - Top Floor.md,20-Projects/Home/Active/Project - Replace Top Floor Carpet with LVP,20-Projects/Home/Project - Replace Top Floor Carpet with LVP,high,remove stale /Active/ segment
+10-Areas/Home/Areas/Area - Whole House.md,20-Projects/Home/Active/Project - Clean Walls Throughout House,20-Projects/Home/Project - Clean Walls Throughout House,high,remove stale /Active/ segment
+10-Areas/Home/Dashboard.md,20-Projects/Home/Active/Project - Kids Bathroom Drywall Repair,20-Projects/Home/Project - Kids Bathroom Drywall Repair,high,remove stale /Active/ segment
+10-Areas/Home/Dashboard.md,20-Projects/Home/Active/Project - Take Old Bed to Dump,20-Projects/Home/Project - Take Old Bed to Dump,high,remove stale /Active/ segment
+10-Areas/Home/Dashboard.md,20-Projects/Home/Active/Project - Replace Loose Toilet Paper Holder in Master Bathroom,20-Projects/Home/Project - Replace Loose Toilet Paper Holder in Master Bathroom,high,remove stale /Active/ segment
+10-Areas/Home/Dashboard.md,20-Projects/Home/Active/Project - Renovate Kids Bathroom,20-Projects/Home/Project - Renovate Kids Bathroom,high,remove stale /Active/ segment
+10-Areas/Home/Dashboard.md,20-Projects/Home/Active/Project - Replace Top Floor Carpet with LVP,20-Projects/Home/Project - Replace Top Floor Carpet with LVP,high,remove stale /Active/ segment
+10-Areas/Home/Dashboard.md,20-Projects/Home/Active/Project - Patch and Paint Living Room Ceiling Water Spots,20-Projects/Home/Project - Patch and Paint Living Room Ceiling Water Spots,high,remove stale /Active/ segment
+10-Areas/Home/Dashboard.md,20-Projects/Home/Active/Project - Clean Walls Throughout House,20-Projects/Home/Project - Clean Walls Throughout House,high,remove stale /Active/ segment
+10-Areas/Home/Dashboard.md,20-Projects/Home/Active/Project - Weed and Clean Up Backyard Hill,20-Projects/Home/Project - Weed and Clean Up Backyard Hill,high,remove stale /Active/ segment
+index.md,10-Areas,(create index note),medium,missing top-level MOC note
+index.md,30-Resources,(create index note),medium,missing top-level MOC note

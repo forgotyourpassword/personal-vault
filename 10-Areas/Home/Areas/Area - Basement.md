@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Basement
 
 ## Summary
@@ -13,7 +18,7 @@ Foundation-adjacent space, storage, moisture concerns, finishes, utilities, and 
 - 
 
 ## Related projects
-- [[20-Projects/Home/Active/Project - Take Old Bed to Dump]]
+- [[20-Projects/Home/Project - Take Old Bed to Dump]]
 
 ## Maintenance history
 - 

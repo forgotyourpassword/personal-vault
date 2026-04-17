@@ -1,3 +1,9 @@
+---
+tags:
+  - home
+  - type/maintenance
+---
+
 # Home Maintenance
 
 Use this for recurring maintenance, not one-off improvement projects.

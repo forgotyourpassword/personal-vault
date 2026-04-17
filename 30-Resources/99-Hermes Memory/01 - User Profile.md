@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # Mike Molloy — User Profile
 *Last updated: 2026-04-06*
 
@@ -43,3 +48,4 @@
 - Uses local models via LM Studio (office machine).
 - Uses AgentMail (`am_` key) and OpenRouter (free/paid models like Mistral-Nemo).
 - Vault at `~/vault/`.
+Quartz: http://192.168.1.223:8080/30-Resources/99-Hermes-Memory/01---User-Profile

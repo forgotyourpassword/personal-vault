@@ -1,3 +1,9 @@
+---
+tags:
+  - legal
+  - work
+---
+
 # Danielle Romme Separation Agreement Draft
 
 Quartz: http://192.168.1.223:8080/10-Areas/Work/Harbor-View-Consulting/Legal/2026-04-15---Danielle-Romme-Separation-Agreement-Draft

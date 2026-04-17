@@ -1,3 +1,9 @@
+---
+tags:
+  - type/index
+  - inventory
+---
+
 # Inventory
 
 Personal database of items I own. Used for reference when planning trips, projects, or purchases.

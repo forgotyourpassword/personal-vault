@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Backyard
 
 ## Summary
@@ -13,7 +18,7 @@ Backyard outdoor space including cleanup, landscaping, seasonal work, and ongoin
 - 
 
 ## Related projects
-- [[20-Projects/Home/Active/Project - Weed and Clean Up Backyard Hill]]
+- [[20-Projects/Home/Project - Weed and Clean Up Backyard Hill]]
 
 ## Maintenance history
 - 

@@ -1,3 +1,9 @@
+---
+tags:
+  - type/decision-log
+  - home
+---
+
 # Home Decisions
 
 A running log of house-related decisions so future-you knows why something was chosen.

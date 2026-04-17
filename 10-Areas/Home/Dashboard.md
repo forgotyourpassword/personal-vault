@@ -1,16 +1,22 @@
+---
+tags:
+  - home
+  - type/hub
+---
+
 # Home Dashboard
 
 A simple control panel for house projects, decisions, and maintenance.
 
 ## Active projects
-- [[20-Projects/Home/Active/Project - Kids Bathroom Drywall Repair]]
-- [[20-Projects/Home/Active/Project - Take Old Bed to Dump]]
-- [[20-Projects/Home/Active/Project - Replace Loose Toilet Paper Holder in Master Bathroom]]
-- [[20-Projects/Home/Active/Project - Renovate Kids Bathroom]]
-- [[20-Projects/Home/Active/Project - Replace Top Floor Carpet with LVP]]
-- [[20-Projects/Home/Active/Project - Patch and Paint Living Room Ceiling Water Spots]]
-- [[20-Projects/Home/Active/Project - Clean Walls Throughout House]]
-- [[20-Projects/Home/Active/Project - Weed and Clean Up Backyard Hill]]
+- [[20-Projects/Home/Project - Kids Bathroom Drywall Repair]]
+- [[20-Projects/Home/Project - Take Old Bed to Dump]]
+- [[20-Projects/Home/Project - Replace Loose Toilet Paper Holder in Master Bathroom]]
+- [[20-Projects/Home/Project - Renovate Kids Bathroom]]
+- [[20-Projects/Home/Project - Replace Top Floor Carpet with LVP]]
+- [[20-Projects/Home/Project - Patch and Paint Living Room Ceiling Water Spots]]
+- [[20-Projects/Home/Project - Clean Walls Throughout House]]
+- [[20-Projects/Home/Project - Weed and Clean Up Backyard Hill]]
 
 ## Waiting on
 - Quotes

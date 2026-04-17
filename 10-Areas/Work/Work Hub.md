@@ -1,3 +1,9 @@
+---
+tags:
+  - type/hub
+  - work
+---
+
 # Work Hub
 
 Central index for Harbor View work — people, projects, resources, and notes.

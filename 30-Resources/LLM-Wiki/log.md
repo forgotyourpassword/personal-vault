@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
@@ -29,3 +34,4 @@
 - Created concept: concepts/sovereign-ai.md (strategic independence in AI, 77% factor country of origin into vendor decisions)
 - Created concept: concepts/workforce-automation.md (36% expect 10%+ job automation within a year, 84% haven't redesigned jobs)
 - Updated: index.md (added 7 pages, total pages: 7)
+Quartz: http://192.168.1.223:8080/30-Resources/LLM-Wiki/log

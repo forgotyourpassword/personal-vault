@@ -1,0 +1,61 @@
+file,proposed_tags,confidence,reason
+00-Inbox/Traction.md,inbox,high,path-based heuristic
+10-Areas/Family/Family Hub.md,family hub,high,path-based heuristic
+10-Areas/Finance/Finance Hub.md,finance hub,high,path-based heuristic
+10-Areas/Home/Areas/Area - Backyard.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Basement.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Electrical.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Exterior.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Flooring.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Kids Bathroom.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Kitchen.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Living Room.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Master Bathroom.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Plumbing.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Top Floor.md,home,high,path-based heuristic
+10-Areas/Home/Areas/Area - Whole House.md,home,high,path-based heuristic
+10-Areas/Home/Dashboard.md,home hub,high,path-based heuristic
+10-Areas/Home/Decisions.md,decision-log home,high,path-based heuristic
+10-Areas/Home/Maintenance.md,home maintenance,high,path-based heuristic
+10-Areas/Home/Templates/Area Template.md,home template,high,path-based heuristic
+10-Areas/Home/Templates/Contractor Template.md,home template,high,path-based heuristic
+10-Areas/Home/Templates/Project Template.md,home template,high,path-based heuristic
+10-Areas/Home/Templates/Purchase Template.md,home template,high,path-based heuristic
+10-Areas/Inventory/Inventory Index.md,index inventory,high,path-based heuristic
+10-Areas/Work/Harbor View Consulting/Benefits/2026-02-01 - Benefits Enrollment Guide.md,work,high,path-based heuristic
+10-Areas/Work/Harbor View Consulting/Legal/2025-09 - Team Protection Agreement.md,legal work,high,path-based heuristic
+10-Areas/Work/Harbor View Consulting/Legal/2026-04-15 - Danielle Romme Separation Agreement Draft.md,legal work,high,path-based heuristic
+10-Areas/Work/Harbor View Consulting/Legal/2026-04-16 - Danielle Romme Separation Agreement FINAL.md,legal work,high,path-based heuristic
+10-Areas/Work/Harbor View Consulting/Legal/Harbor View General Counsel Persona.md,legal work,high,path-based heuristic
+10-Areas/Work/Harbor View Consulting/Legal/Research/2026-04 - Maryland Separation Agreement Drafting Guide for Professional Services.md,legal research work,high,path-based heuristic
+10-Areas/Work/Harbor View Consulting/Legal/Research/2026-04 - Separation Agreement Research Report.md,legal research work,high,path-based heuristic
+10-Areas/Work/Harbor View Consulting/People/Interview Rubric - Curiosity Under Stress.md,work,high,path-based heuristic
+10-Areas/Work/Work Hub.md,hub work,high,path-based heuristic
+20-Projects/Home/Project - Clean Walls Throughout House.md,project,high,path-based heuristic
+20-Projects/Home/Project - Kids Bathroom Drywall Repair.md,project,high,path-based heuristic
+20-Projects/Home/Project - Patch and Paint Living Room Ceiling Water Spots.md,project,high,path-based heuristic
+20-Projects/Home/Project - Renovate Kids Bathroom.md,project,high,path-based heuristic
+20-Projects/Home/Project - Replace Loose Toilet Paper Holder in Master Bathroom.md,project,high,path-based heuristic
+20-Projects/Home/Project - Replace Top Floor Carpet with LVP.md,project,high,path-based heuristic
+20-Projects/Home/Project - Take Old Bed to Dump.md,project,high,path-based heuristic
+20-Projects/Home/Project - Weed and Clean Up Backyard Hill.md,project,high,path-based heuristic
+20-Projects/Projects Index.md,index project,high,path-based heuristic
+30-Resources/99-Hermes Memory/00 - Index.md,index resource,high,path-based heuristic
+30-Resources/99-Hermes Memory/01 - User Profile.md,resource,high,path-based heuristic
+30-Resources/99-Hermes Memory/02 - LM Studio Setup.md,resource,high,path-based heuristic
+30-Resources/99-Hermes Memory/03 - Vault Info.md,resource,high,path-based heuristic
+30-Resources/99-Hermes Memory/04 - Communication.md,resource,high,path-based heuristic
+30-Resources/99-Hermes Memory/05 - Conventions.md,resource,high,path-based heuristic
+30-Resources/99-Hermes Memory/06 - Lessons Learned.md,resource,high,path-based heuristic
+30-Resources/99-Hermes Memory/07 - Providers.md,resource,high,path-based heuristic
+30-Resources/99-Hermes Memory/08 - Infrastructure & Scripts.md,resource,high,path-based heuristic
+30-Resources/Hermes/Hermes Memory.md,resource,high,path-based heuristic
+30-Resources/LLM-Wiki/SCHEMA.md,resource,high,path-based heuristic
+30-Resources/LLM-Wiki/index.md,index resource,high,path-based heuristic
+30-Resources/LLM-Wiki/log.md,resource,high,path-based heuristic
+30-Resources/LLM-Wiki/raw/articles/claude-managed-agents-2026-04-08.md,resource,high,path-based heuristic
+30-Resources/LLM-Wiki/raw/papers/deloitte-state-of-ai-2026.md,resource,high,path-based heuristic
+30-Resources/Leadership/Harbor View Perspective Training Story.md,resource,high,path-based heuristic
+30-Resources/Leadership/Perspective and Circumstance.md,resource,high,path-based heuristic
+Reminders.md,,low,path-based heuristic
+index.md,index,high,path-based heuristic

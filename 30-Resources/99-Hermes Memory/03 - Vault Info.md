@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # Obsidian Vault
 
 ## Location
@@ -21,3 +26,4 @@
 - SSH config rewrites to `github.com`
 - Authenticated, can commit and push
 - Git identity: `forgotyourpassword` / `michaelmolloy89@gmail.com`
+Quartz: http://192.168.1.223:8080/30-Resources/99-Hermes-Memory/03---Vault-Info

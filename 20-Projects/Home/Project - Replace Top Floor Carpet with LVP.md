@@ -1,3 +1,8 @@
+---
+tags:
+  - project
+---
+
 # Project - Replace Top Floor Carpet with LVP
 
 ## Status

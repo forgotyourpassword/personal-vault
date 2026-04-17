@@ -2,6 +2,8 @@
 title: "Claude Managed Agents: get to production 10x faster"
 source_url: https://claude.com/blog/claude-managed-agents
 date: 2026-04-08
+tags:
+  - resource
 type: raw
 ---
 
@@ -57,3 +59,4 @@ Purpose-built for Claude models which are themselves built for agentic work. The
 - Public beta: Claude Platform
 - Multi-agent coordination: research preview (request access at claude.com/form/claude-managed-agents)
 - Self-evaluation loop: research preview
+Quartz: http://192.168.1.223:8080/30-Resources/LLM-Wiki/raw/articles/claude-managed-agents-2026-04-08

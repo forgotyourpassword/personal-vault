@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # The Same Storm — A Harbor View Consulting Training Story
 
 *A fictional training narrative on perspective, circumstance, and professional relationships*

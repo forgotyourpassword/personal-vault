@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # Working Conventions
 
 ## Memory
@@ -8,3 +13,4 @@
 ## Vault
 - Commit and push changes after updating vault notes
 - Follow PARA conventions
+Quartz: http://192.168.1.223:8080/30-Resources/99-Hermes-Memory/05---Conventions

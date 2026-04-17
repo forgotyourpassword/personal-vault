@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Flooring
 
 ## Summary
@@ -13,7 +18,7 @@ Whole-house flooring materials, transitions, replacements, and finish decisions.
 - Main floor LVP was installed in 2020
 
 ## Related projects
-- [[20-Projects/Home/Active/Project - Replace Top Floor Carpet with LVP]]
+- [[20-Projects/Home/Project - Replace Top Floor Carpet with LVP]]
 
 ## Maintenance history
 - 2020: Main floor LVP installed by Mike

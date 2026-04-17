@@ -1,3 +1,9 @@
+---
+tags:
+  - type/index
+  - project
+---
+
 # Projects
 
 All active, someday, and completed projects across work, home, and personal life.

@@ -1,3 +1,10 @@
+---
+tags:
+  - legal
+  - research
+  - work
+---
+
 # 2026-04 - Separation Agreement Research Report
 
 Quartz: http://192.168.1.223:8080/10-Areas/Work/Harbor-View-Consulting/Legal/Research/2026-04---Separation-Agreement-Research-Report

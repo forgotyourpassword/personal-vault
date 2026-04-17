@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Kids Bathroom
 
 ## Summary
@@ -13,8 +18,8 @@ Bathroom used by the kids, including fixtures, wall finishes, accessories, and c
 - 
 
 ## Related projects
-- [[20-Projects/Home/Active/Project - Kids Bathroom Drywall Repair]]
-- [[20-Projects/Home/Active/Project - Renovate Kids Bathroom]]
+- [[20-Projects/Home/Project - Kids Bathroom Drywall Repair]]
+- [[20-Projects/Home/Project - Renovate Kids Bathroom]]
 
 ## Maintenance history
 - 

@@ -1,3 +1,9 @@
+---
+tags:
+  - type/index
+  - resource
+---
+
 # Hermes Memory - Index
 
 My persistent memory, replaced by these individual files. Search with `search_files(target='content', path='~/vault/30-Resources/99-Hermes Memory', pattern='<keyword>')`.
@@ -19,3 +25,4 @@ My persistent memory, replaced by these individual files. Search with `search_fi
 - **Add**: write new files in this directory, prefix with number and dashes
 - **Search**: `search_files` with target='content' to find relevant memories
 - **No token bloat**: only loaded when needed via search
+Quartz: http://192.168.1.223:8080/30-Resources/99-Hermes-Memory/00---Index

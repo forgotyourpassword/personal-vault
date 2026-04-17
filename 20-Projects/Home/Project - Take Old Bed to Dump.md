@@ -1,3 +1,8 @@
+---
+tags:
+  - project
+---
+
 # Project - Take Old Bed to Dump
 
 ## Status

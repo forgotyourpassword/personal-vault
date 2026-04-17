@@ -1,3 +1,8 @@
+---
+tags:
+  - inbox
+---
+
 # Traction — by Gino Wickman
 
 > *Getting a Grip on Your Business*

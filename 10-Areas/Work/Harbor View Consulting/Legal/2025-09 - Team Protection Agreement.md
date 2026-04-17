@@ -1,3 +1,9 @@
+---
+tags:
+  - legal
+  - work
+---
+
 # 2025-09 - Team Protection Agreement
 
 Quartz: http://192.168.1.223:8080/10-Areas/Work/Harbor-View-Consulting/Legal/2025-09---Team-Protection-Agreement

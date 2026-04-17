@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Living Room
 
 ## Summary
@@ -13,7 +18,7 @@ Main living area finishes, ceiling/wall condition, lighting, and visible wear is
 - 
 
 ## Related projects
-- [[20-Projects/Home/Active/Project - Patch and Paint Living Room Ceiling Water Spots]]
+- [[20-Projects/Home/Project - Patch and Paint Living Room Ceiling Water Spots]]
 
 ## Maintenance history
 - 

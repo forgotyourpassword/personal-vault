@@ -1,3 +1,8 @@
+---
+tags:
+  - project
+---
+
 # Project - Patch and Paint Living Room Ceiling Water Spots
 
 ## Status

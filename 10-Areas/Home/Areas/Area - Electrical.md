@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Electrical
 
 ## Summary

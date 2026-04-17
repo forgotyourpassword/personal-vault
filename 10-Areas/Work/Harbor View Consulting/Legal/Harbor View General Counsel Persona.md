@@ -1,3 +1,9 @@
+---
+tags:
+  - legal
+  - work
+---
+
 # Harbor View General Counsel Persona
 
 Purpose: Reusable Harbor View Consulting in-house general counsel persona for issue spotting, legal drafting, risk review, and executive decision support.

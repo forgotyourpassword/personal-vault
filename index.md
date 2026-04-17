@@ -1,3 +1,8 @@
+---
+tags:
+  - type/index
+---
+
 # Mike's Vault
 
 Welcome to your Obsidian vault.

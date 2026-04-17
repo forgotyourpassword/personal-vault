@@ -1,3 +1,8 @@
+---
+tags:
+  - project
+---
+
 # Project - Kids Bathroom Drywall Repair
 
 ## Status

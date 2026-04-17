@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # State of AI in the Enterprise — The Untapped Edge
 
 **Source:** Deloitte AI Institute
@@ -152,3 +157,4 @@
 - "Many organizations prepared for an AI future by building infrastructure and governance for traditional AI models. With LLMs, those efforts were upended."
 - Companies are merging technology and people-leadership functions
 - Governance should be calibrated to enable experimentation, not constrain it
+Quartz: http://192.168.1.223:8080/30-Resources/LLM-Wiki/raw/papers/deloitte-state-of-ai-2026

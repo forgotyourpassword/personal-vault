@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # Perspective and Circumstance
 
 *Captured from Michael Molloy, April 2026*

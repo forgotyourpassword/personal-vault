@@ -1,3 +1,8 @@
+---
+tags:
+  - resource
+---
+
 # Hermes Memory
 
 My persistent context about the user, environment, and conventions. Updated across sessions. I read this at the start of sessions or when context is needed.
@@ -37,3 +42,4 @@ My persistent context about the user, environment, and conventions. Updated acro
 - Store memory here as markdown notes in the vault, not in the system memory blob (except critical auth tokens)
 - Use `search_files` in the vault to find relevant context when needed
 - Commit and push vault changes
+Quartz: http://192.168.1.223:8080/30-Resources/Hermes/Hermes-Memory

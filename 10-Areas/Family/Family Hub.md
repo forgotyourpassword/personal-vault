@@ -1,3 +1,9 @@
+---
+tags:
+  - family
+  - type/hub
+---
+
 # Family Hub
 
 Central index for the Molloy family — people, calendars, events, and notes.

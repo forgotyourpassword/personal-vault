@@ -1,3 +1,8 @@
+---
+tags:
+  - work
+---
+
 # 2026-02-01 - Benefits Enrollment Guide
 
 Quartz: http://192.168.1.223:8080/10-Areas/Work/Harbor-View-Consulting/Benefits/2026-02-01---Benefits-Enrollment-Guide

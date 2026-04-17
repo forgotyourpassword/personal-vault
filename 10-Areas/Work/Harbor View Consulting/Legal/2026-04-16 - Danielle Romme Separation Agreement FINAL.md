@@ -1,3 +1,9 @@
+---
+tags:
+  - legal
+  - work
+---
+
 # SEPARATION AGREEMENT AND GENERAL RELEASE
 
 This Separation Agreement and General Release (the "Agreement") is made by and between Harbor View Consulting LLC (the "Company") and Danielle Rommè ("Employee"). The Company and Employee are referred to individually as a "Party" and collectively as the "Parties."

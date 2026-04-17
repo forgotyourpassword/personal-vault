@@ -1,3 +1,8 @@
+---
+tags:
+  - work
+---
+
 # Harbor View Interview Rubric - Curiosity Under Stress
 
 Purpose: Screen for high-skill candidates who stay constructive under ambiguity instead of becoming suspicious, reactive, or controlling.

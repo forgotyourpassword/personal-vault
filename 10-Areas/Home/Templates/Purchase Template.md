@@ -1,3 +1,9 @@
+---
+tags:
+  - home
+  - type/template
+---
+
 # Purchase - <% tp.file.title %>
 
 ## Item
@@ -15,3 +21,4 @@
 
 ## Notes
 - 
+Quartz: http://192.168.1.223:8080/10-Areas/Home/Templates/Purchase-Template

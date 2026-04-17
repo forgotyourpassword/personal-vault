@@ -1,3 +1,8 @@
+---
+tags:
+  - project
+---
+
 # Project - Renovate Kids Bathroom
 
 ## Status

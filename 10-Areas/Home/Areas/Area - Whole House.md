@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Area - Whole House
 
 ## Summary
@@ -13,7 +18,7 @@ Cross-house conditions, recurring issues, cleaning standards, and projects that 
 - 
 
 ## Related projects
-- [[20-Projects/Home/Active/Project - Clean Walls Throughout House]]
+- [[20-Projects/Home/Project - Clean Walls Throughout House]]
 
 ## Maintenance history
 - 

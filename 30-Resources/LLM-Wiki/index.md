@@ -1,3 +1,9 @@
+---
+tags:
+  - type/index
+  - resource
+---
+
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
@@ -21,3 +27,4 @@ _(none yet)_
 
 ## Queries
 _(none yet)_
+Quartz: http://192.168.1.223:8080/30-Resources/LLM-Wiki/index

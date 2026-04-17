@@ -1,5 +1,7 @@
 ---
 title: Wiki Schema
+tags:
+  - resource
 created: 2026-04-07
 updated: 2026-04-07
 type: schema
@@ -77,3 +79,4 @@ When new information conflicts with existing content:
 2. If genuinely contradictory, note both positions with dates and sources
 3. Mark the contradiction in frontmatter: `contradictions: [page-name]`
 4. Flag for user review in the lint report
+Quartz: http://192.168.1.223:8080/30-Resources/LLM-Wiki/SCHEMA

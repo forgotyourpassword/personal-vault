@@ -1,3 +1,9 @@
+---
+tags:
+  - home
+  - type/template
+---
+
 # Area - <% tp.file.title %>
 
 ## Summary
@@ -19,3 +25,4 @@
 
 ## Notes
 - 
+Quartz: http://192.168.1.223:8080/10-Areas/Home/Templates/Area-Template

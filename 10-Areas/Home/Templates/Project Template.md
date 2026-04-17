@@ -1,3 +1,9 @@
+---
+tags:
+  - home
+  - type/template
+---
+
 # Project - <% tp.file.title %>
 
 ## Status
@@ -40,3 +46,4 @@
 
 ## Work log
 - <% tp.date.now("YYYY-MM-DD") %>: Project created
+Quartz: http://192.168.1.223:8080/10-Areas/Home/Templates/Project-Template
