@@ -16,7 +16,7 @@ AI/ML, productivity, health, finance, technology, science, culture, personal pro
 ## Conventions
 - File names: lowercase, hyphens, no spaces (e.g., `transformer-architecture.md`)
 - Every wiki page starts with YAML frontmatter (see below)
-- Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
+- Use `wikilinks` to link between pages (minimum 2 outbound links per page)
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`
@@ -56,7 +56,7 @@ New tags must be added to this section before use. No freeform tags.
 One page per notable entity (person, org, product). Include:
 - Overview / what it is
 - Key facts and dates
-- Relationships to other entities ([[wikilinks]])
+- Relationships to other entities (wikilinks)
 - Source references
 
 ## Concept Pages
@@ -64,7 +64,7 @@ One page per concept or topic. Include:
 - Definition / explanation
 - Current state of knowledge
 - Open questions or debates
-- Related concepts ([[wikilinks]])
+- Related concepts (wikilinks)
 
 ## Comparison Pages
 Side-by-side analyses. Include:

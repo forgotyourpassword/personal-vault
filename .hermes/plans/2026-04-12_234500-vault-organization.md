@@ -120,7 +120,7 @@ tags: [area/health, fitness, workout]
 
 ## Risks & Tradeoffs
 
-- **Wikilink breakage:** Moving `Home/` is the highest-risk change. Obsidian uses shortest-path resolution for links, but explicit paths like `[[Home/Projects/Active/...]]` (used in Home Dashboard) will break and need updating.
+- **Wikilink breakage:** Moving `Home/` is the highest-risk change. Obsidian uses shortest-path resolution for links, but explicit paths like `Home/Projects/Active/...` (used in Home Dashboard) will break and need updating.
 - **Hermes automation:** Scripts and skills reference specific paths. After `Resources/LLM-Wiki/` moves, the LLM-Wiki skill must be patched.
 - **Git history:** All moves should be done with `git mv` to preserve file history.
 - **Quartz rebuild:** After structural changes, Quartz may need a full rebuild pass.

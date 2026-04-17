@@ -9,8 +9,8 @@ tags:
 Quartz: http://192.168.1.223:8080/10-Areas/Work/Harbor-View-Consulting/Legal/2025-09---Team-Protection-Agreement
 
 Source files:
-- [[2025-09 - Team Protection Agreement.pdf]]
-- [[2025-09 - Team Protection Agreement.txt]]
+- 2025-09 - Team Protection Agreement.pdf
+- 2025-09 - Team Protection Agreement.txt
 
 Related notes:
 - [[Harbor View General Counsel Persona]]

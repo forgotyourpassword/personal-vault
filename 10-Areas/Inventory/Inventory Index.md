@@ -10,10 +10,10 @@ Personal database of items I own. Used for reference when planning trips, projec
 
 ## Categories
 
-- [[Inventory/Power & Electronics]]
-- [[Inventory/Backpacks & Bags]]
-- [[Inventory/Connectivity & Networking]]
-- [[Inventory/Camping & Outdoor Gear]]
+- [[Power & Electronics]]
+- [[Backpacks & Bags]]
+- [[Connectivity & Networking]]
+- [[Camping & Outdoor Gear]]
 
 ## All Items
 
@@ -52,8 +52,8 @@ Personal database of items I own. Used for reference when planning trips, projec
 | [[Garmin Fenix 6X]] | Fitness & Sports | GPS multisport watch |
 
 | [[TCL 65R635 4K TV (Master Bedroom)]] | Electronics | TCL 65" 4K Roku Smart TV, July 2020, master bedroom |
-| [[LG 43\" UA7000 Series LED AI 4K UHD Smart TV (Connor's Room)]] | Electronics | LG 43\" 4K LED webOS Smart TV (2025), Connor's room |
-| [[LG 43\" UA7000 Series LED AI 4K UHD Smart TV (Madison's Room)]] | Electronics | LG 43\" 4K LED webOS Smart TV (2025), Madison's room |
+| [[LG 43" UA7000 Series LED AI 4K UHD Smart TV (Connor's Room)]] | Electronics | LG 43\" 4K LED webOS Smart TV (2025), Connor's room |
+| [[LG 43" UA7000 Series LED AI 4K UHD Smart TV (Madison's Room)]] | Electronics | LG 43\" 4K LED webOS Smart TV (2025), Madison's room |
 
 | [[Smith & Wesson Model 14-3]] | Firearms | S&W K-frame revolver, .38 Special, SN: 6K91981 |
 | [[Smith & Wesson K22]] | Firearms | S&W K22 revolver, .22 LR, SN: 22119 |

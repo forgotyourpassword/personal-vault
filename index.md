@@ -11,8 +11,8 @@ Welcome to your Obsidian vault.
 
 - [[10-Areas/Home/Dashboard|Dashboard]]
 - [[Journal/Daily|Daily Journal]]
-- [[10-Areas|Areas]]
-- [[20-Projects/Home|Projects]]
-- [[30-Resources|Resources]]
+- [[10-Areas/Areas Index|Areas]]
+- [[20-Projects/Projects Index|Projects]]
+- [[30-Resources/Resources Index|Resources]]
 - [[Reminders]]
 Quartz: http://192.168.1.223:8080/index

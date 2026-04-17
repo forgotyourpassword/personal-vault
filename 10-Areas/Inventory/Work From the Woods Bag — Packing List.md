@@ -3,7 +3,7 @@
 Tags: #inventory #backpack #workfromthewoods #packing
 
 ## Overview
-Intended full packing list for the [[Field & Stream Backpack (Work From the Woods Bag)]]. Items marked as "to add" are owned but not yet in the bag.
+Intended full packing list for the [[60L Framed Backpack|Work From the Woods Bag]]. Items marked as "to add" are owned but not yet in the bag.
 
 ## Always In the Bag
 

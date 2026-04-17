@@ -76,7 +76,7 @@ High-confidence examples:
 ### B) Link repairs (19 high-confidence fixes)
 
 Bulk pattern to apply:
-- `20-Projects/Home/Active/Project - ...` -> `20-Projects/Home/Project - ...`
+- 20-Projects/Home/Active/Project - [specific project name] -> 20-Projects/Home/Project - [same name]
 
 Primary impacted files:
 - `10-Areas/Home/Dashboard.md`
@@ -92,8 +92,8 @@ Primary impacted files:
 ### C) MOC/index gap fixes (manual approval before creation)
 
 `index.md` currently links to missing notes:
-- `[[10-Areas]]`
-- `[[30-Resources]]`
+- `10-Areas`
+- `30-Resources`
 
 Recommendation:
 - Create `10-Areas/Areas Index.md` and `30-Resources/Resources Index.md`, then repoint root links.

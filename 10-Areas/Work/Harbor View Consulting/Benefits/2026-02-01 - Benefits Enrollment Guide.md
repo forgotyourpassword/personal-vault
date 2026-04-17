@@ -8,8 +8,8 @@ tags:
 Quartz: http://192.168.1.223:8080/10-Areas/Work/Harbor-View-Consulting/Benefits/2026-02-01---Benefits-Enrollment-Guide
 
 Source files:
-- [[Harbor View Consulting Benefits Enrollment Guide 2026-02-01.pdf]]
-- [[Harbor View Consulting Benefits Enrollment Guide 2026-02-01.txt]]
+- Harbor View Consulting Benefits Enrollment Guide 2026-02-01.pdf
+- Harbor View Consulting Benefits Enrollment Guide 2026-02-01.txt
 
 Related notes:
 - [[Harbor View General Counsel Persona]]

@@ -1,4 +1,4 @@
-# [[{{date}}]]
+# {{date}}
 
 ## Work
 - One thing I led well today: 

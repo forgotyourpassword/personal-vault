@@ -52,10 +52,10 @@ tags: [area/fitness, area/health, type/hub, status/active]
 [[Weekly Training Plan]]
 
 ## Workout Log
-- [[Workouts/Strength/]]
-- [[Workouts/Running/]]
-- [[Workouts/Cycling/]]
-- [[Workouts/Other/]]
+- [[10-Areas/Health/Fitness/Workouts/Strength/Strength Log Template|Strength Log]]
+- [[10-Areas/Health/Fitness/Workouts/Running/Run Log Template|Run Log]]
+- [[10-Areas/Health/Fitness/Workouts/Cycling/Bike Log Template|Bike Log]]
+- [[10-Areas/Health/Fitness/Workouts/Hiking/2026-04-13 Hike 1|Hiking Log]]
 
 ## Progress Tracker
 [[Fitness Progress]]

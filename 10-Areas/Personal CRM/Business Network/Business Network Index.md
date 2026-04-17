@@ -6,7 +6,7 @@ Professional contacts, clients, prospects, and business relationships.
 
 ## Clients & Prospects
 
-*(Add contacts below — use [[Contact Name]] links and create a note for each)*
+*(Add contacts below — use Contact Name links and create a note for each)*
 
 ---
 

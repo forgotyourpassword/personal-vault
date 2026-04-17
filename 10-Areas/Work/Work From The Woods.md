@@ -55,7 +55,7 @@ Spot 1 — Jerusalem Mill Meadow (~0.1 mi from parking)
 - **Maps:** https://maps.google.com/?q=39.4638,-76.3882
 - Note: coords place you at the meadow/forest edge — trees for hammock behind you, open meadow north for Starlink
 
-![[jerusalem_mill_spot1_map.png]]
+(Map attachment pending: jerusalem_mill_spot1_map.png)
 
 Spot 2 — Little Gunpowder Trail Riverbank (~0.5-1 mi)
 - Trail follows river in both directions from the mill
@@ -66,7 +66,7 @@ Spot 2 — Little Gunpowder Trail Riverbank (~0.5-1 mi)
 - **Maps:** https://maps.google.com/?q=39.4685,-76.3831
 - Note: north bank at river bend — trees behind you, open water north for Starlink
 
-![[gunpowder_trail_map_spot2.png]]
+(Map attachment pending: gunpowder_trail_map_spot2.png)
 
 Spot 3 — Power Line Corridor (~0.6 mi NW of mill)
 - Best Starlink option — wide cleared corridor, completely open sky
@@ -76,7 +76,7 @@ Spot 3 — Power Line Corridor (~0.6 mi NW of mill)
 - **Maps:** https://maps.google.com/?q=39.4678,-76.3968
 - Note: eastern tree line edge of corridor — full open sky for Starlink, mature hardwoods at your back for hammock
 
-![[spot3_trail_map.png]]
+(Map attachment pending: spot3_trail_map.png)
 
 **Tags:** #work-outdoors #locations #hammock
 

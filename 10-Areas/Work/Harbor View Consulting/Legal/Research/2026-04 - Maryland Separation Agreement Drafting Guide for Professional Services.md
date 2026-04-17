@@ -10,8 +10,8 @@ tags:
 Quartz: http://192.168.1.223:8080/10-Areas/Work/Harbor-View-Consulting/Legal/Research/2026-04---Maryland-Separation-Agreement-Drafting-Guide-for-Professional-Services
 
 Source files:
-- [[2026-04 - Maryland Separation Agreement Drafting Guide for Professional Services.pdf]]
-- [[2026-04 - Maryland Separation Agreement Drafting Guide for Professional Services.txt]]
+- 2026-04 - Maryland Separation Agreement Drafting Guide for Professional Services.pdf
+- 2026-04 - Maryland Separation Agreement Drafting Guide for Professional Services.txt
 
 Related notes:
 - [[Harbor View General Counsel Persona]]

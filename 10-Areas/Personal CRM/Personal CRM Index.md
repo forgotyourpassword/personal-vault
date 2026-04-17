@@ -35,7 +35,7 @@ A personal relationship database for Michael Molloy — family, friends, employe
 
 ## Friends
 
-*(Add friends below — use [[Friend Name]] links and create a note for each)*
+*(Add friends below — use Friend Name links and create a note for each)*
 
 ---
 

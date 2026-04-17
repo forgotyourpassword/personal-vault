@@ -11,7 +11,7 @@ sources: [raw/articles/claude-managed-agents-2026-04-08.md]
 
 ## Overview
 
-Claude Managed Agents is a suite of composable APIs from [[Anthropic]] for building and deploying cloud-hosted AI agents at scale. Launched April 8, 2026 in public beta on the Claude Platform.
+Claude Managed Agents is a suite of composable APIs from [[anthropic|Anthropic]] for building and deploying cloud-hosted AI agents at scale. Launched April 8, 2026 in public beta on the Claude Platform.
 
 It abstracts away the hard infrastructure work of production AI agents — sandboxing, state management, permissioning, authentication, and tracing — so developers can focus on the user experience.
 
