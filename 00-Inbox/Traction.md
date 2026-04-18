@@ -45,5 +45,12 @@ tags:
 
 ## Related
 
-<!-- Links to other notes, concepts, or books -->
+- [[EOS RPG Academy]]
+- [[EOS Character Sheet]]
+- [[EOS Skill Tree]]
+- [[EOS Quest Log]]
+- [[EOS Tactical Question Bank - Part I]]
+- [[EOS Boss Fights]]
+- [[EOS Session Template]]
+
 Quartz: http://192.168.1.223:8080/00-Inbox/Traction
