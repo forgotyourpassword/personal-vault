@@ -66,17 +66,20 @@ This is the running log for the EOS campaign. Use it to keep a durable record of
 - [[EOS Dashboard]]
 - [[EOS Adventure Mode]]
 - [[10-Areas/Work/Harbor View Consulting/About Harbor View Consulting - Brad Hunt]]
+- [[10-Areas/Work/Harbor View Consulting/People/Harbor View Role Library]]
 
 ## Patterns
 - EOS sticks best when tied to real leadership friction, not abstract definitions.
 - Concepts land ahead of vocabulary. Need to close the gap.
 - Harbor View's challenge is not ambition — it's focused execution with a team that owns their seats.
 - The mirror between Harbor View's value proposition and EOS Process is a strong anchor for memory.
+- The new Harbor View role library gives a concrete People-component reference for right person/right seat and accountability-chart work.
 
 ## Next Moves
 - Complete tavern homework cold before Session 2.
 - Resume Lightning Round: The Arsenal — 4 tool definitions to lock in.
 - Begin equipping Rocks, Scorecard, and IDS through live drill.
 - Convert Harbor View strategy into real EOS artifacts over time (Scorecard, Accountability Chart).
+- Use [[10-Areas/Work/Harbor View Consulting/People/Harbor View Role Library]] when testing seat clarity, hiring criteria, and progression decisions.
 
 Quartz: http://192.168.1.223:8080/30-Resources/Leadership/EOS-RPG/EOS-Progress-Log

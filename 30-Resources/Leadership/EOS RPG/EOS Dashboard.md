@@ -16,6 +16,7 @@ If Dataview is enabled, this becomes your campaign control panel.
 - [[EOS Quest Log]]
 - [[EOS Boss Fights]]
 - [[EOS Harbor View Boss Fights]]
+- [[10-Areas/Work/Harbor View Consulting/People/Harbor View Role Library]]
 - [[EOS Loot Table & Badges]]
 - [[EOS Tactical Question Bank - Part I]]
 - [[EOS Progress Log]]
