@@ -5,21 +5,19 @@ tags:
   - tracker
   - progress-log
 ---
+---
+tags:
+  - eos
+  - learning-game
+  - tracker
+  - progress-log
+---
 
 # EOS Progress Log
 
 This is the running log for the EOS campaign. Use it to keep a durable record of sessions, wins, insights, weak spots, and next moves.
 
 ## Campaign Snapshot
-- **Started:** 2026-04-17
-- **Current Rank:** Operator
-- **Current XP:** 56
-- **Next Rank:** Integrator at 120 XP
-- **Active Campaign:** [[EOS RPG Academy]]
-- **Companion:** Wick — grizzled EOS implementer
-- **Current Focus:** Study tavern homework before Session 2
-
-## Running Timeline
 
 ### 2026-04-17 — Session 1
 - Built the EOS RPG system in the vault.
@@ -73,13 +71,15 @@ This is the running log for the EOS campaign. Use it to keep a durable record of
 - Concepts land ahead of vocabulary. Need to close the gap.
 - Harbor View's challenge is not ambition — it's focused execution with a team that owns their seats.
 - The mirror between Harbor View's value proposition and EOS Process is a strong anchor for memory.
-- The new Harbor View role library gives a concrete People-component reference for right person/right seat and accountability-chart work.
+---
 
-## Next Moves
-- Complete tavern homework cold before Session 2.
-- Resume Lightning Round: The Arsenal — 4 tool definitions to lock in.
-- Begin equipping Rocks, Scorecard, and IDS through live drill.
-- Convert Harbor View strategy into real EOS artifacts over time (Scorecard, Accountability Chart).
-- Use [[10-Areas/Work/Harbor View Consulting/People/Harbor View Role Library]] when testing seat clarity, hiring criteria, and progression decisions.
+## Hermes Automation Rules
+
+**One question at a time. Strict judgment. No auto-launch deep debugging from alerts.**
+
+- Report concise diagnoses first; ask before spending significant primary-model usage.
+- Do not start background watchers, polling scripts, `getUpdates` bots, or reply-capture loops.
+- Deliver daily journal notes to Discord deliveries channel; Michael replies directly to Hermes interactively.
+- Save stable settings and preferences here; use Hermes short-term memory for vault-only facts that may drift.
 
 Quartz: http://192.168.1.223:8080/30-Resources/Leadership/EOS-RPG/EOS-Progress-Log

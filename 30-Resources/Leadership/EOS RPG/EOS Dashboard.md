@@ -40,7 +40,18 @@ TABLE WITHOUT ID sum(xp_earned) as "Total XP"
 FROM "30-Resources/Leadership/EOS RPG/Sessions"
 ```
 
-## Dataview: Cleared Boss Fights
+---
+
+## Hermes Automation Rules
+
+**One question at a time. Strict judgment. No auto-launch deep debugging from alerts.**
+
+- Report concise diagnoses first; ask before spending significant primary-model usage.
+- Do not start background watchers, polling scripts, `getUpdates` bots, or reply-capture loops.
+- Deliver daily journal notes to Discord deliveries channel; Michael replies directly to Hermes interactively.
+- Save stable settings and preferences here; use Hermes short-term memory for vault-only facts that may drift.
+
+[Axon not found — use **Quartz: http://192.168.1.223:8080/30-Resources/Leadership/EOS-RPG/EOS-Dashboard**]
 ```dataview
 LIST boss_fight
 FROM "30-Resources/Leadership/EOS RPG/Sessions"
@@ -58,5 +69,16 @@ SORT session_date DESC
 
 ## If Dataview Is Not Enabled
 No problem. Use this note as a manual home base and ignore the code blocks. They won't bite.
+
+---
+
+## Hermes Automation Rules
+
+**One question at a time. Strict judgment. No auto-launch deep debugging from alerts.**
+
+- Report concise diagnoses first; ask before spending significant primary-model usage.
+- Do not start background watchers, polling scripts, getUpdates bots, or reply-capture loops.
+- Deliver daily journal notes to Discord deliveries channel; Michael replies directly to Hermes interactively.
+- Save stable settings and preferences here; use Hermes short-term memory for vault-only facts that may drift.
 
 Quartz: http://192.168.1.223:8080/30-Resources/Leadership/EOS-RPG/EOS-Dashboard

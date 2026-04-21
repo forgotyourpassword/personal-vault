@@ -6,6 +6,10 @@ Tags: #ai #workflow #llm #productivity #strategy
 
 ## Captures
 
+### 2026-04-21
+- [[2026-04-21 - Claude Spellbook Repo to Review]]
+  - Summary: Reddit-found repo with Claude skills, prompts, workflows, MCP pieces, and tools worth mining for Hermes and Claude Code ideas.
+
 ### 2026-04-17
 - [[2026-04-17 - Harbor View AI Use Case Hub to Public Skills]]
   - Summary: convert webinar use cases into a public Harbor View hub page plus repo-based skill files with measurable CTA back to a specific landing page.

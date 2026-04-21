@@ -21,6 +21,15 @@ application_note:
 - **Current Rank:** 
 - **Current XP Before Session:** 
 
+## Hermes Automation Rules
+
+**One question at a time. Strict judgment. No auto-launch deep debugging from alerts.**
+
+- Report concise diagnoses first; ask before spending significant primary-model usage.
+- Do not start background watchers, polling scripts, `getUpdates` bots, or reply-capture loops.
+- Deliver daily journal notes to Discord deliveries channel; Michael replies directly to Hermes interactively.
+- Save stable settings and preferences here; use Hermes short-term memory for vault-only facts that may drift.
+
 ## Focus
 - **Reading/Zone:** 
 - **Skill trained:** 

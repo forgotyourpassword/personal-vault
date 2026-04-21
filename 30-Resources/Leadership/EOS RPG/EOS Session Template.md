@@ -15,6 +15,15 @@ Use this template for a single training session.
 - **Current XP Before Session:** 
 - **Current Rank:** 
 
+## Hermes Automation Rules
+
+**One question at a time. Strict judgment. No auto-launch deep debugging from alerts.**
+
+- Report concise diagnoses first; ask before spending significant primary-model usage.
+- Do not start background watchers, polling scripts, `getUpdates` bots, or reply-capture loops.
+- Deliver daily journal notes to Discord deliveries channel; Michael replies directly to Hermes interactively.
+- Save stable settings and preferences here; use Hermes short-term memory for vault-only facts that may drift.
+
 ## What I Read
 - Section or chapter:
 - One-sentence summary from memory:
