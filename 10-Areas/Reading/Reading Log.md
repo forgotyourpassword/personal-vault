@@ -4,13 +4,13 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Current Reading
 
-- *Project Hail Mary* — Andy Weir — 80% complete
-  - A lone astronaut wakes up with no memory on a mission to save Earth from an extinction-level threat. The story blends hard science problem-solving with humor, isolation, and an unlikely partnership. It is ultimately about ingenuity, sacrifice, and staying useful when the stakes are absurdly high.
 - *Steve Jobs* — Walter Isaacson — 30% complete
   - This biography follows Steve Jobs from his early life through Apple, Pixar, NeXT, and his return to Apple. It shows both the brilliance and damage of his intensity, taste, control, and reality-distortion field. The useful thread is how product obsession, narrative, and standards can reshape entire industries, while also costing real human collateral.
 
 ## Finished
 
+- 2026-05-10 — *Project Hail Mary* — Andy Weir
+  - A lone astronaut wakes up with no memory on a mission to save Earth from an extinction-level threat. The story blends hard science problem-solving with humor, isolation, and an unlikely partnership. It is ultimately about ingenuity, sacrifice, and staying useful when the stakes are absurdly high.
 - 2026-05-08 — *The Giver* — Lois Lowry
   - A boy named Jonas lives in a controlled society that has eliminated pain, conflict, and deep emotion by suppressing memory and choice. When he becomes the Receiver of Memory, he learns what his community sacrificed for sameness and safety. The book is a clean, sharp argument that freedom, love, and truth require accepting discomfort and risk.
 
@@ -38,13 +38,14 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
   - This book explains the outbound sales model that helped Salesforce create a repeatable revenue machine. It separates prospecting, closing, and account management into distinct roles and processes. The core idea is that predictable pipeline comes from specialized systems, not heroic individual sellers.
 - *The Motive* — Patrick Lencioni
   - Lencioni contrasts reward-centered leadership with responsibility-centered leadership. Through a business fable, he argues that many executives avoid the uncomfortable work only leaders can do, such as managing teams, having hard conversations, and creating clarity. The book is a gut-check on whether someone wants leadership for service and responsibility or for status.
+- *The One Minute Manager Meets the Monkey* — Ken Blanchard, William Oncken Jr., and Hal Burrows
+  - A short management book about avoiding upward delegation, where team members hand their “monkeys” back to the manager. The useful idea is making ownership, next actions, and follow-up clear so managers stop becoming the bottleneck for everyone else’s responsibilities.
 
 ## Reading Priority
 
-1. Finish *Project Hail Mary*.
-2. Finish *Steve Jobs*.
-3. Read *The Motive* by Patrick Lencioni next.
+1. Finish *Steve Jobs*.
+2. Read *The Motive* by Patrick Lencioni next.
 
 ## Notes
 
-- Last updated: 2026-05-09
+- Last updated: 2026-05-10
