@@ -40,6 +40,8 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
   - Lencioni contrasts reward-centered leadership with responsibility-centered leadership. Through a business fable, he argues that many executives avoid the uncomfortable work only leaders can do, such as managing teams, having hard conversations, and creating clarity. The book is a gut-check on whether someone wants leadership for service and responsibility or for status.
 - *The One Minute Manager Meets the Monkey* — Ken Blanchard, William Oncken Jr., and Hal Burrows
   - A short management book about avoiding upward delegation, where team members hand their “monkeys” back to the manager. The useful idea is making ownership, next actions, and follow-up clear so managers stop becoming the bottleneck for everyone else’s responsibilities.
+- *Managing by Values* — Ken Blanchard and Michael O’Connor
+  - Blanchard and O’Connor argue that strong organizations need shared values that are clearly chosen, communicated, and turned into daily behavior. The book focuses on aligning people, decisions, and leadership around principles instead of managing only by rules, targets, or crisis. Useful if you want a simple operating philosophy for culture, accountability, and decision-making.
 
 ## Reading Priority
 
@@ -48,4 +50,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-05-10
+- Last updated: 2026-05-11

@@ -25,8 +25,14 @@ tags:
 - Default model: `google/gemma-3-4b` via `office` device (LM Link)
 - Gotcha: `lms` daemon must be running
 
+## OpenAI Codex
+- Provider key: `openai-codex`
+- Correct lightweight Codex model for Michael's ChatGPT Codex account: `gpt-5.4-mini`
+- Do **not** use `gpt-4-mini` for Codex cron jobs; it fails with: `model is not supported when using Codex with a ChatGPT account`.
+
 ## Fallback Providers
-- None configured yet. Config comment supports: openrouter, openai-codex (OAuth), nous (OAuth), zai, kimi-coding, minimax, minimax-cn.
+- Current config has `fallback_providers: []` to prevent stale LM Studio fallback from hijacking cron jobs when local models are not loaded.
+- Config comment supports: openrouter, openai-codex (OAuth), nous (OAuth), zai, kimi-coding, minimax, minimax-cn.
 
 ```yaml
 # fallback_model:
