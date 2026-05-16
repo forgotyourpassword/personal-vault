@@ -96,6 +96,11 @@ This library is the baseline for interview design, candidate assessment, promoti
 - [[30-Resources/Leadership/EOS RPG/EOS Harbor View Boss Fights]]
 - [[30-Resources/Leadership/EOS RPG/EOS Progress Log]]
 
+## Strategic recruiting notes
+
+- [[2026-05-15 - Strategic Talent Recruiting from RSM and SCH]]
+  - Thought from the Steve Jobs biography: treat competitor talent from RSM and SC&H as a deliberate Harbor View growth lever, especially for Manager through Partner-level advisory seats.
+
 ## Notes to future us
 - If you build a Harbor View Accountability Chart in the vault, link it here.
 - If you turn any of these scorecards into interview rubrics or KPIs, link those artifacts here too.

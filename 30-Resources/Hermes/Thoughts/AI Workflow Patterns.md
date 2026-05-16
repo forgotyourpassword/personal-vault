@@ -6,6 +6,10 @@ Tags: #ai #workflow #llm #productivity #strategy
 
 ## Captures
 
+### 2026-05-15
+- [[2026-05-15 - Harbor View Accounting and Finance Brain]]
+  - Summary: position Harbor View accounting continuity services as building a durable accounting and finance brain for clients, protecting against key-person dependency and institutional knowledge loss.
+
 ### 2026-04-21
 - [[2026-04-21 - Claude Spellbook Repo to Review]]
   - Summary: Reddit-found repo with Claude skills, prompts, workflows, MCP pieces, and tools worth mining for Hermes and Claude Code ideas.
