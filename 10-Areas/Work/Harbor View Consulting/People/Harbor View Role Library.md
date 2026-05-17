@@ -96,10 +96,12 @@ This library is the baseline for interview design, candidate assessment, promoti
 - [[30-Resources/Leadership/EOS RPG/EOS Harbor View Boss Fights]]
 - [[30-Resources/Leadership/EOS RPG/EOS Progress Log]]
 
-## Strategic recruiting notes
+## Strategic recruiting and people philosophy notes
 
 - [[2026-05-15 - Strategic Talent Recruiting from RSM and SCH]]
   - Thought from the Steve Jobs biography: treat competitor talent from RSM and SC&H as a deliberate Harbor View growth lever, especially for Manager through Partner-level advisory seats.
+- [[2026-05-16 - A Players Without Ruthlessness]]
+  - Thought from the Steve Jobs biography: protect A-player teams with clear standards, honest coaching, and timely decisions without making ruthlessness or contempt part of the leadership identity.
 
 ## Notes to future us
 - If you build a Harbor View Accountability Chart in the vault, link it here.
