@@ -44,6 +44,10 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
   - Blanchard and O’Connor argue that strong organizations need shared values that are clearly chosen, communicated, and turned into daily behavior. The book focuses on aligning people, decisions, and leadership around principles instead of managing only by rules, targets, or crisis. Useful if you want a simple operating philosophy for culture, accountability, and decision-making.
 - *The Coaching Habit* — Michael Bungay Stanier
   - A practical coaching book built around seven simple questions that help managers coach more often and with less friction. Its useful angle is replacing reflexive advice-giving with better questions, clearer ownership, and shorter, more effective coaching conversations.
+- *How to Make a Few Billion Dollars* — Brad Jacobs
+  - Jacobs founded and led XPO Logistics and writes about building large companies through dealmaking, operating discipline, talent, incentives, and pattern recognition. This fits the business-growth lane: practical operator lessons from someone who actually compounded companies at scale.
+- *How to Make a Few More Billion Dollars* — Brad Jacobs
+  - A follow-up from Jacobs focused on continuing the company-building playbook: acquisitions, leadership, capital allocation, and repeatable operating systems. Worth reading if the first book lands, especially for translating founder/operator thinking into Harbor View-style growth systems.
 
 ## Reading Priority
 
@@ -52,4 +56,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-05-16
+- Last updated: 2026-05-17
