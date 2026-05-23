@@ -20,6 +20,7 @@ from datetime import date, timedelta, datetime
 # ── Config ────────────────────────────────────────────────────────────────────
 VAULT = Path(os.environ.get("OBSIDIAN_VAULT_PATH", "/home/mike/vault"))
 JOURNAL_DIR = VAULT / "Journal" / "Daily"
+RESET_DATE = date.fromisoformat(os.environ.get("JOURNAL_KPI_RESET_DATE", "2026-05-23"))
 BOT_TOKEN = None  # loaded from env at runtime
 CHAT_ID = None
 
@@ -65,8 +66,12 @@ def parse_journal(path: Path) -> dict:
 def load_days(days_back: int = 30) -> list[dict]:
     today = date.today()
     results = []
-    for i in range(days_back - 1, -1, -1):
-        d = today - timedelta(days=i)
+    start = max(today - timedelta(days=days_back - 1), RESET_DATE)
+    if start > today:
+        start = today
+    total_days = (today - start).days + 1
+    for i in range(total_days):
+        d = start + timedelta(days=i)
         path = JOURNAL_DIR / f"{d}.md"
         if path.exists():
             results.append(parse_journal(path))
@@ -80,7 +85,7 @@ def load_days(days_back: int = 30) -> list[dict]:
 def _streak(days):
     streak_all = 0
     for d in reversed(days):
-        if d["exercise"] and d["read"] and d["nourished"]:
+        if d["exercise"] and d["read"]:
             streak_all += 1
         elif d["exercise"] is None:
             continue
@@ -120,7 +125,6 @@ def make_dashboard(days: list[dict]) -> str:
     HABITS = [
         ("Exercise",    GREEN,  "exercise"),
         ("Reading",     ACCENT, "read"),
-        ("Nourishment", YELLOW, "nourished"),
     ]
 
     today = date.today()
@@ -153,7 +157,7 @@ def make_dashboard(days: list[dict]) -> str:
     )
 
     # ── Header ─────────────────────────────────────────────────────────────────
-    week_start = (today - timedelta(days=6)).strftime("%b %d")
+    week_start = datetime.strptime(days[0]["date"], "%Y-%m-%d").strftime("%b %d") if days else today.strftime("%b %d")
     week_end   = today.strftime("%b %d, %Y")
 
     fig.text(0.5, 0.968, "Michael's Progress Dashboard",
@@ -255,7 +259,7 @@ def make_dashboard(days: list[dict]) -> str:
                    ha="center", va="center",
                    color=TEXT, fontsize=10.5, fontweight="semibold",
                    transform=ax_streak.transAxes)
-    ax_streak.text(0.5, 0.13, "all 3 habits",
+    ax_streak.text(0.5, 0.13, "exercise + reading",
                    ha="center", va="center",
                    color=SUBTEXT, fontsize=8.5,
                    transform=ax_streak.transAxes)
@@ -263,7 +267,7 @@ def make_dashboard(days: list[dict]) -> str:
     # ── Helper: 7-day bar chart ────────────────────────────────────────────────
     def mini_bar(ax, values, dates, color, title):
         card_bg(ax, CARD)
-        ax.set_xlim(-0.7, 6.7)
+        ax.set_xlim(-0.7, max(0.7, len(dates) - 0.3))
         ax.set_ylim(0, 2.0)
 
         day_abbrs = []
@@ -299,7 +303,7 @@ def make_dashboard(days: list[dict]) -> str:
                     color=sym_color, fontsize=11, fontweight="bold", zorder=4)
 
         # Day labels
-        ax.set_xticks(range(7))
+        ax.set_xticks(range(len(day_abbrs)))
         ax.set_xticklabels(day_abbrs, color=SUBTEXT, fontsize=8.5)
         ax.tick_params(axis="x", length=0, pad=3)
         ax.set_yticks([])
@@ -325,7 +329,7 @@ def make_dashboard(days: list[dict]) -> str:
     ax_mo.set_xlim(0, 1)
     ax_mo.set_ylim(0, 1)
 
-    ax_mo.text(0.5, 0.92, "30-Day Avg",
+    ax_mo.text(0.5, 0.92, "Clean-Slate Avg",
                ha="center", va="top", color=TEXT,
                fontsize=10, fontweight="bold",
                transform=ax_mo.transAxes)
@@ -333,7 +337,7 @@ def make_dashboard(days: list[dict]) -> str:
     # Horizontal divider
     ax_mo.axhline(0.82, color=GRIDFG, lw=0.8)
 
-    row_ys = [0.63, 0.42, 0.21]
+    row_ys = [0.58, 0.34]
     for (label, color, key), y, val in zip(HABITS, row_ys, m_vals):
         short = label[:4]
         # Background pill
@@ -365,7 +369,7 @@ def make_dashboard(days: list[dict]) -> str:
         spine.set_edgecolor(GRIDFG)
         spine.set_linewidth(0.7)
 
-    ax_trend.set_title("30-Day Habit Trend  ·  7-day rolling avg",
+    ax_trend.set_title("Clean-Slate Habit Trend  ·  7-day rolling avg",
                        color=TEXT, fontsize=10, pad=10,
                        fontweight="semibold", loc="left")
     ax_trend.tick_params(colors=SUBTEXT, labelsize=8)
@@ -392,12 +396,13 @@ def make_dashboard(days: list[dict]) -> str:
         ax_trend.plot(xs, ys, color=color, lw=2.5,
                       label=label, zorder=3, solid_capstyle="round")
         # Dot at last point
-        ax_trend.plot(xs[-1], ys[-1], "o", color=color,
-                      ms=6, zorder=4)
+        if xs:
+            ax_trend.plot(xs[-1], ys[-1], "o", color=color,
+                          ms=6, zorder=4)
 
     # 80% reference line
     ax_trend.axhline(80, color=DIM, lw=1.0, ls="--", alpha=0.6, zorder=1)
-    ax_trend.text(len(trend_days) - 0.5, 82, "80% target",
+    ax_trend.text(max(0.5, len(trend_days) - 0.5), 82, "80% target",
                   color=DIM, fontsize=7.5, va="bottom", ha="right")
 
     # X-axis ticks
@@ -406,7 +411,7 @@ def make_dashboard(days: list[dict]) -> str:
     ax_trend.set_xticks(tick_idx)
     ax_trend.set_xticklabels([xl[i] for i in tick_idx],
                               color=SUBTEXT, fontsize=8, rotation=20, ha="right")
-    ax_trend.set_xlim(-0.5, len(trend_days) - 0.5)
+    ax_trend.set_xlim(-0.5, max(0.5, len(trend_days) - 0.5))
 
     ax_trend.legend(loc="upper left", fontsize=9,
                     facecolor=CARD2, edgecolor=GRIDFG,
@@ -511,18 +516,17 @@ def main():
     today_str = date.today().strftime("%A, %B %d")
     # Use same formula as chart: all 7 calendar days as denominator (None = miss)
     week_all = days[-7:]
-    w_ex = round(100 * sum(1 for d in week_all if d["exercise"] is True) / 7)
-    w_rd = round(100 * sum(1 for d in week_all if d["read"]     is True) / 7)
-    w_nu = round(100 * sum(1 for d in week_all if d["nourished"] is True) / 7)
+    denom = max(1, len(week_all))
+    w_ex = round(100 * sum(1 for d in week_all if d["exercise"] is True) / denom)
+    w_rd = round(100 * sum(1 for d in week_all if d["read"]     is True) / denom)
     streak = _streak(days)["all"]
 
     caption = (
         f"<b>Weekly KPI Dashboard — {today_str}</b>\n\n"
         f"This week:\n"
         f"  💪 Exercise:    {w_ex}%\n"
-        f"  📚 Reading:     {w_rd}%\n"
-        f"  🥗 Nutrition:   {w_nu}%\n\n"
-        f"🔥 All-habits streak: <b>{streak} day{'s' if streak != 1 else ''}</b>"
+        f"  📚 Reading:     {w_rd}%\n\n"
+        f"🔥 Exercise + reading streak: <b>{streak} day{'s' if streak != 1 else ''}</b>"
     )
 
     send_telegram_photo(image, caption)
