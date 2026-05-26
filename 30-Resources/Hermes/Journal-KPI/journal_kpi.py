@@ -42,6 +42,13 @@ def parse_journal(path: Path) -> dict:
     # Handles optional bold markers (**), varied labels, plain or bolded format
     if not result["exercise"] and re.search(r"-\s*\**Exercise\**[:\s]+Yes", text, re.IGNORECASE):
         result["exercise"] = True
+    if not result["exercise"]:
+        # If the status line contains a real activity instead of "Yes" (e.g.
+        # "- Exercise: Indoor bike ride on Zwift"), count it as exercise.
+        # Blank/negative values remain misses.
+        m_ex = re.search(r"-\s*\**Exercise\**\s*:\s*(.+)", text, re.IGNORECASE)
+        if m_ex and m_ex.group(1).strip().lower() not in {"", "no", "n", "none", "false", "miss", "missed"}:
+            result["exercise"] = True
     if not result["read"] and re.search(r"-\s*\**Read(?:ing)?\**[:\s]+Yes", text, re.IGNORECASE):
         result["read"] = True
     if not result["nourished"] and re.search(

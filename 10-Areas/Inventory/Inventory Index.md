@@ -14,6 +14,7 @@ Personal database of items I own. Used for reference when planning trips, projec
 - [[Backpacks & Bags]]
 - [[Connectivity & Networking]]
 - [[Camping & Outdoor Gear]]
+- [[Fitness & Sports]]
 
 ## All Items
 
@@ -49,7 +50,8 @@ Personal database of items I own. Used for reference when planning trips, projec
 | [[Resistance Bands]] | Fitness & Sports | ALLVOCLES 4-piece set, 5–100 lbs, 2 sets |
 | [[Punching Bag]] | Fitness & Sports | Cardio/conditioning |
 | [[Echelon Indoor Bike]] | Fitness & Sports | Connected smart bike |
-| [[Garmin Fenix 6X]] | Fitness & Sports | GPS multisport watch |
+| [[Garmin Fenix 6X]] | Fitness & Sports | Fenix 6X Pro GPS multisport watch; source of truth for longer runs/hikes/rucks |
+| [[Fitbit Air]] | Fitness & Sports | Daily passive health tracker; pairs with analog-watch daily wear |
 
 | [[TCL 65R635 4K TV (Master Bedroom)]] | Electronics | TCL 65" 4K Roku Smart TV, July 2020, master bedroom |
 | [[LG 43" UA7000 Series LED AI 4K UHD Smart TV (Connor's Room)]] | Electronics | LG 43\" 4K LED webOS Smart TV (2025), Connor's room |
@@ -65,5 +67,5 @@ Personal database of items I own. Used for reference when planning trips, projec
 
 | [[Work From the Woods Bag — Packing List]] | Backpacks & Bags | Full intended packing list, items to add |
 
-*Last updated: 2026-04-23*
+*Last updated: 2026-05-25*
 Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Inventory-Index

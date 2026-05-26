@@ -18,6 +18,12 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Want to Read
 
+### Fiction
+
+- *King Sorrow* — Joe Hill
+
+### Business / Leadership / Persuasion
+
 - *Influence* — Robert Cialdini
   - Cialdini explains the core psychological principles that make people say yes, including reciprocity, commitment, social proof, liking, authority, and scarcity. The book is practical because it shows these forces in everyday sales, negotiation, marketing, and decision-making. It is also a defensive manual for noticing when those same levers are being pulled on you.
 - *Pre-Suasion* — Robert Cialdini
@@ -56,4 +62,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-05-17
+- Last updated: 2026-05-25
