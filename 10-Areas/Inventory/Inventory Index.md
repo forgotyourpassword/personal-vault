@@ -69,3 +69,4 @@ Personal database of items I own. Used for reference when planning trips, projec
 
 *Last updated: 2026-05-25*
 Quartz: http://192.168.1.223:8080/10-Areas/Inventory/Inventory-Index
+| [[Concept2 Rower]] | Fitness & Sports | Indoor rowing machine; delivery ETA 2026-06-05 |

@@ -25,6 +25,7 @@ tags:
 - Resistance bands (4-piece set: 5–15 / 15–35 / 30–60 / 60–100 lbs)
 - Punching bag
 - Echelon indoor bike
+- [[10-Areas/Inventory/Concept2 Rower|Concept2 Rower]] — expected 2026-06-05
 - Garmin Fenix 6X
 
 ---
@@ -54,6 +55,9 @@ tags:
 
 ## Weekly Plan
 [[Weekly Training Plan]]
+
+## Program Ideas / References
+- [[30-Resources/Books/The Armor Building Formula/The Armor Building Formula - Review and Fitness Application|The Armor Building Formula - fitness application]]
 
 ## Workout Log
 - [[10-Areas/Health/Fitness/Workouts/Strength/Strength Log Template|Strength Log]]
