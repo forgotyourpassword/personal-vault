@@ -55,9 +55,11 @@ tags:
 
 ## Weekly Plan
 [[Weekly Training Plan]]
+[[6-Day Bike Run Row Strength Plan]]
 
 ## Program Ideas / References
 - [[30-Resources/Books/The Armor Building Formula/The Armor Building Formula - Review and Fitness Application|The Armor Building Formula - fitness application]]
+- [[10-Areas/Health/Fitness/References/Pete Plan Beginner Training|Pete Plan Beginner Training]]
 
 ## Workout Log
 - [[10-Areas/Health/Fitness/Workouts/Strength/Strength Log Template|Strength Log]]

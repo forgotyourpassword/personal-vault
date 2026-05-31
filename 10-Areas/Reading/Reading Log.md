@@ -7,6 +7,7 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 - *Steve Jobs* — Walter Isaacson — page 240 as of 2026-05-16
   - Current progress: page 240. This biography follows Steve Jobs from his early life through Apple, Pixar, NeXT, and his return to Apple. It shows both the brilliance and damage of his intensity, taste, control, and reality-distortion field. The useful thread is how product obsession, narrative, and standards can reshape entire industries, while also costing real human collateral.
   - 2026-05-27: Read a few more pages; exact page not provided.
+  - 2026-05-28: Read; exact page not provided.
 
 ## Finished
 
