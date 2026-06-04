@@ -9,6 +9,7 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
   - 2026-05-27: Read a few more pages; exact page not provided.
   - 2026-05-28: Read; exact page not provided.
   - 2026-05-31: Read today; reached chapter 24.
+  - 2026-06-02: Read; exact page not provided.
 
 ## Finished
 
@@ -24,6 +25,11 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 ### Fiction
 
 - *King Sorrow* — Joe Hill
+
+### Biography / Engineering / Aviation
+
+- *Kelly: More Than My Share of It All* — Clarence L. “Kelly” Johnson with Maggie Smith
+  - Johnson’s autobiography covers his work at Lockheed Skunk Works and the design culture behind aircraft like the P-38, U-2, and SR-71. Good fit for leadership, engineering judgment, and high-standards operating systems.
 
 ### Business / Leadership / Persuasion
 
@@ -65,4 +71,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-05-31
+- Last updated: 2026-06-03
