@@ -36,4 +36,6 @@ Quartz: http://192.168.1.223:8080/10-Areas/Family/Family-Hub
 
 ## Notes
 
+- [[10-Areas/Family/Chores and Activities List]] — kid-friendly chores, estimated time, steps, and allowance fees
+
 <!-- Family decisions, memories, and quick captures -->

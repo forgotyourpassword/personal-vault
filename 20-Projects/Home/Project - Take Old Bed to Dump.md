@@ -6,13 +6,13 @@ tags:
 # Project - Take Old Bed to Dump
 
 ## Status
-- State: active
+- State: completed
 - Priority: medium
 - Urgency: low
 - Level of effort: medium
 - Cost: low
 - Area: [[10-Areas/Home/Areas/Area - Basement]]
-- Target: soon
+- Target: completed 2026-06-06
 
 ## Goal
 Remove the old bed from the basement and take it to the dump.
@@ -36,12 +36,12 @@ Free up basement space and get rid of a bulky item that is no longer needed.
 - Actual:
 
 ## Next actions
-- [ ] Check if the bed needs to be disassembled before moving
-- [ ] Confirm dump hours and any disposal rules or fees
-- [ ] Schedule a morning to move and dispose of it
+- [x] Check if the bed needs to be disassembled before moving
+- [x] Confirm disposal plan
+- [x] Move and dispose of the bed
 
 ## Waiting on
-- Vehicle / hauling plan
+- None
 
 ## Linked notes
 - [[10-Areas/Home/Areas/Area - Basement]]
@@ -51,4 +51,5 @@ Free up basement space and get rid of a bulky item that is no longer needed.
 
 ## Work log
 - 2026-03-24: Created project note for old bed currently in the basement.
+- 2026-06-06: Bed is gone; project marked complete.
 Quartz: http://192.168.1.223:8080/20-Projects/Home/Project---Take-Old-Bed-to-Dump
