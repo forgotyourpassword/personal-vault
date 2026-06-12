@@ -92,9 +92,9 @@ def load_days(days_back: int = 30) -> list[dict]:
 def _streak(days):
     streak_all = 0
     for d in reversed(days):
-        if d["exercise"] and d["read"]:
+        if d["read"]:
             streak_all += 1
-        elif d["exercise"] is None:
+        elif d["read"] is None:
             continue
         else:
             break
@@ -130,7 +130,6 @@ def make_dashboard(days: list[dict]) -> str:
 
     # Habit config: label, color, key
     HABITS = [
-        ("Exercise",    GREEN,  "exercise"),
         ("Reading",     ACCENT, "read"),
     ]
 
@@ -167,7 +166,7 @@ def make_dashboard(days: list[dict]) -> str:
     week_start = datetime.strptime(days[0]["date"], "%Y-%m-%d").strftime("%b %d") if days else today.strftime("%b %d")
     week_end   = today.strftime("%b %d, %Y")
 
-    fig.text(0.5, 0.968, "Michael's Progress Dashboard",
+    fig.text(0.5, 0.968, "Michael's Reading Dashboard",
              ha="center", va="top", color=WHITE,
              fontsize=22, fontweight="bold", fontfamily="DejaVu Sans")
     fig.text(0.5, 0.937, f"Week of {week_start} – {week_end}",
@@ -266,7 +265,7 @@ def make_dashboard(days: list[dict]) -> str:
                    ha="center", va="center",
                    color=TEXT, fontsize=10.5, fontweight="semibold",
                    transform=ax_streak.transAxes)
-    ax_streak.text(0.5, 0.13, "exercise + reading",
+    ax_streak.text(0.5, 0.13, "reading",
                    ha="center", va="center",
                    color=SUBTEXT, fontsize=8.5,
                    transform=ax_streak.transAxes)
@@ -344,7 +343,7 @@ def make_dashboard(days: list[dict]) -> str:
     # Horizontal divider
     ax_mo.axhline(0.82, color=GRIDFG, lw=0.8)
 
-    row_ys = [0.58, 0.34]
+    row_ys = [0.46]
     for (label, color, key), y, val in zip(HABITS, row_ys, m_vals):
         short = label[:4]
         # Background pill
@@ -367,7 +366,7 @@ def make_dashboard(days: list[dict]) -> str:
 
     # ── Row 2: Trend line ──────────────────────────────────────────────────────
     first_entry = next((i for i, d in enumerate(days)
-                        if d["exercise"] is not None), 0)
+                        if d["read"] is not None), 0)
     trend_days = days[first_entry:]
 
     ax_trend = fig.add_subplot(gs[2, :3])
@@ -524,16 +523,14 @@ def main():
     # Use same formula as chart: all 7 calendar days as denominator (None = miss)
     week_all = days[-7:]
     denom = max(1, len(week_all))
-    w_ex = round(100 * sum(1 for d in week_all if d["exercise"] is True) / denom)
     w_rd = round(100 * sum(1 for d in week_all if d["read"]     is True) / denom)
     streak = _streak(days)["all"]
 
     caption = (
         f"<b>Weekly KPI Dashboard — {today_str}</b>\n\n"
         f"This week:\n"
-        f"  💪 Exercise:    {w_ex}%\n"
         f"  📚 Reading:     {w_rd}%\n\n"
-        f"🔥 Exercise + reading streak: <b>{streak} day{'s' if streak != 1 else ''}</b>"
+        f"🔥 Reading streak: <b>{streak} day{'s' if streak != 1 else ''}</b>"
     )
 
     send_telegram_photo(image, caption)

@@ -10,6 +10,7 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
   - 2026-05-28: Read; exact page not provided.
   - 2026-05-31: Read today; reached chapter 24.
   - 2026-06-02: Read; exact page not provided.
+  - 2026-06-11: Read today; exact page not provided.
 
 ## Finished
 
@@ -71,4 +72,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-06-03
+- Last updated: 2026-06-11

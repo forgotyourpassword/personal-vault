@@ -1,10 +1,5 @@
 # {{date}}
 
-## Exercise
-- Exercise: 
-- What did I do? 
-- How did it feel? 
-
 ## Reading
 - Reading: 
 - What did I read? 
