@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Family Chore Log</title>
+<style>
+  @page { size: Letter landscape; margin: 0.28in; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111;
+    background: white;
+  }
+  .page { width: 10.44in; min-height: 7.94in; margin: 0 auto; }
+  header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; border-bottom: 2px solid #111; padding-bottom: 6px; }
+  h1 { margin: 0; font-size: 26px; letter-spacing: .2px; }
+  .meta { font-size: 12px; line-height: 1.35; text-align: right; }
+  .meta .line { display: inline-block; border-bottom: 1px solid #111; min-width: 1.25in; height: 14px; vertical-align: bottom; }
+  .rule { font-size: 11px; margin: 0 0 7px; }
+  table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  th, td { border: 1px solid #111; }
+  th { background: #efefef; font-size: 10px; padding: 3px 2px; line-height: 1.1; }
+  th span { font-weight: 400; font-size: 8.5px; }
+  td { height: 31px; vertical-align: top; }
+  .chore { width: 2.25in; font-size: 10.2px; font-weight: 700; padding: 4px 5px; }
+  .price { width: .42in; text-align: center; font-size: 14px; font-weight: 800; padding-top: 7px; }
+  .slot { width: .94in; }
+  .slotcell { padding: 2px 3px; font-size: 8.5px; line-height: 1.25; }
+  .date, .initials { height: 13px; border-bottom: 1px solid #bbb; }
+  .initials { border-bottom: none; }
+  footer { display: grid; grid-template-columns: 1.55fr 1fr; gap: 10px; margin-top: 7px; }
+  .box { border: 1px solid #111; padding: 5px 7px; min-height: 55px; }
+  .box h2 { margin: 0 0 4px; font-size: 12px; }
+  .box p { margin: 2px 0; font-size: 10.5px; line-height: 1.25; }
+  .totals { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+  .total-line { font-size: 10.5px; }
+  .blank { display:inline-block; border-bottom:1px solid #111; min-width:.55in; height:12px; vertical-align:bottom; }
+  .small { font-size: 9.5px; color: #333; }
+  @media print { body { print-color-adjust: exact; -webkit-print-color-adjust: exact; } .page { width: auto; } }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div>
+      <h1>Family Chore Log</h1>
+      <div class="rule">Write the date and your initials after a parent says the chore is done. Payment is based on checked entries.</div>
+    </div>
+    <div class="meta">
+      Week of: <span class="line"></span><br>
+      Parent check initials: <span class="line"></span>
+    </div>
+  </header>
+
+  <table>
+    <thead>
+      <tr><th class="chore">Chore</th><th class="price">Pay</th><th class="slot">Done 1<br><span>Date / Initials</span></th><th class="slot">Done 2<br><span>Date / Initials</span></th><th class="slot">Done 3<br><span>Date / Initials</span></th><th class="slot">Done 4<br><span>Date / Initials</span></th><th class="slot">Done 5<br><span>Date / Initials</span></th><th class="slot">Done 6<br><span>Date / Initials</span></th><th class="slot">Done 7<br><span>Date / Initials</span></th><th class="slot">Done 8<br><span>Date / Initials</span></th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="chore">Bathroom supply reset</td><td class="price">$1</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Clean master bathroom</td><td class="price">$5</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Clean kids bathroom</td><td class="price">$5</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Clean powder room</td><td class="price">$3</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Vacuum and mop first level floor</td><td class="price">$5</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Clean toys off basement floor</td><td class="price">$2</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Vacuum and mop basement floor</td><td class="price">$5</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Daily empty litter boxes</td><td class="price">$1</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Vacuum upstairs hallway carpets</td><td class="price">$1</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Empty small trash cans around the house</td><td class="price">$1</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Take kitchen trash bag to outside bin</td><td class="price">$1</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Load dishwasher</td><td class="price">$2</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Unload dishwasher</td><td class="price">$2</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Wipe kitchen counters</td><td class="price">$2</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr><tr><td class="chore">Refill pet water bowls</td><td class="price">$1</td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td><td class="slotcell"><div class="date">Date:</div><div class="initials">Init:</div></td></tr>
+    </tbody>
+  </table>
+
+  <footer>
+    <div class="box">
+      <h2>Tally rule</h2>
+      <p>For each kid: count their initials on each chore row × the listed price. Example: 3 dishwasher unloads × $2 = $6.</p>
+      <p class="small">Only count entries that pass the parent check. No parent check, no payout. Brutal, fair, effective.</p>
+    </div>
+    <div class="box">
+      <h2>Amount owed</h2>
+      <div class="totals">
+        <div class="total-line">Connor<br>$ <span class="blank"></span></div>
+        <div class="total-line">Madison<br>$ <span class="blank"></span></div>
+        <div class="total-line">McKenzie<br>$ <span class="blank"></span></div>
+      </div>
+    </div>
+  </footer>
+</div>
+</body>
+</html>

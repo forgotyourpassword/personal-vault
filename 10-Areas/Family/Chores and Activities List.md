@@ -8,15 +8,17 @@ tags:
 
 # Chores and Activities List
 
-Kid-friendly chore and activity menu with simple instructions, estimated time, and allowance fee.
+Kid-friendly repetitive chore menu with simple instructions, estimated time, and allowance fee. One-off projects and adult/safety-heavy work stay off this active list.
 
 Quartz: http://192.168.1.223:8080/10-Areas/Family/Chores-and-Activities-List
+
+Printable log: [[Printable Chore Log]]
 
 ---
 
 ## How to use this list
 
-Each chore should be written so a kid can understand what “done” means without needing a parent to explain every step.
+Each chore should be repetitive, safe enough for the kids to do, and written so a kid can understand what “done” means without needing a parent to explain every step.
 
 Use this format:
 
@@ -42,40 +44,10 @@ Payment rule: allowance is paid when the parent check is met, not just when the 
 
 ## Available chores
 
-### Clean wall spots in one room
-- Status: available
-- Estimated time: 20-30 minutes
-- Allowance fee: TBD
-- Good for: any kid
-- Related project: [[20-Projects/Home/Project - Clean Walls Throughout House]]
-- Parent check: visible marks are cleaned, no wall damage, supplies are put away
-
-Steps:
-1. Pick one room or wall section with Dad or Mom.
-2. Get the approved sponge/cloth and cleaner.
-3. Gently wipe the marked spots without scrubbing hard enough to damage paint.
-4. Dry the area with a clean towel if needed.
-5. Put supplies away and ask for a parent check.
-
-### Backyard hill cleanup helper
-- Status: available
-- Estimated time: 30-45 minutes
-- Allowance fee: TBD
-- Good for: Madison / McKenzie / any kid with gloves
-- Related project: [[20-Projects/Home/Project - Weed and Clean Up Backyard Hill]]
-- Parent check: assigned section is picked up, weeds/debris are bagged, tools are returned
-
-Steps:
-1. Put on gloves and shoes that can get dirty.
-2. Work only in the section Dad or Mom assigns.
-3. Pull small weeds or collect loose sticks/debris.
-4. Put weeds/debris into the yard bag or pile.
-5. Return tools and ask for a parent check.
-
 ### Bathroom supply reset
 - Status: available
 - Estimated time: 10-15 minutes
-- Allowance fee: TBD
+- Allowance fee: $1
 - Good for: Connor / Madison / McKenzie
 - Related area: [[10-Areas/Home/Areas/Area - Kids Bathroom]]
 - Parent check: toilet paper, towels, trash, and counter are handled
@@ -90,7 +62,7 @@ Steps:
 ### Clean master bathroom
 - Status: available
 - Estimated time: 45-60 minutes
-- Allowance fee: TBD
+- Allowance fee: $5
 - Good for: Madison / McKenzie / any kid ready for a bigger chore
 - Related area: [[10-Areas/Home/Areas/Area - Master Bathroom]]
 - Parent check: sink, tub, floor, toilet, and mirror are visibly clean; supplies are put away; trash/dirty towels are handled
@@ -105,7 +77,7 @@ Steps:
 ### Clean kids bathroom
 - Status: available
 - Estimated time: 45-60 minutes
-- Allowance fee: TBD
+- Allowance fee: $5
 - Good for: Madison / McKenzie / Connor with help
 - Related area: [[10-Areas/Home/Areas/Area - Kids Bathroom]]
 - Parent check: sink, tub, floor, toilet, and mirror are visibly clean; supplies are put away; trash/dirty towels are handled
@@ -120,7 +92,7 @@ Steps:
 ### Clean powder room
 - Status: available
 - Estimated time: 25-35 minutes
-- Allowance fee: TBD
+- Allowance fee: $3
 - Good for: Connor / Madison / McKenzie
 - Related area: [[10-Areas/Home/Areas/Area - Whole House]]
 - Parent check: sink, floor, toilet, and mirror are visibly clean; supplies are put away; trash is handled
@@ -135,7 +107,7 @@ Steps:
 ### Vacuum and mop first level floor
 - Status: available
 - Estimated time: 45-60 minutes
-- Allowance fee: TBD
+- Allowance fee: $5
 - Good for: Madison / McKenzie / Connor with help
 - Related area: [[10-Areas/Home/Areas/Area - Whole House]]
 - Parent check: first level floor is picked up, vacuumed, mopped, and supplies are put away
@@ -150,7 +122,7 @@ Steps:
 ### Clean toys off basement floor
 - Status: available
 - Estimated time: 15-25 minutes
-- Allowance fee: TBD
+- Allowance fee: $2
 - Good for: Connor / Madison / McKenzie
 - Related area: [[10-Areas/Home/Areas/Area - Basement]]
 - Parent check: toys are off the floor and put in the right bins/places
@@ -165,7 +137,7 @@ Steps:
 ### Vacuum and mop basement floor
 - Status: available
 - Estimated time: 45-60 minutes
-- Allowance fee: TBD
+- Allowance fee: $5
 - Good for: Madison / McKenzie / Connor with help
 - Related area: [[10-Areas/Home/Areas/Area - Basement]]
 - Parent check: basement floor is picked up, vacuumed, mopped, and supplies are put away
@@ -180,7 +152,7 @@ Steps:
 ### Daily empty litter boxes
 - Status: available
 - Estimated time: 5-10 minutes
-- Allowance fee: TBD
+- Allowance fee: $1
 - Good for: Madison / McKenzie / Connor with help
 - Parent check: litter boxes are scooped, waste is thrown away, and the area is clean
 
@@ -194,7 +166,7 @@ Steps:
 ### Vacuum upstairs hallway carpets
 - Status: available
 - Estimated time: 10-20 minutes
-- Allowance fee: TBD
+- Allowance fee: $1
 - Good for: Connor / Madison / McKenzie
 - Related area: [[10-Areas/Home/Areas/Area - Top Floor]]
 - Parent check: hallway carpet is picked up, vacuumed, and vacuum is put away
@@ -205,6 +177,95 @@ Steps:
 3. Vacuum the hallway slowly in straight lines.
 4. Get the edges and high-traffic spots.
 5. Put the vacuum away and ask for a parent check.
+
+### Empty small trash cans around the house
+- Status: available
+- Estimated time: 10-15 minutes
+- Allowance fee: $1
+- Good for: Connor / Madison / McKenzie
+- Related area: [[10-Areas/Home/Areas/Area - Whole House]]
+- Parent check: small trash cans are emptied into the main trash and bags are replaced if needed
+
+Steps:
+1. Check the small trash cans in bathrooms, bedrooms, and other rooms Dad or Mom assigns.
+2. Empty each small trash can into the main trash bag.
+3. Replace the small trash bag if it is dirty or missing.
+4. Pick up any trash that falls out.
+5. Ask for a parent check.
+
+### Take kitchen trash bag to outside bin
+- Status: available
+- Estimated time: 5-10 minutes
+- Allowance fee: $1
+- Good for: Connor / Madison / McKenzie
+- Related area: [[10-Areas/Home/Areas/Area - Kitchen]]
+- Parent check: full kitchen trash bag is tied, taken to the outside bin, and a new bag is placed in the can
+
+Steps:
+1. Tie the full kitchen trash bag closed.
+2. Carry it carefully to the outside trash bin.
+3. Put the bag fully inside the bin and close the lid.
+4. Put a new trash bag in the kitchen trash can.
+5. Wash hands and ask for a parent check.
+
+### Load dishwasher
+- Status: available
+- Estimated time: 10-15 minutes
+- Allowance fee: $2
+- Good for: Connor / Madison / McKenzie
+- Related area: [[10-Areas/Home/Areas/Area - Kitchen]]
+- Parent check: dishwasher is loaded correctly, sink is clear of dishwasher-safe dishes, and sharp items are handled safely or left for a parent
+
+Steps:
+1. Put plates, bowls, cups, and silverware into the dishwasher neatly.
+2. Leave knives or sharp items for Dad or Mom if needed.
+3. Rinse or scrape dishes only if they need it.
+4. Check that nothing blocks the spinning arm.
+5. Ask for a parent check before starting the dishwasher.
+
+### Unload dishwasher
+- Status: available
+- Estimated time: 10-15 minutes
+- Allowance fee: $2
+- Good for: Connor / Madison / McKenzie
+- Related area: [[10-Areas/Home/Areas/Area - Kitchen]]
+- Parent check: clean dishes are put in the correct places and anything confusing is grouped for a parent
+
+Steps:
+1. Make sure the dishes are clean and cool enough to touch.
+2. Put plates, bowls, cups, and silverware where they belong.
+3. Leave sharp or breakable items for Dad or Mom if needed.
+4. Put anything confusing in one parent-check spot.
+5. Close the dishwasher and ask for a parent check.
+
+### Wipe kitchen counters
+- Status: available
+- Estimated time: 10-15 minutes
+- Allowance fee: $2
+- Good for: Connor / Madison / McKenzie
+- Related area: [[10-Areas/Home/Areas/Area - Kitchen]]
+- Parent check: counters are cleared, crumbs are wiped up, sticky spots are gone, and supplies are put away
+
+Steps:
+1. Move dishes, papers, and clutter to the correct spot or a parent-check pile.
+2. Use the approved cloth or wipe for the counters.
+3. Wipe crumbs and sticky spots from the counters.
+4. Throw away trash and put the cloth or wipes away.
+5. Ask for a parent check.
+
+### Refill pet water bowls
+- Status: available
+- Estimated time: 5-10 minutes
+- Allowance fee: $1
+- Good for: Connor / Madison / McKenzie
+- Parent check: pet water bowls are rinsed if needed and filled with fresh water
+
+Steps:
+1. Pick up each pet water bowl carefully.
+2. Dump old water into the sink.
+3. Rinse the bowl if it looks dirty.
+4. Fill it with fresh water and put it back where it belongs.
+5. Wipe spills and ask for a parent check.
 
 ### Clean your bedroom
 - Status: available
@@ -234,24 +295,36 @@ Steps:
 4. Put anything dirty into the hamper.
 5. Return the empty basket and ask for a parent check.
 
-### Touch up front door paint scratches
-- Status: available
-- Estimated time: 30-45 minutes
-- Allowance fee: TBD
-- Good for: Madison / McKenzie / Connor with close parent help
-- Related area: [[10-Areas/Home/Areas/Area - Exterior]]
-- Parent check: scratched spots are clean, touched up neatly, no paint is on hardware/glass/floor, and supplies are put away
-
-Steps:
-1. Show Dad or Mom the scratched spots before starting.
-2. Wipe the scratched area clean and let it dry.
-3. Put painter’s tape around hardware, glass, or edges if a parent says to.
-4. Use a small brush to touch up only the scratched spots with the approved paint.
-5. Let it dry, clean up any drips right away, put supplies away, and ask for a parent check.
-
 ---
 
-## Retired / completed chores
+## Paused / one-off / completed chores
+
+### Clean wall spots in one room
+- Status: paused — one-off/project chore, not part of the repetitive allowance list
+- Estimated time: 20-30 minutes
+- Allowance fee: not active
+- Related project: [[20-Projects/Home/Project - Clean Walls Throughout House]]
+
+Notes:
+- Can be used as an occasional project chore, but it is not a normal repeating allowance chore.
+
+### Backyard hill cleanup helper
+- Status: paused — outdoor/project chore, not part of the repetitive allowance list
+- Estimated time: 30-45 minutes
+- Allowance fee: not active
+- Related project: [[20-Projects/Home/Project - Weed and Clean Up Backyard Hill]]
+
+Notes:
+- Can be used as an occasional supervised project chore, but it is not a normal repeating allowance chore.
+
+### Touch up front door paint scratches
+- Status: paused — paint/safety chore, not part of the repetitive allowance list
+- Estimated time: 30-45 minutes
+- Allowance fee: not active
+- Related area: [[10-Areas/Home/Areas/Area - Exterior]]
+
+Notes:
+- Requires close parent help and is better treated as a supervised project, not a repeating kid allowance chore.
 
 ### Take old bed to dump
 - Status: completed / retired
