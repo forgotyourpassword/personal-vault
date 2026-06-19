@@ -26,6 +26,8 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 ### Fiction
 
 - *King Sorrow* — Joe Hill
+- *Dungeon Crawler Carl* — Matt Dinniman
+  - A fast, absurd LitRPG/dungeon-crawl series opener about a man and his ex-girlfriend’s cat surviving a televised alien dungeon apocalypse. Good candidate when you want high-velocity fun rather than another business book yelling frameworks at you.
 
 ### Biography / Engineering / Aviation
 
@@ -65,6 +67,11 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 - *How to Make a Few More Billion Dollars* — Brad Jacobs
   - A follow-up from Jacobs focused on continuing the company-building playbook: acquisitions, leadership, capital allocation, and repeatable operating systems. Worth reading if the first book lands, especially for translating founder/operator thinking into Harbor View-style growth systems.
 
+### Personal Development / Philosophy
+
+- *The Four Agreements* — Don Miguel Ruiz
+  - A short practical philosophy book built around four commitments: be impeccable with your word, do not take anything personally, do not make assumptions, and always do your best. Useful as a lightweight operating code for reducing unnecessary friction, drama, and self-inflicted noise.
+
 ## Reading Priority
 
 1. Finish *Steve Jobs*.
@@ -72,4 +79,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-06-11
+- Last updated: 2026-06-18
