@@ -62,6 +62,8 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
   - Blanchard and O’Connor argue that strong organizations need shared values that are clearly chosen, communicated, and turned into daily behavior. The book focuses on aligning people, decisions, and leadership around principles instead of managing only by rules, targets, or crisis. Useful if you want a simple operating philosophy for culture, accountability, and decision-making.
 - *The Coaching Habit* — Michael Bungay Stanier
   - A practical coaching book built around seven simple questions that help managers coach more often and with less friction. Its useful angle is replacing reflexive advice-giving with better questions, clearer ownership, and shorter, more effective coaching conversations.
+- *Crucial Conversations: Tools for Talking When Stakes Are High* — Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, and Emily Gregory
+  - A practical communication book for handling high-stakes, emotionally loaded conversations without avoidance, defensiveness, or escalation. Strong fit for leadership, sales, family systems, and any moment where clarity matters but people are likely to get weird.
 - *How to Make a Few Billion Dollars* — Brad Jacobs
   - Jacobs founded and led XPO Logistics and writes about building large companies through dealmaking, operating discipline, talent, incentives, and pattern recognition. This fits the business-growth lane: practical operator lessons from someone who actually compounded companies at scale.
 - *How to Make a Few More Billion Dollars* — Brad Jacobs
@@ -79,4 +81,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-06-18
+- Last updated: 2026-06-19
