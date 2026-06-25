@@ -227,6 +227,38 @@ Copy the login URL to a browser machine, log in, then copy the final Continue li
 nordvpn login --callback 'nordvpn://login?action=login&exchange_token=<TOKEN>&redirect_upon_open=1&return=1'
 ```
 
+## Audiobooks category
+
+On 2026-06-24, Hermes added an `audiobooks` qBittorrent category and created the matching Office media folder.
+
+Category:
+
+```text
+audiobooks
+```
+
+Save path:
+
+```text
+/mnt/office-d/Media/Audiobooks
+```
+
+Office media layout now includes:
+
+```text
+/mnt/office-d/Media/Audiobooks
+```
+
+qBittorrent API verification returned:
+
+```json
+{"audiobooks":{"name":"audiobooks","savePath":"/mnt/office-d/Media/Audiobooks"}}
+```
+
+Use this category for legal/public-domain audiobook torrents so completed files land peer to Movies and TV in the Office media folder.
+
+Note: Hermes refused to locate or download copyrighted audiobook torrents from AudiobookBay. That refusal is intentional policy behavior, not a qBittorrent configuration problem.
+
 ## Remaining housekeeping
 
 - Set a permanent qBittorrent Web UI password. Until then, qBittorrent generates a temporary admin password on restart.
