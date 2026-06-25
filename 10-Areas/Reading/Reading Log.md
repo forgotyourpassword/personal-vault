@@ -28,6 +28,8 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 - *King Sorrow* — Joe Hill
 - *Dungeon Crawler Carl* — Matt Dinniman
   - A fast, absurd LitRPG/dungeon-crawl series opener about a man and his ex-girlfriend’s cat surviving a televised alien dungeon apocalypse. Good candidate when you want high-velocity fun rather than another business book yelling frameworks at you.
+- *Lonesome Dove* — Larry McMurtry
+  - A Pulitzer Prize-winning western about retired Texas Rangers driving cattle from Texas to Montana. Big, character-heavy, and mythic without being tidy. Good candidate when you want fiction with real emotional weight instead of lightweight escapism.
 
 ### Biography / Engineering / Aviation
 
@@ -73,6 +75,10 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 - *The Four Agreements* — Don Miguel Ruiz
   - A short practical philosophy book built around four commitments: be impeccable with your word, do not take anything personally, do not make assumptions, and always do your best. Useful as a lightweight operating code for reducing unnecessary friction, drama, and self-inflicted noise.
+- *The Comfort Crisis* — Michael Easter
+  - Easter argues that modern comfort quietly weakens health, resilience, attention, and meaning. The book uses outdoor challenge, exercise science, and anthropology to make the case for deliberately choosing harder things in a smart, sustainable way.
+- *The Courage to Be Disliked* — Ichiro Kishimi and Fumitake Koga
+  - A dialogue-style introduction to Adlerian psychology about freedom, responsibility, interpersonal relationships, and not living under other people’s approval. Likely useful as a clean philosophical counterweight to people-pleasing and status noise.
 
 ## Reading Priority
 
@@ -81,4 +87,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-06-19
+- Last updated: 2026-06-24
