@@ -79,6 +79,8 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
   - Easter argues that modern comfort quietly weakens health, resilience, attention, and meaning. The book uses outdoor challenge, exercise science, and anthropology to make the case for deliberately choosing harder things in a smart, sustainable way.
 - *The Courage to Be Disliked* — Ichiro Kishimi and Fumitake Koga
   - A dialogue-style introduction to Adlerian psychology about freedom, responsibility, interpersonal relationships, and not living under other people’s approval. Likely useful as a clean philosophical counterweight to people-pleasing and status noise.
+- *Can’t Hurt Me* — David Goggins
+  - Added 2026-06-27. Goggins’s memoir and mental toughness playbook about discipline, endurance, self-accountability, and deliberately doing hard things. Good fit for the resilience/fitness lane, with the obvious caveat that “push harder” needs judgment, not injury cosplay.
 
 ## Reading Priority
 
@@ -87,4 +89,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-06-24
+- Last updated: 2026-06-27
