@@ -82,6 +82,31 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 - *Can’t Hurt Me* — David Goggins
   - Added 2026-06-27. Goggins’s memoir and mental toughness playbook about discipline, endurance, self-accountability, and deliberately doing hard things. Good fit for the resilience/fitness lane, with the obvious caveat that “push harder” needs judgment, not injury cosplay.
 
+### Reddit 500-book Recommendations (added 2026-06-30)
+
+- *A Confederacy of Dunces* — John Kennedy Toole
+  - Comic literary novel. Added from Reddit recommendation emphasizing how funny and accessible it is.
+- *Catch-22* — Joseph Heller
+  - Satirical war novel. Added from Reddit recommendation highlighting its cleverness and laugh-out-loud absurdity.
+- *Siddhartha* — Hermann Hesse
+  - Philosophical novel about spiritual searching, Buddhism-adjacent ideas, fasting, meditation, and self-renewal.
+- *The Stranger* — Albert Camus
+  - Existentialist novel. Added from Reddit recommendation noting its unsettling force and deprogramming effect.
+- *Rebecca* — Daphne du Maurier
+  - Gothic psychological novel. Added from Reddit recommendation praising the prose, mood, and women-writing-women perspective.
+- *Underworld* — Don DeLillo
+  - Postmodern historical fiction. Added as a big, rich retirement-style read and a possible gateway into DeLillo.
+- *Love in the Time of Cholera* — Gabriel García Márquez
+  - Magical realism / literary fiction. Added as part of the Márquez pair from the Reddit list.
+- *One Hundred Years of Solitude* — Gabriel García Márquez
+  - Magical realism classic. Added as part of the Márquez pair from the Reddit list.
+- *The Warmth of Other Suns* — Isabel Wilkerson
+  - Narrative nonfiction on the Great Migration, centered on lived American history through ordinary lives.
+- *Housekeeping* — Marilynne Robinson
+  - Literary novel. Added from Reddit recommendation emphasizing emotional resonance, transience, and women writing women.
+- *The Rings of Saturn* — W. G. Sebald
+  - Meditative, avant-garde literary travel/history hybrid. Added as an off-radar stargazing/trippy recommendation.
+
 ## Reading Priority
 
 1. Finish *Steve Jobs*.
@@ -89,4 +114,4 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-06-27
+- Last updated: 2026-06-30
