@@ -114,4 +114,5 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ## Notes
 
-- Last updated: 2026-06-30
+- Last updated: 2026-07-01
+- *The Coaching Habit* — MOBI ebook obtained from LibGen via Anna's Archive on 2026-07-01, sent to Kindle

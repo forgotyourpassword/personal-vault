@@ -1,0 +1,9 @@
+From: michaelmolloy89@gmail.com
+To: michaelmolloy89@kindle.com
+Subject: The Coaching Habit
+
+<#multipart type=mixed>
+<#part type=text/plain>
+Here's The Coaching Habit by Michael Bungay Stanier.
+<#part filename=/home/mike/vault/30-Resources/Attachments/The Coaching Habit.mobi><#/part>
+<#/multipart>
