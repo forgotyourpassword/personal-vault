@@ -73,6 +73,8 @@ Quartz: http://192.168.1.223:8080/10-Areas/Reading/Reading-Log
 
 ### Personal Development / Philosophy
 
+- *Meditations* — Marcus Aurelius
+  - Classic Stoic text on resilience, perspective, duty, and living in accordance with nature. Strong fit for the philosophy/personal development lane when you want grounded mental models rather than motivational noise.
 - *The Four Agreements* — Don Miguel Ruiz
   - A short practical philosophy book built around four commitments: be impeccable with your word, do not take anything personally, do not make assumptions, and always do your best. Useful as a lightweight operating code for reducing unnecessary friction, drama, and self-inflicted noise.
 - *The Comfort Crisis* — Michael Easter
